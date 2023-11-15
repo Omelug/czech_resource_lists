@@ -1,0 +1,3 @@
+[submodule "audioknihy"]
+	path = audioknihy
+	url = https://github.com/Omelug/czech_resource_lists.git
