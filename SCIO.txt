@@ -1,0 +1,1296 @@
+../../SCIO
+├── MAT
+│   ├── 2013 - Prosinec
+│   │   ├── Matematika-Scio-2013-Prosinec.pdf
+│   │   └── Reseni.txt
+│   ├── 2014 - Cerven
+│   │   ├── Matematika-Scio-2014.pdf
+│   │   └── Reseni.txt
+│   ├── 2017 - Unor
+│   │   ├── MAT-unor-2017.pdf
+│   │   ├── Scio_NSZ_MAT_2017_04.pdf
+│   │   └── Scio_NSZ_MAT_2017_05.pdf
+│   ├── 2019
+│   │   ├── Matika-brezen.docx
+│   │   ├── Matika-duben.docx
+│   │   └── matika-unor.docx
+│   ├── 2020_2021
+│   │   ├── MAT_NSZ_2020_2021_T5.docx
+│   │   └── reseni_MAT_NSZ_2020_2021_T5.pdf
+│   ├── 2021_2022
+│   │   ├── MAT_NSZ_2021_2022_T3.pdf
+│   │   ├── MAT_NSZ_2021_2022_T4.docx
+│   │   ├── MAT_NSZ_2021_2022_T4.pdf
+│   │   └── MAT_NSZ_2021_2022_T5_dubenII_08_naWeb_sTitulkou.pdf
+│   ├── 2022
+│   │   ├── 2022_1
+│   │   │   ├── GetVOPImage10.gif
+│   │   │   ├── GetVOPImage11.gif
+│   │   │   ├── GetVOPImage12.gif
+│   │   │   ├── GetVOPImage13.gif
+│   │   │   ├── GetVOPImage14.gif
+│   │   │   ├── GetVOPImage15.gif
+│   │   │   ├── GetVOPImage16.gif
+│   │   │   ├── GetVOPImage17.gif
+│   │   │   ├── GetVOPImage18.gif
+│   │   │   ├── GetVOPImage19.gif
+│   │   │   ├── GetVOPImage20.gif
+│   │   │   ├── GetVOPImage21.gif
+│   │   │   ├── GetVOPImage22.gif
+│   │   │   ├── GetVOPImage23.gif
+│   │   │   ├── GetVOPImage24.gif
+│   │   │   ├── GetVOPImage25.gif
+│   │   │   ├── GetVOPImage26.gif
+│   │   │   ├── GetVOPImage27.gif
+│   │   │   ├── GetVOPImage28.gif
+│   │   │   ├── GetVOPImage29.gif
+│   │   │   ├── GetVOPImage2.gif
+│   │   │   ├── GetVOPImage30.gif
+│   │   │   ├── GetVOPImage31.gif
+│   │   │   ├── GetVOPImage32.gif
+│   │   │   ├── GetVOPImage33.gif
+│   │   │   ├── GetVOPImage34.gif
+│   │   │   ├── GetVOPImage35.gif
+│   │   │   ├── GetVOPImage3.gif
+│   │   │   ├── GetVOPImage4.gif
+│   │   │   ├── GetVOPImage5.gif
+│   │   │   ├── GetVOPImage6.gif
+│   │   │   ├── GetVOPImage7.gif
+│   │   │   ├── GetVOPImage8.gif
+│   │   │   ├── GetVOPImage9.gif
+│   │   │   ├── GetVOPImage.gif
+│   │   │   └── odpovede.png
+│   │   └── 2022_2
+│   │       ├── GetVOPImage10.gif
+│   │       ├── GetVOPImage11.gif
+│   │       ├── GetVOPImage12.gif
+│   │       ├── GetVOPImage13.gif
+│   │       ├── GetVOPImage14.gif
+│   │       ├── GetVOPImage15.gif
+│   │       ├── GetVOPImage16.gif
+│   │       ├── GetVOPImage17.gif
+│   │       ├── GetVOPImage18.gif
+│   │       ├── GetVOPImage19.gif
+│   │       ├── GetVOPImage20.gif
+│   │       ├── GetVOPImage21.gif
+│   │       ├── GetVOPImage22.gif
+│   │       ├── GetVOPImage23.gif
+│   │       ├── GetVOPImage24.gif
+│   │       ├── GetVOPImage25.gif
+│   │       ├── GetVOPImage26.gif
+│   │       ├── GetVOPImage27.gif
+│   │       ├── GetVOPImage28.gif
+│   │       ├── GetVOPImage29.gif
+│   │       ├── GetVOPImage2.gif
+│   │       ├── GetVOPImage30.gif
+│   │       ├── GetVOPImage31.gif
+│   │       ├── GetVOPImage32.gif
+│   │       ├── GetVOPImage33.gif
+│   │       ├── GetVOPImage34.gif
+│   │       ├── GetVOPImage35.gif
+│   │       ├── GetVOPImage3.gif
+│   │       ├── GetVOPImage4.gif
+│   │       ├── GetVOPImage5.gif
+│   │       ├── GetVOPImage6.gif
+│   │       ├── GetVOPImage7.gif
+│   │       ├── GetVOPImage8.gif
+│   │       ├── GetVOPImage9.gif
+│   │       ├── GetVOPImage.gif
+│   │       ├── percentil.png
+│   │       └── Výsledky.png
+│   ├── 2022_2023
+│   │   └── reseni_MAT_NSZ_2022_2023_T2 (copy).pdf
+│   ├── 2023
+│   │   ├── MAT_NSZ_2022_2023_T3_brezen.pdf
+│   │   ├── MAT_NSZ_2022_2023_T4_dubenI_komplet.pdf
+│   │   ├── Reseni_NSZ_2022_2023_T3.pdf
+│   │   └── Reseni_NSZ_2022_2023_T4.pdf
+│   ├── scio.docx
+│   ├── scio_MAT_cvicebnice.pdf
+│   ├── ukazka-vzorce.jpg
+│   └── Vzorce.jpg
+├── OSP
+│   ├── 2005
+│   │   ├── osp_verze_A.pdf
+│   │   ├── osp_verze_B.pdf
+│   │   └── vysledky.pdf
+│   ├── 2006
+│   │   ├── kveten 2006 odpovedi.doc
+│   │   ├── kveten OSP A.pdf
+│   │   └── kveten OSP B.pdf
+│   ├── 2007 - 2008
+│   │   ├── březen 2007
+│   │   │   ├── brezen osp-a-2007.pdf
+│   │   │   ├── brezen osp-b-2007.pdf
+│   │   │   ├── odpovedi osp-a-r-2007.htm
+│   │   │   └── odpovedi osp-b-r-2007.htm
+│   │   ├── OSP_komplet.pdf
+│   │   ├── percentilove tabulky [2008]
+│   │   │   ├── 08NSZ_III_OSP_A__percentil.pdf
+│   │   │   ├── 08NSZ_III_OSP_B__percentil.pdf
+│   │   │   ├── 08NSZ_II_OSP_A__percentil.pdf
+│   │   │   ├── 08NSZ_II_OSP_B__percentil.pdf
+│   │   │   ├── 08NSZ_I_OSP_A__percentil.pdf
+│   │   │   ├── 08NSZ_I_OSP_B__percentil.pdf
+│   │   │   ├── 08NSZ_I_skutecny_percentil.pdf
+│   │   │   ├── 08NSZ_IV_OSP_A__percentil.pdf
+│   │   │   ├── 08NSZ_IV_OSP_B__percentil.pdf
+│   │   │   ├── 08NSZ_IV_ZSV_A__percentil.pdf
+│   │   │   ├── 08NSZ_IV_ZSV_B__percentil.pdf
+│   │   │   ├── 08NSZ_V_OSP_A__percentil.pdf
+│   │   │   ├── 08NSZ_V_OSP_B__percentil.pdf
+│   │   │   └── percentil_info.doc
+│   │   └── prosinec 2008
+│   │       └── OSP_prosinec2008_B.pdf
+│   ├── 2009
+│   │   ├── březen 2009
+│   │   │   ├── BŘEZEN 2009 A.doc
+│   │   │   └── OSP březen 2009 B.doc
+│   │   ├── duben 2009
+│   │   │   ├── OSP duben 2009 A.doc
+│   │   │   └── OSP duben 2009 B.doc
+│   │   ├── květen 2009
+│   │   │   ├── OSP květen 2009 A.doc
+│   │   │   └── OSP_kveten2009_B.pdf
+│   │   └── únor 2009
+│   │       ├── OSP_unor2009_A.pdf
+│   │       └── OSP_unor2009_B.pdf
+│   ├── 2010
+│   │   ├── OSP 2010.pdf
+│   │   ├── OSP březen 2010.doc
+│   │   ├── OSP kveten 2010 - analyt. + kvantitat..doc
+│   │   └── OSP unor 2010.doc
+│   ├── 2011
+│   │   ├── osp r 1.4.2011 B.doc
+│   │   ├── OSP R 28.5. A.doc
+│   │   ├── OSP R 30.duben 2011.doc
+│   │   ├── OSP R brezen 2011 B.doc
+│   │   ├── osp unor 2011 A.doc
+│   │   ├── OSP Z brezen 2011 A.doc
+│   │   └── PROSINEC 2010 OSP Z.doc
+│   ├── 2013
+│   │   ├── SCIO 6. duben 2013.pdf
+│   │   ├── SCIO březen 2013.pdf
+│   │   └── scio-osp+zsv-komplet-kveten-2013.pdf
+│   ├── 2014
+│   │   ├── 14NSZ_1_OSP_A__percentil.pdf
+│   │   ├── 14NSZ_2_OSP_A__percentil.pdf
+│   │   ├── 14NSZ_2_OSP_B__percentil.pdf
+│   │   ├── cvičný 2014
+│   │   │   ├── OSP-cvičný-2014.pdf
+│   │   │   └── výsledky cvičného testu OSP 2014.txt
+│   │   ├── NSZ 8.2.2014 2
+│   │   │   └── OSPdělal verb. log. arg
+│   │   │       ├── ~$Výsledky.xlsx
+│   │   │       ├── Argumentační oddíl- dělal
+│   │   │       │   ├── scrn_10.png
+│   │   │       │   ├── scrn_11.png
+│   │   │       │   ├── scrn_12.png
+│   │   │       │   ├── scrn_13.png
+│   │   │       │   ├── scrn_14.png
+│   │   │       │   ├── scrn_15.png
+│   │   │       │   ├── scrn_16.png
+│   │   │       │   ├── scrn_17.png
+│   │   │       │   ├── scrn_18.png
+│   │   │       │   ├── scrn_19.png
+│   │   │       │   ├── scrn_1.png
+│   │   │       │   ├── scrn_20.png
+│   │   │       │   ├── scrn_21.png
+│   │   │       │   ├── scrn_22.png
+│   │   │       │   ├── scrn_2.png
+│   │   │       │   ├── scrn_3.png
+│   │   │       │   ├── scrn_4.png
+│   │   │       │   ├── scrn_5.png
+│   │   │       │   ├── scrn_6.png
+│   │   │       │   ├── scrn_7.png
+│   │   │       │   ├── scrn_8.png
+│   │   │       │   ├── scrn_9.png
+│   │   │       │   └── Thumbs.db
+│   │   │       ├── Kvantitativní oddíl
+│   │   │       │   ├── scrn_10.png
+│   │   │       │   ├── scrn_11.png
+│   │   │       │   ├── scrn_12.png
+│   │   │       │   ├── scrn_13.png
+│   │   │       │   ├── scrn_14.png
+│   │   │       │   ├── scrn_15.png
+│   │   │       │   ├── scrn_16.png
+│   │   │       │   ├── scrn_17.png
+│   │   │       │   ├── scrn_18.png
+│   │   │       │   ├── scrn_19.png
+│   │   │       │   ├── scrn_1.jpg
+│   │   │       │   ├── scrn_1.png
+│   │   │       │   ├── scrn_20.png
+│   │   │       │   ├── scrn_21.png
+│   │   │       │   ├── scrn_22.png
+│   │   │       │   ├── scrn_23.png
+│   │   │       │   ├── scrn_2.png
+│   │   │       │   ├── scrn_3.png
+│   │   │       │   ├── scrn_4.png
+│   │   │       │   ├── scrn_5.png
+│   │   │       │   ├── scrn_6.png
+│   │   │       │   ├── scrn_7.png
+│   │   │       │   ├── scrn_9.png
+│   │   │       │   └── Thumbs.db
+│   │   │       ├── Logický oddíl dělal
+│   │   │       │   ├── scrn_10.png
+│   │   │       │   ├── scrn_11.png
+│   │   │       │   ├── scrn_12.png
+│   │   │       │   ├── scrn_13.png
+│   │   │       │   ├── scrn_14.png
+│   │   │       │   ├── scrn_15.png
+│   │   │       │   ├── scrn_16.png
+│   │   │       │   ├── scrn_17.png
+│   │   │       │   ├── scrn_18.png
+│   │   │       │   ├── scrn_19.png
+│   │   │       │   ├── scrn_1.png
+│   │   │       │   ├── scrn_20.png
+│   │   │       │   ├── scrn_21.png
+│   │   │       │   ├── scrn_22.png
+│   │   │       │   ├── scrn_2.png
+│   │   │       │   ├── scrn_3.png
+│   │   │       │   ├── scrn_4.png
+│   │   │       │   ├── scrn_5.png
+│   │   │       │   ├── scrn_6.png
+│   │   │       │   ├── scrn_7.png
+│   │   │       │   ├── scrn_8.png
+│   │   │       │   ├── scrn_9.png
+│   │   │       │   └── Thumbs.db
+│   │   │       ├── Verbální oddíl dělal
+│   │   │       │   ├── scrn_10.png
+│   │   │       │   ├── scrn_11.png
+│   │   │       │   ├── scrn_12.png
+│   │   │       │   ├── scrn_13.png
+│   │   │       │   ├── scrn_14.png
+│   │   │       │   ├── scrn_15.png
+│   │   │       │   ├── scrn_16.png
+│   │   │       │   ├── scrn_17.png
+│   │   │       │   ├── scrn_18.png
+│   │   │       │   ├── scrn_19.png
+│   │   │       │   ├── scrn_1.png
+│   │   │       │   ├── scrn_20.jpg
+│   │   │       │   ├── scrn_21.png
+│   │   │       │   ├── scrn_22.png
+│   │   │       │   ├── scrn_23.png
+│   │   │       │   ├── scrn_2.png
+│   │   │       │   ├── scrn_3.png
+│   │   │       │   ├── scrn_4.png
+│   │   │       │   ├── scrn_5.png
+│   │   │       │   ├── scrn_6.png
+│   │   │       │   ├── scrn_7.png
+│   │   │       │   ├── scrn_8.png
+│   │   │       │   ├── scrn_9.png
+│   │   │       │   └── Thumbs.db
+│   │   │       └── Výsledky.xlsx
+│   │   ├── OSP
+│   │   │   ├── 10.jpg
+│   │   │   ├── 11.jpg
+│   │   │   ├── 12.jpg
+│   │   │   ├── 13.jpg
+│   │   │   ├── 14.jpg
+│   │   │   ├── 15.jpg
+│   │   │   ├── 16.jpg
+│   │   │   ├── 17.jpg
+│   │   │   ├── 18.jpg
+│   │   │   ├── 19.jpg
+│   │   │   ├── 1.jpg
+│   │   │   ├── 20.jpg
+│   │   │   ├── 21.jpg
+│   │   │   ├── 22.jpg
+│   │   │   ├── 23.jpg
+│   │   │   ├── 24.jpg
+│   │   │   ├── 25.jpg
+│   │   │   ├── 26.jpg
+│   │   │   ├── 27.jpg
+│   │   │   ├── 28.jpg
+│   │   │   ├── 29.jpg
+│   │   │   ├── 2.jpg
+│   │   │   ├── 30.jpg
+│   │   │   ├── 31.jpg
+│   │   │   ├── 32.jpg
+│   │   │   ├── 33.jpg
+│   │   │   ├── 34.jpg
+│   │   │   ├── 35.jpg
+│   │   │   ├── 36.jpg
+│   │   │   ├── 37.jpg
+│   │   │   ├── 38.jpg
+│   │   │   ├── 39.jpg
+│   │   │   ├── 3.jpg
+│   │   │   ├── 40.jpg
+│   │   │   ├── 41.jpg
+│   │   │   ├── 42.jpg
+│   │   │   ├── 43.jpg
+│   │   │   ├── 44.jpg
+│   │   │   ├── 45.jpg
+│   │   │   ├── 46.jpg
+│   │   │   ├── 47.jpg
+│   │   │   ├── 48.jpg
+│   │   │   ├── 49.jpg
+│   │   │   ├── 4.jpg
+│   │   │   ├── 50.jpg
+│   │   │   ├── 51-55text.jpg
+│   │   │   ├── 51.jpg
+│   │   │   ├── 52.jpg
+│   │   │   ├── 53.jpg
+│   │   │   ├── 54.jpg
+│   │   │   ├── 55.jpg
+│   │   │   ├── 56.jpg
+│   │   │   ├── 57.jpg
+│   │   │   ├── 58.jpg
+│   │   │   ├── 59.jpg
+│   │   │   ├── 5.jpg
+│   │   │   ├── 60.jpg
+│   │   │   ├── 61.jpg
+│   │   │   ├── 62.jpg
+│   │   │   ├── 63.jpg
+│   │   │   ├── 64.jpg
+│   │   │   ├── 65.jpg
+│   │   │   ├── 66.jpg
+│   │   │   ├── 67.jpg
+│   │   │   ├── 68.jpg
+│   │   │   ├── 69.jpg
+│   │   │   ├── 6.jpg
+│   │   │   ├── 70.jpg
+│   │   │   ├── 71.jpg
+│   │   │   ├── 72.jpg
+│   │   │   ├── 73.jpg
+│   │   │   ├── 74.jpg
+│   │   │   ├── 75.jpg
+│   │   │   ├── 76.jpg
+│   │   │   ├── 77.jpg
+│   │   │   ├── 78.jpg
+│   │   │   ├── 79.jpg
+│   │   │   ├── 7.jpg
+│   │   │   ├── 80.jpg
+│   │   │   ├── 81.jpg
+│   │   │   ├── 82.jpg
+│   │   │   ├── 83.jpg
+│   │   │   ├── 84.jpg
+│   │   │   ├── 85.jpg
+│   │   │   ├── 86.jpg
+│   │   │   ├── 87.jpg
+│   │   │   ├── 88.jpg
+│   │   │   ├── 89.jpg
+│   │   │   ├── 8.jpg
+│   │   │   ├── 90.jpg
+│   │   │   ├── 9.jpg
+│   │   │   ├── Thumbs.db
+│   │   │   └── Výsledky.doc
+│   │   ├── OSP 8.2.2014
+│   │   │   ├── 10.jpg
+│   │   │   ├── 11.jpg
+│   │   │   ├── 12.jpg
+│   │   │   ├── 13.jpg
+│   │   │   ├── 14.jpg
+│   │   │   ├── 15.jpg
+│   │   │   ├── 16.jpg
+│   │   │   ├── 17.jpg
+│   │   │   ├── 18.jpg
+│   │   │   ├── 19.jpg
+│   │   │   ├── 1.jpg
+│   │   │   ├── 20.jpg
+│   │   │   ├── 21.jpg
+│   │   │   ├── 22.jpg
+│   │   │   ├── 23.jpg
+│   │   │   ├── 24.jpg
+│   │   │   ├── 25.jpg
+│   │   │   ├── 26.jpg
+│   │   │   ├── 27.jpg
+│   │   │   ├── 28.jpg
+│   │   │   ├── 29.jpg
+│   │   │   ├── 2.jpg
+│   │   │   ├── 30.jpg
+│   │   │   ├── 31.jpg
+│   │   │   ├── 32.jpg
+│   │   │   ├── 33.jpg
+│   │   │   ├── 34.jpg
+│   │   │   ├── 35.jpg
+│   │   │   ├── 36.jpg
+│   │   │   ├── 37.jpg
+│   │   │   ├── 38.jpg
+│   │   │   ├── 39.jpg
+│   │   │   ├── 3.jpg
+│   │   │   ├── 40.jpg
+│   │   │   ├── 41.bmp
+│   │   │   ├── 42.jpg
+│   │   │   ├── 43.jpg
+│   │   │   ├── 44.jpg
+│   │   │   ├── 45.jpg
+│   │   │   ├── 46.jpg
+│   │   │   ├── 47.jpg
+│   │   │   ├── 48.jpg
+│   │   │   ├── 49.jpg
+│   │   │   ├── 4.jpg
+│   │   │   ├── 50.jpg
+│   │   │   ├── 51.jpg
+│   │   │   ├── 52.jpg
+│   │   │   ├── 53.jpg
+│   │   │   ├── 54.jpg
+│   │   │   ├── 55.jpg
+│   │   │   ├── 56.jpg
+│   │   │   ├── 57.jpg
+│   │   │   ├── 58.jpg
+│   │   │   ├── 59.jpg
+│   │   │   ├── 5.jpg
+│   │   │   ├── 60.jpg
+│   │   │   ├── 61.jpg
+│   │   │   ├── 62.jpg
+│   │   │   ├── 63.jpg
+│   │   │   ├── 64.jpg
+│   │   │   ├── 65.jpg
+│   │   │   ├── 66.jpg
+│   │   │   ├── 67.jpg
+│   │   │   ├── 68.jpg
+│   │   │   ├── 69.jpg
+│   │   │   ├── 6.jpg
+│   │   │   ├── 70.jpg
+│   │   │   ├── 71.jpg
+│   │   │   ├── 72.jpg
+│   │   │   ├── 73.jpg
+│   │   │   ├── 74.jpg
+│   │   │   ├── 75.jpg
+│   │   │   ├── 76.jpg
+│   │   │   ├── 77.jpg
+│   │   │   ├── 78.jpg
+│   │   │   ├── 79.jpg
+│   │   │   ├── 7.jpg
+│   │   │   ├── 80.jpg
+│   │   │   ├── 81.jpg
+│   │   │   ├── 82.jpg
+│   │   │   ├── 83.jpg
+│   │   │   ├── 84.jpg
+│   │   │   ├── 85.jpg
+│   │   │   ├── 86.jpg
+│   │   │   ├── 87.jpg
+│   │   │   ├── 88.jpg
+│   │   │   ├── 89.jpg
+│   │   │   ├── 8.jpg
+│   │   │   ├── 90.jpg
+│   │   │   ├── 9.jpg
+│   │   │   ├── Thumbs.db
+│   │   │   └── Výsledky.doc
+│   │   ├── OSP A 071213.pdf
+│   │   └── OSP B
+│   │       ├── 10.jpg
+│   │       ├── 11.jpg
+│   │       ├── 12.jpg
+│   │       ├── 13.jpg
+│   │       ├── 14.jpg
+│   │       ├── 15.jpg
+│   │       ├── 16.jpg
+│   │       ├── 17.jpg
+│   │       ├── 18.jpg
+│   │       ├── 19.jpg
+│   │       ├── 1.jpg
+│   │       ├── 20.jpg
+│   │       ├── 21.jpg
+│   │       ├── 22.jpg
+│   │       ├── 23.jpg
+│   │       ├── 24.jpg
+│   │       ├── 25.jpg
+│   │       ├── 26.jpg
+│   │       ├── 27.jpg
+│   │       ├── 28.jpg
+│   │       ├── 29.jpg
+│   │       ├── 2.jpg
+│   │       ├── 30.jpg
+│   │       ├── 31.jpg
+│   │       ├── 32.jpg
+│   │       ├── 33.jpg
+│   │       ├── 34.jpg
+│   │       ├── 35.jpg
+│   │       ├── 36.jpg
+│   │       ├── 37.jpg
+│   │       ├── 38.jpg
+│   │       ├── 39.jpg
+│   │       ├── 3.jpg
+│   │       ├── 40.jpg
+│   │       ├── 41.jpg
+│   │       ├── 42.jpg
+│   │       ├── 43.jpg
+│   │       ├── 44.jpg
+│   │       ├── 45.jpg
+│   │       ├── 46.jpg
+│   │       ├── 47.jpg
+│   │       ├── 48.jpg
+│   │       ├── 49.jpg
+│   │       ├── 4.jpg
+│   │       ├── 50.jpg
+│   │       ├── 51.jpg
+│   │       ├── 52.jpg
+│   │       ├── 53.jpg
+│   │       ├── 54.jpg
+│   │       ├── 55.jpg
+│   │       ├── 56.jpg
+│   │       ├── 57.jpg
+│   │       ├── 58.jpg
+│   │       ├── 59.jpg
+│   │       ├── 5.jpg
+│   │       ├── 60.jpg
+│   │       ├── 61.jpg
+│   │       ├── 62.jpg
+│   │       ├── 63.jpg
+│   │       ├── 64.jpg
+│   │       ├── 65.jpg
+│   │       ├── 66.jpg
+│   │       ├── 67.jpg
+│   │       ├── 68.jpg
+│   │       ├── 69.jpg
+│   │       ├── 6.jpg
+│   │       ├── 70.jpg
+│   │       ├── 71.jpg
+│   │       ├── 72.jpg
+│   │       ├── 73.jpg
+│   │       ├── 74.jpg
+│   │       ├── 75.jpg
+│   │       ├── 76.jpg
+│   │       ├── 77.jpg
+│   │       ├── 78.jpg
+│   │       ├── 79.jpg
+│   │       ├── 7.jpg
+│   │       ├── 80.jpg
+│   │       ├── 81.jpg
+│   │       ├── 82.jpg
+│   │       ├── 83.jpg
+│   │       ├── 84.jpg
+│   │       ├── 85.jpg
+│   │       ├── 86.jpg
+│   │       ├── 87.jpg
+│   │       ├── 88.jpg
+│   │       ├── 89.jpg
+│   │       ├── 8.jpg
+│   │       ├── 90.jpg
+│   │       ├── 9.jpg
+│   │       ├── Thumbs.db
+│   │       └── Výsledky.doc
+│   ├── 2015
+│   │   ├── OSP 2015 - březen - A.pdf
+│   │   ├── OSP - 2015 - duben - A.pdf
+│   │   ├── OSP - 2015 - únor.pdf
+│   │   ├── percentily
+│   │   │   ├── 15NSZ_2_OSP_A__percentil.pdf
+│   │   │   ├── 15NSZ_2_OSP_B__percentil.pdf
+│   │   │   ├── 15NSZ_3_OSP_A__percentil.pdf
+│   │   │   ├── 15NSZ_3_OSP_B__percentil.pdf
+│   │   │   ├── 15NSZ_4_OSP_A__percentil.pdf
+│   │   │   └── 15NSZ_4_OSP_B__percentil.pdf
+│   │   └── percentily.rar
+│   ├── 2016
+│   │   ├── OSP březen 2016, verze B
+│   │   │   ├── 16NSZ_3_OSP_B__percentil.pdf
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 213155.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 213204.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 213210.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 213214.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 213230.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 213236.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214350.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214356.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214400.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214406.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214417.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214421.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214430.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214436.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214450.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214454.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214656.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214704.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214712.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214715.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214720.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214723.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214731.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214737.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214745.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214751.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214755.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214759.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214806.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214811.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214828.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214834.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214837.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214841.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214846.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214856.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214902.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214905.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214915.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214921.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214938.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214941.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 214958.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215004.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215010.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215013.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215023.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215029.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215035.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215042.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215046.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215049.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215053.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215056.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215104.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215112.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215117.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215122.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215127.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215137.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215145.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215156.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215159.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215206.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215212.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215218.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215225.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215228.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215234.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215513.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215522.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215535.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215538.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215541.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215543.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215549.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215553.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215602.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215609.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215613.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215617.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215626.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215628.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215631.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215635.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215642.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215648.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215656.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215700.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215735.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215739.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215742.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215745.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215749.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215756.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215804.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215809.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215815.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215820.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215837.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215840.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215843.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215846.bmp
+│   │   │   ├── Záznam celé obrazovky 14.03.2016 215849.bmp
+│   │   │   └── Záznam celé obrazovky 14.03.2016 215852.bmp
+│   │   └── OSP únor 2016, verze B
+│   │       ├── 16NSZ_2_OSP_B__percentil.pdf
+│   │       ├── Záznam celé obrazovky 08.02.2016 195131.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195137.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195141.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195144.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195146.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195151.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195153.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195156.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195205.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195219.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195223.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195228.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195231.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195238.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195243.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195245.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195249.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195252.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195257.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195300.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195304.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195307.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195311.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195314.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195317.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195322.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195324.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195327.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195329.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195332.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195338.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195341.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195343.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195345.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195347.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195350.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195423.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195428.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195521.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195534.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195548.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195552.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195556.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195629.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195718.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 195722.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200032.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200035.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200040.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200050.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200118.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200121.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200124.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200127.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200131.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200134.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200143.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200154.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200209.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200217.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200224.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200235.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200249.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200323.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200335.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200339.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200341.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200344.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200346.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200350.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200358.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200424.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200428.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200439.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200451.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200523.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200533.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200536.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200622.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200631.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200701.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200722.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200736.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200742.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200748.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200803.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200807.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200813.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200828.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200833.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200836.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200839.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200846.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200853.bmp
+│   │       ├── Záznam celé obrazovky 08.02.2016 200857.bmp
+│   │       └── Záznam celé obrazovky 08.02.2016 201546.bmp
+│   ├── 2022
+│   │   ├── ČTĚTE!.docx
+│   │   ├── další cvičné úlohy primárně z verbálního oddílu.pdf
+│   │   ├── přepočet na percentil.pdf
+│   │   ├── Reseni
+│   │   │   ├── OSP_NSZ_2021_2022_A_II.pdf
+│   │   │   ├── OSP_NSZ_2021_2022_A_I.pdf
+│   │   │   ├── OSP_NSZ_2021_2022_B_II.pdf
+│   │   │   └── OSP_NSZ_2021_2022_B_I.pdf
+│   │   └── Zadani
+│   │       ├── OSP_NSZ_2021_2022_A_I.doc
+│   │       ├── OSP_NSZ_2021_2022_A_II.doc
+│   │       ├── OSP_NSZ_2021_2022_B_I.doc
+│   │       └── OSP_NSZ_2021_2022_B_II.doc
+│   └── OSP B NÁRODNÍ SROVNÁVACÍ ZKOUŠKY BŘEZNA n Test obsahuje 66 úloh. n.pdf
+├── Publikace
+│   ├── ebook-Jak-udelat-scio-testy-OSP-TSP-ZSV.pdf
+│   ├── MINI testy
+│   │   ├── MINI scio.osp.z.kurzy-fido.cz.pdf
+│   │   ├── sada10.pdf
+│   │   ├── sada11.pdf
+│   │   ├── sada12.pdf
+│   │   ├── sada13.pdf
+│   │   ├── sada14.pdf
+│   │   ├── sada15.pdf
+│   │   ├── sada16.pdf
+│   │   ├── sada17.pdf
+│   │   ├── sada18.pdf
+│   │   ├── sada19.pdf
+│   │   ├── sada1.pdf
+│   │   ├── sada20.pdf
+│   │   ├── sada21.pdf
+│   │   ├── sada22.pdf
+│   │   ├── sada23.pdf
+│   │   ├── sada24.pdf
+│   │   ├── sada25.pdf
+│   │   ├── sada26.pdf
+│   │   ├── sada27.pdf
+│   │   ├── sada28.pdf
+│   │   ├── sada2.pdf
+│   │   ├── sada3.pdf
+│   │   ├── sada4.pdf
+│   │   ├── sada5.pdf
+│   │   ├── sada6.pdf
+│   │   ├── sada7.pdf
+│   │   ├── sada8.pdf
+│   │   └── sada9.pdf
+│   ├── nove-ulohy-2015.pdf
+│   ├── nsz-ospr-cvicny.pdf
+│   ├── OSP, Scio, NSZ 2017 Cvičebnice.pdf
+│   ├── Pruvodce-testem-OSP-2013.pdf
+│   ├── Pruvodce-testem-OSP.pdf
+│   ├── sbirkaOSP.pdf
+│   ├── SCIO cvicebnice.pdf
+│   └── Zebry
+│       ├── Odkaz na knížku o Zebrách.txt
+│       ├── SUMA_47.pdf
+│       └── Zebry, zebry, zebřičky
+│           ├── mxPlaylist.mxprj
+│           ├── PHOTO_20140104_105718.jpg
+│           ├── PHOTO_20140104_105724.jpg
+│           ├── PHOTO_20140104_105746.jpg
+│           ├── PHOTO_20140104_105751.jpg
+│           ├── PHOTO_20140104_105758.jpg
+│           ├── PHOTO_20140104_105807.jpg
+│           ├── PHOTO_20140104_105818.jpg
+│           ├── PHOTO_20140104_105828.jpg
+│           ├── PHOTO_20140104_105912.jpg
+│           ├── PHOTO_20140104_105917.jpg
+│           ├── PHOTO_20140104_105926.jpg
+│           ├── PHOTO_20140104_105936.jpg
+│           ├── PHOTO_20140104_105944.jpg
+│           ├── PHOTO_20140104_105953.jpg
+│           ├── PHOTO_20140104_110012.jpg
+│           ├── PHOTO_20140104_110019.jpg
+│           ├── PHOTO_20140104_110040.jpg
+│           ├── PHOTO_20140104_110044.jpg
+│           ├── PHOTO_20140104_110136.jpg
+│           ├── PHOTO_20140104_110140.jpg
+│           ├── PHOTO_20140104_110154.jpg
+│           ├── PHOTO_20140104_110208.jpg
+│           ├── PHOTO_20140104_110249.jpg
+│           ├── PHOTO_20140104_110253.jpg
+│           ├── PHOTO_20140104_110314.jpg
+│           ├── PHOTO_20140104_110325.jpg
+│           ├── PHOTO_20140104_110336.jpg
+│           ├── PHOTO_20140104_110353.jpg
+│           ├── PHOTO_20140104_110414.jpg
+│           ├── PHOTO_20140104_110447.jpg
+│           ├── PHOTO_20140104_110519.jpg
+│           ├── PHOTO_20140104_110528.jpg
+│           ├── PHOTO_20140104_110554.jpg
+│           ├── PHOTO_20140104_110649.jpg
+│           ├── PHOTO_20140104_110701.jpg
+│           ├── PHOTO_20140104_110723.jpg
+│           ├── PHOTO_20140104_110728.jpg
+│           ├── PHOTO_20140104_110847.jpg
+│           ├── PHOTO_20140104_110852.jpg
+│           ├── PHOTO_20140104_110905.jpg
+│           ├── PHOTO_20140104_110909.jpg
+│           ├── PHOTO_20140104_110928.jpg
+│           ├── PHOTO_20140104_110935.jpg
+│           ├── PHOTO_20140104_110942.jpg
+│           ├── PHOTO_20140104_110951.jpg
+│           ├── PHOTO_20140104_111002.jpg
+│           ├── PHOTO_20140104_111024.jpg
+│           ├── PHOTO_20140104_111031.jpg
+│           ├── PHOTO_20140104_111055.jpg
+│           ├── PHOTO_20140104_111107.jpg
+│           ├── PHOTO_20140104_111127.jpg
+│           ├── PHOTO_20140104_111131.jpg
+│           ├── PHOTO_20140104_111148.jpg
+│           ├── PHOTO_20140104_111152.jpg
+│           ├── PHOTO_20140104_111218.jpg
+│           ├── PHOTO_20140104_111222.jpg
+│           ├── PHOTO_20140104_111243.jpg
+│           ├── PHOTO_20140104_111248.jpg
+│           ├── PHOTO_20140104_111303.jpg
+│           ├── PHOTO_20140104_111313.jpg
+│           ├── PHOTO_20140104_111330.jpg
+│           ├── PHOTO_20140104_111334.jpg
+│           ├── PHOTO_20140104_111400.jpg
+│           ├── PHOTO_20140104_111404.jpg
+│           ├── PHOTO_20140104_111417.jpg
+│           ├── PHOTO_20140104_111428.jpg
+│           ├── PHOTO_20140104_111440.jpg
+│           ├── PHOTO_20140104_111444.jpg
+│           ├── PHOTO_20140104_111452.jpg
+│           ├── PHOTO_20140104_111502.jpg
+│           ├── PHOTO_20140104_111524.jpg
+│           ├── PHOTO_20140104_111645.jpg
+│           ├── PHOTO_20140104_111743.jpg
+│           ├── PHOTO_20140104_111747.jpg
+│           ├── PHOTO_20140104_111817.jpg
+│           ├── PHOTO_20140104_111823.jpg
+│           ├── PHOTO_20140104_111849.jpg
+│           ├── PHOTO_20140104_111904.jpg
+│           ├── PHOTO_20140104_111916.jpg
+│           ├── PHOTO_20140104_111926.jpg
+│           ├── PHOTO_20140104_111937.jpg
+│           ├── PHOTO_20140104_111940.jpg
+│           ├── PHOTO_20140104_111948.jpg
+│           ├── PHOTO_20140104_111953.jpg
+│           ├── PHOTO_20140104_112003.jpg
+│           ├── PHOTO_20140104_112008.jpg
+│           ├── PHOTO_20140104_112025.jpg
+│           ├── PHOTO_20140104_112028.jpg
+│           ├── PHOTO_20140104_112037.jpg
+│           ├── PHOTO_20140104_112041.jpg
+│           ├── PHOTO_20140104_112052.jpg
+│           ├── PHOTO_20140104_112057.jpg
+│           ├── PHOTO_20140104_112105.jpg
+│           ├── PHOTO_20140104_112109.jpg
+│           ├── PHOTO_20140104_112111.jpg
+│           ├── PHOTO_20140104_112117.jpg
+│           ├── PHOTO_20140104_112121.jpg
+│           ├── PHOTO_20140104_112138.jpg
+│           ├── PHOTO_20140104_112141.jpg
+│           ├── PHOTO_20140104_112148.jpg
+│           ├── PHOTO_20140104_112152.jpg
+│           ├── PHOTO_20140104_112203.jpg
+│           ├── PHOTO_20140104_112208.jpg
+│           ├── PHOTO_20140104_112223.jpg
+│           ├── PHOTO_20140104_112230.jpg
+│           ├── PHOTO_20140104_112239.jpg
+│           ├── PHOTO_20140104_112242.jpg
+│           ├── PHOTO_20140104_112250.jpg
+│           ├── PHOTO_20140104_112305.jpg
+│           ├── PHOTO_20140104_112313.jpg
+│           ├── PHOTO_20140104_112318.jpg
+│           ├── PHOTO_20140104_112326.jpg
+│           ├── PHOTO_20140104_112334.jpg
+│           ├── PHOTO_20140104_112341.jpg
+│           ├── PHOTO_20140104_112345.jpg
+│           ├── PHOTO_20140104_112356.jpg
+│           ├── PHOTO_20140104_112400.jpg
+│           ├── PHOTO_20140104_112408.jpg
+│           ├── PHOTO_20140104_112413.jpg
+│           ├── PHOTO_20140104_112423.jpg
+│           ├── PHOTO_20140104_112428.jpg
+│           ├── PHOTO_20140104_112436.jpg
+│           ├── PHOTO_20140104_112448.jpg
+│           ├── PHOTO_20140104_112458.jpg
+│           ├── PHOTO_20140104_112520.jpg
+│           ├── PHOTO_20140104_112526.jpg
+│           ├── PHOTO_20140104_112534.jpg
+│           ├── PHOTO_20140104_112538.jpg
+│           ├── PHOTO_20140104_112550.jpg
+│           ├── PHOTO_20140104_112553.jpg
+│           ├── PHOTO_20140104_112603.jpg
+│           ├── PHOTO_20140104_112607.jpg
+│           ├── PHOTO_20140104_112615.jpg
+│           ├── PHOTO_20140104_112627.jpg
+│           ├── PHOTO_20140104_112648.jpg
+│           ├── PHOTO_20140104_112707.jpg
+│           ├── PHOTO_20140104_112717.jpg
+│           ├── PHOTO_20140104_112723.jpg
+│           ├── PHOTO_20140104_112736.jpg
+│           ├── PHOTO_20140104_112741.jpg
+│           ├── PHOTO_20140104_112748.jpg
+│           ├── PHOTO_20140104_112754.jpg
+│           ├── PHOTO_20140104_112801.jpg
+│           ├── PHOTO_20140104_112806.jpg
+│           ├── PHOTO_20140104_112814.jpg
+│           ├── PHOTO_20140104_112819.jpg
+│           ├── PHOTO_20140104_112826.jpg
+│           ├── PHOTO_20140104_112831.jpg
+│           ├── PHOTO_20140104_112839.jpg
+│           ├── PHOTO_20140104_112848.jpg
+│           ├── PHOTO_20140104_112900.jpg
+│           ├── PHOTO_20140104_112904.jpg
+│           ├── PHOTO_20140104_112912.jpg
+│           ├── PHOTO_20140104_112916.jpg
+│           ├── PHOTO_20140104_112922.jpg
+│           ├── PHOTO_20140104_112925.jpg
+│           ├── PHOTO_20140104_112933.jpg
+│           ├── PHOTO_20140104_112936.jpg
+│           ├── PHOTO_20140104_112944.jpg
+│           ├── PHOTO_20140104_112949.jpg
+│           ├── PHOTO_20140104_113003.jpg
+│           ├── PHOTO_20140104_113007.jpg
+│           ├── PHOTO_20140104_113015.jpg
+│           ├── PHOTO_20140104_113018.jpg
+│           ├── PHOTO_20140104_113024.jpg
+│           ├── PHOTO_20140104_113027.jpg
+│           ├── PHOTO_20140104_113033.jpg
+│           ├── PHOTO_20140104_113036.jpg
+│           ├── PHOTO_20140104_113042.jpg
+│           ├── PHOTO_20140104_113045.jpg
+│           ├── PHOTO_20140104_113053.jpg
+│           ├── PHOTO_20140104_113057.jpg
+│           ├── PHOTO_20140104_113105.jpg
+│           ├── PHOTO_20140104_113111.jpg
+│           ├── PHOTO_20140104_113243.jpg
+│           ├── PHOTO_20140104_113249.jpg
+│           ├── PHOTO_20140104_113259.jpg
+│           ├── PHOTO_20140104_113308.jpg
+│           └── Thumbs.db
+└── ZSV
+    ├── 2012
+    │   ├── ZSV 2012)1
+    │   │   ├── ScanImage25.jpg
+    │   │   ├── ScanImage26.jpg
+    │   │   ├── ScanImage27.jpg
+    │   │   ├── ScanImage28.jpg
+    │   │   ├── ScanImage29.jpg
+    │   │   ├── ScanImage30.jpg
+    │   │   ├── ScanImage31.jpg
+    │   │   ├── ScanImage32.jpg
+    │   │   └── ScanImage33.jpg
+    │   ├── ZSV 2012)2
+    │   │   ├── ScanImage34.jpg
+    │   │   ├── ScanImage35.jpg
+    │   │   ├── ScanImage36.jpg
+    │   │   ├── ScanImage37.jpg
+    │   │   ├── ScanImage38.jpg
+    │   │   ├── ScanImage39.jpg
+    │   │   ├── ScanImage40.jpg
+    │   │   ├── ScanImage41.jpg
+    │   │   └── ScanImage42.jpg
+    │   ├── ZSV 2012 A
+    │   │   ├── ScanImage16.jpg
+    │   │   ├── ScanImage17.jpg
+    │   │   ├── ScanImage18.jpg
+    │   │   ├── ScanImage19.jpg
+    │   │   ├── ScanImage20.jpg
+    │   │   ├── ScanImage21.jpg
+    │   │   ├── ScanImage22.jpg
+    │   │   ├── ScanImage23.jpg
+    │   │   └── ScanImage24.jpg
+    │   └── ZSV 2012 B
+    │       ├── ScanImage43.jpg
+    │       ├── ScanImage44.jpg
+    │       ├── ScanImage45.jpg
+    │       ├── ScanImage46.jpg
+    │       ├── ScanImage47.jpg
+    │       ├── ScanImage48.jpg
+    │       ├── ScanImage49.jpg
+    │       ├── ScanImage50.jpg
+    │       ├── ScanImage51.jpg
+    │       └── ScanImage52.jpg
+    ├── 2013
+    │   ├── ZS 2013 B)2
+    │   │   ├── ScanImage126.jpg
+    │   │   ├── ScanImage127.jpg
+    │   │   ├── ScanImage128.jpg
+    │   │   ├── ScanImage129.jpg
+    │   │   ├── ScanImage130.jpg
+    │   │   ├── ScanImage131.jpg
+    │   │   ├── ScanImage132.jpg
+    │   │   ├── ScanImage133.jpg
+    │   │   ├── ScanImage134.jpg
+    │   │   └── ScanImage135.jpg
+    │   ├── ZSV 2013)1
+    │   │   ├── ScanImage83.jpg
+    │   │   ├── ScanImage84.jpg
+    │   │   ├── ScanImage85.jpg
+    │   │   ├── ScanImage86.jpg
+    │   │   ├── ScanImage87.jpg
+    │   │   ├── ScanImage88.jpg
+    │   │   ├── ScanImage89.jpg
+    │   │   ├── ScanImage90.jpg
+    │   │   ├── ScanImage91.jpg
+    │   │   ├── ScanImage92.jpg
+    │   │   └── ScanImage93.jpg
+    │   ├── ZSV 2013)2
+    │   │   ├── ScanImage115.jpg
+    │   │   ├── ScanImage116.jpg
+    │   │   ├── ScanImage117.jpg
+    │   │   ├── ScanImage118.jpg
+    │   │   ├── ScanImage119.jpg
+    │   │   ├── ScanImage120.jpg
+    │   │   ├── ScanImage121.jpg
+    │   │   ├── ScanImage122.jpg
+    │   │   ├── ScanImage123.jpg
+    │   │   ├── ScanImage124.jpg
+    │   │   └── ScanImage125.jpg
+    │   ├── ZSV 2013 A)1
+    │   │   ├── ScanImage72.jpg
+    │   │   ├── ScanImage73.jpg
+    │   │   ├── ScanImage74.jpg
+    │   │   ├── ScanImage75.jpg
+    │   │   ├── ScanImage76.jpg
+    │   │   ├── ScanImage77.jpg
+    │   │   ├── ScanImage78.jpg
+    │   │   ├── ScanImage79.jpg
+    │   │   ├── ScanImage80.jpg
+    │   │   ├── ScanImage81.jpg
+    │   │   └── ScanImage82.jpg
+    │   ├── ZSV 2013 A)2
+    │   │   ├── ScanImage105.jpg
+    │   │   ├── ScanImage106.jpg
+    │   │   ├── ScanImage107.jpg
+    │   │   ├── ScanImage108.jpg
+    │   │   ├── ScanImage109.jpg
+    │   │   ├── ScanImage110.jpg
+    │   │   ├── ScanImage111.jpg
+    │   │   ├── ScanImage112.jpg
+    │   │   ├── ScanImage113.jpg
+    │   │   └── ScanImage114.jpg
+    │   └── ZSV 2013 B)1
+    │       ├── ScanImage53.jpg
+    │       ├── ScanImage54.jpg
+    │       ├── ScanImage55.jpg
+    │       ├── ScanImage56.jpg
+    │       ├── ScanImage57.jpg
+    │       ├── ScanImage58.jpg
+    │       ├── ScanImage59.jpg
+    │       ├── ScanImage60.jpg
+    │       ├── ScanImage61.jpg
+    │       └── ScanImage62.jpg
+    ├── 2014
+    │   ├── ZSV 2014)1
+    │   │   ├── ScanImage63.jpg
+    │   │   ├── ScanImage64.jpg
+    │   │   ├── ScanImage65.jpg
+    │   │   ├── ScanImage66.jpg
+    │   │   ├── ScanImage67.jpg
+    │   │   ├── ScanImage68.jpg
+    │   │   ├── ScanImage69.jpg
+    │   │   ├── ScanImage70.jpg
+    │   │   └── ScanImage71.jpg
+    │   ├── ZSV 2014)2
+    │   │   ├── ScanImage100.jpg
+    │   │   ├── ScanImage101.jpg
+    │   │   ├── ScanImage102.jpg
+    │   │   ├── ScanImage103.jpg
+    │   │   ├── ScanImage104.jpg
+    │   │   ├── ScanImage94.jpg
+    │   │   ├── ScanImage95.jpg
+    │   │   ├── ScanImage96.jpg
+    │   │   ├── ScanImage97.jpg
+    │   │   ├── ScanImage98.jpg
+    │   │   └── ScanImage99.jpg
+    │   ├── ZSV-Scio-2014(2).pdf
+    │   └── ZSV-Scio-2014.pdf
+    ├── 2015
+    │   ├── řešení cvičného ZSV 2015.txt
+    │   └── ZSV cvičný-2015.pdf
+    └── 2016
+        ├── ZSV 12.3. 2016
+        │   ├── 16NSZ_3_ZSV__percentil.pdf
+        │   ├── Záznam celé obrazovky 14.03.2016 220151.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220157.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220209.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220214.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220218.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220229.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220234.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220237.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220241.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220245.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220248.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220253.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220312.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220319.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220323.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220327.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220329.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220332.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220334.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220341.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220350.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220358.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220400.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220408.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220414.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220420.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220422.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220425.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220433.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220439.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220441.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220444.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220446.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220451.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220456.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220500.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220502.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220507.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220510.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220520.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220524.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220528.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220534.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220537.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220540.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220546.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220551.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220553.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220558.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220601.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220605.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220608.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220613.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220626.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220632.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220638.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220644.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220647.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220651.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220659.bmp
+        │   ├── Záznam celé obrazovky 14.03.2016 220702.bmp
+        │   └── Záznam celé obrazovky 14.03.2016 220705.bmp
+        └── ZSV 6.2. 2016
+            ├── 16NSZ_2_ZSV__percentil.pdf
+            ├── Záznam celé obrazovky 08.02.2016 193056.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193103.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193109.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193132.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193138.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193144.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193151.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193157.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193216.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193221.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193228.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193233.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193239.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193245.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193252.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193258.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193303.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193309.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193314.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193317.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193322.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193331.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193336.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193341.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193346.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193352.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193355.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193404.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193410.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193416.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193426.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193431.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193435.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193440.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193445.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193450.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193456.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193502.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193507.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193512.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193518.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193524.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193528.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193534.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193537.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193543.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193546.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193551.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193554.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193557.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193638.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193642.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193646.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193648.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193651.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193654.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193657.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193700.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193703.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193706.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193709.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193712.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193715.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193718.bmp
+            ├── Záznam celé obrazovky 08.02.2016 193720.bmp
+            └── Záznam celé obrazovky 08.02.2016 193724.bmp
+
+71 directories, 1223 files

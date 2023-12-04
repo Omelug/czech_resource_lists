@@ -1,0 +1,131 @@
+../../serialy
+├── Cerveny_trpaslik
+│   └── Červený trpaslík řada 6
+│       ├── Červený trpaslík 6  01 Psirény.mp4
+│       ├── Červený trpaslík 6  02 Legie.mp4
+│       ├── Červený trpaslík 6  03 Pistolníci z Apokalypsy.mp4
+│       ├── Červený trpaslík 6  04 Polymorf II   Emocuc.mp4
+│       ├── Červený trpaslík 6  05 Rimmerosvět.mp4
+│       └── Červený trpaslík 6  06 Mimo realitu.mp4
+├── Čtvrtá hvezda
+│   ├── Ctvrta_hvezda_10.mp4
+│   ├── Ctvrta_hvezda_11.mp4
+│   ├── Ctvrta_hvezda_12.mp4
+│   ├── Ctvrta_hvezda_1.mp4
+│   ├── Ctvrta_hvezda_2.mp4
+│   ├── Ctvrta_hvezda_3.mp4
+│   ├── Ctvrta_hvezda_4.mp4
+│   ├── Ctvrta_hvezda_5.mp4
+│   ├── Ctvrta_hvezda_6.mp4
+│   ├── Ctvrta_hvezda_7.mp4
+│   ├── Ctvrta_hvezda_8.mp4
+│   └── Ctvrta_hvezda_9.mp4
+├── Devadesatky
+│   ├── Devadesatky_1.mp4
+│   ├── Devadesatky_2.mp4
+│   ├── Devadesatky_3.mp4
+│   ├── Devadesatky_4.mp4
+│   ├── Devadesatky_5.mp4
+│   └── Devadesatky_6.mp4
+├── Docent
+│   ├── Docent1.mp4
+│   ├── Docent2.mp4
+│   └── Docent3.mp4
+├── Jiste_pane_ministre
+│   ├── 01
+│   │   ├── 1.1 CELEM K VOLICUM.avi
+│   │   ├── 1.2 OFICIALNI NAVSTEVA.avi
+│   │   ├── 1.3 USPORNY PROGRAM.avi
+│   │   ├── 1.4 KONECNE ROZHODNUTI.avi
+│   │   ├── 1.5 STAHUJI SE MRAKY.avi
+│   │   ├── 1.6 PRAVO NA INFORMACE.avi
+│   │   └── 1.7 RUKA RUKU MYJE.avi
+│   ├── 02
+│   │   ├── 2.1 HUMANNI SPOLECNOST.avi
+│   │   ├── 2.2 ZASLOUZENE POCTY.avi
+│   │   ├── 2.3  CERNA LISTINA.avi
+│   │   ├── 2.4 SPLH PO NAMASTENE TYCI.avi
+│   │   ├── 2.5 DABELSKE NASTRAHY.avi
+│   │   ├── 2.6.KVALITA ZIVOTA.avi
+│   │   └── 2.7 OTAZKA LOAJALITY.avi
+│   └── 03
+│       ├── 3.1 ROVNOPRAVNOST.avi
+│       ├── 3.2 VYZVA.avi
+│       ├── 3.3 KOSTLIVEC VE SKRINI.avi
+│       ├── 3.4 MORALNI ROZMER.avi
+│       ├── 3.5 DANAJSKY DAR.avi
+│       ├── 3.6 KAZATEL V LIHU.avi
+│       ├── 3.7 KULTURA MA ZELENOU.avi
+│       └── 3.8 PARTAJNI HRATKY.avi
+├── Jiste_pane_premiere
+│   ├── 01
+│   │   ├── 1.1 VELKY PLAN.avi
+│   │   ├── 1.2 PREMIERUV PROJEV.avi
+│   │   ├── 1.3 KOUROVA CLONA.avi
+│   │   ├── 1.4 KLIC.avi
+│   │   ├── 1.5 SKUTECNE PRIMERI.avi
+│   │   ├── 1.6 VITEZTVI DEMOKRACIE.avi
+│   │   ├── 1.7 BISKUPSKE SACHY.avi
+│   │   └── 1.8 JEDEN Z NAS.avi
+│   └── 02
+│       ├── 2.1 MUZ PRES PALUBU.avi
+│       ├── 2.2 SLUZEBNI TAJEMSTVI.avi
+│       ├── 2.3 DIPLOMATICKY INCIDENT.avi
+│       ├── 2.4 STRET ZAJMU.avi
+│       ├── 2.5 VSECHNA MOC LIDU.avi
+│       ├── 2.6 PATRON UMENI.avi
+│       ├── 2.7 SKOLSKA REFORMA.avi
+│       └── 2.8 SPLETITA SIT.avi
+└── Případy prvního oddělení
+    ├── 1. a 2.  serie
+    │   ├── PPO10.mp4
+    │   ├── PPO11.mp4
+    │   ├── PPO12.mp4
+    │   ├── PPO13.mp4
+    │   ├── PPO14.mp4
+    │   ├── PPO15.mp4
+    │   ├── PPO16.mp4
+    │   ├── PPO17.mp4
+    │   ├── PPO18.mp4
+    │   ├── PPO19.mp4
+    │   ├── PPO1.mp4
+    │   ├── PPO20.mp4
+    │   ├── PPO21.mp4
+    │   ├── PPO22.mp4
+    │   ├── PPO2.mp4
+    │   ├── PPO3.mp4
+    │   ├── PPO4.mp4
+    │   ├── PPO5.mp4
+    │   ├── PPO6.mp4
+    │   ├── PPO7.mp4
+    │   ├── PPO8.mp4
+    │   └── PPO9.mp4
+    ├── 3. serie
+    │   ├── awdaw.mp4
+    │   ├── mpd [mpd].mp4
+    │   ├── PPO10.mp4
+    │   ├── PPO12.mp4
+    │   ├── PPO13.mp4
+    │   ├── PPO1.mp4
+    │   ├── PPO2.mp4
+    │   ├── PPO3.mp4
+    │   ├── PPO4.mp4
+    │   ├── PPO5.mp4
+    │   ├── PPO6.mp4
+    │   ├── PPO7.mp4
+    │   ├── sawdaw.mp4
+    │   └── yt-dlp.exe
+    ├── PPO14.mp4
+    ├── PPO15.mp4
+    ├── PPO16.mp4
+    ├── PPO17.mp4
+    ├── PPO18.mp4
+    ├── PPO19.mp4
+    ├── PPO20.mp4
+    ├── PPO21.mp4
+    ├── PPO22.mp4
+    ├── PPO2.mp4
+    ├── PPO3.mp4
+    └── PPO4.mp4
+
+16 directories, 113 files

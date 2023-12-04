@@ -1,0 +1,44 @@
+../../audioknihy
+├── Bukowski Charles - Skvar (cz) - audiokniha
+│   ├── 01-Bukowski - Skvar-kapitola01-05.mp3
+│   ├── 02-Bukowski - Skvar-kapitola06-11.mp3
+│   ├── 03-Bukowski - Skvar-kapitola12-15.mp3
+│   ├── 04-Bukowski - Skvar-kapitola16-19.mp3
+│   ├── 05-Bukowski - Skvar-kapitola20-24.mp3
+│   ├── 06-Bukowski - Skvar-kapitola25-28.mp3
+│   ├── 07-Bukowski - Skvar-kapitola29-34.mp3
+│   ├── 08-Bukowski - Skvar-kapitola35-40.mp3
+│   ├── 09-Bukowski - Skvar-kapitola41-44.mp3
+│   ├── 10-Bukowski - Skvar-kapitola45-48.mp3
+│   ├── 11-Bukowski - Skvar-kapitola49-51.mp3
+│   ├── Bukowski Charles - Skvar.m3u
+│   └── Bukowski Charles - Skvar.txt
+├── Grant Naylor - Červený trpaslík I. - Nekonečno vítá ohleduplné řidiče.m4a
+├── Josef Vondruška_ Chlastej a modli se (mluvené slovo; 16 dílů)
+│   ├── 01.mp3
+│   ├── 02.mp3
+│   ├── 03.mp3
+│   ├── 04.mp3
+│   ├── 05.mp3
+│   ├── 06.mp3
+│   ├── 07.mp3
+│   ├── 08.mp3
+│   ├── 09.mp3
+│   ├── 10.mp3
+│   ├── 11.mp3
+│   ├── 12.mp3
+│   ├── 13.mp3
+│   ├── 14.mp3
+│   ├── 15.mp3
+│   └── Koláž Josefa Vondrušky (vernisáž výstavy v Rock Café 6. 1. 2015).jpeg
+└── Mezi dvěma Kimy Na studiích v KLDR
+    ├── Díl 1.mp3
+    ├── Díl 2.mp3
+    ├── Díl 3.mp3
+    ├── Díl 4.mp3
+    ├── Díl 5.mp3
+    ├── Díl 6.mp3
+    ├── Díl 7.mp3
+    └── Díl 8.mp3
+
+4 directories, 38 files

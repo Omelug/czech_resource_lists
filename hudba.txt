@@ -1,0 +1,1746 @@
+../../hudba
+├── Nequas
+│   ├── Am
+│   │   ├── 01_Vitam.mp3
+│   │   ├── 01_Vitam.mp4
+│   │   ├── 02_Soothe_the_restles_baby.mp3
+│   │   ├── 02_Soothe_the_restles_baby.mp4
+│   │   ├── 03_Jsme_tu_nad_plan.mp3
+│   │   ├── 03_Jsme_tu_nad_plan.mp4
+│   │   ├── 04_No_to_snad_ne.mp3
+│   │   ├── 04_No_to_snad_ne.mp4
+│   │   ├── 05_Opravdu_by_me_zajimalo.mp3
+│   │   ├── 05_Opravdu_by_me_zajimalo.mp4
+│   │   ├── 06_Just_jenom_tak.mp3
+│   │   ├── 06_Just_jenom_tak.mp4
+│   │   ├── 07_Jeste_jsem.mp3
+│   │   ├── 07_Jeste_jsem.mp4
+│   │   ├── 08_Uz_nejsem_dospelej.mp3
+│   │   ├── 08_Uz_nejsem_dospelej.mp4
+│   │   ├── 10_Uz_to_mam.mp3
+│   │   ├── 10_Uz_to_mam.mp4
+│   │   ├── 11_Pisen_pro_reklamni_pracovniky.mp3
+│   │   ├── 11_Pisen_pro_reklamni_pracovniky.mp4
+│   │   ├── 12_Nanananana.mp3
+│   │   ├── 12_Nanananana.mp4
+│   │   ├── 13_Smekam.mp3
+│   │   ├── 13_Smekam.mp4
+│   │   ├── 14_Zereme_vetve_z_kere.mp3
+│   │   ├── 14_Zereme_vetve_z_kere.mp4
+│   │   ├── 15_Koukam.mp3
+│   │   ├── 15_Koukam.mp4
+│   │   ├── 16_Jeste_muzem_zit_jako_deti.mp3
+│   │   ├── 16_Jeste_muzem_zit_jako_deti.mp4
+│   │   ├── 17_Dzabrhud_Jabberwocky.mp3
+│   │   ├── 17_Dzabrhud_Jabberwocky.mp4
+│   │   └── image.jpg
+│   ├── awdawdawtxt.txt
+│   ├── Nequasi bacilky
+│   │   ├── 01_Jak_jsem_vas_pohrbil.mp3
+│   │   ├── 01_Jak_jsem_vas_pohrbil.mp4
+│   │   ├── 02_Metro.mp3
+│   │   ├── 02_Metro.mp4
+│   │   ├── 03_O_vuli.mp3
+│   │   ├── 03_O_vuli.mp4
+│   │   ├── 04_Pochod_zodpovednych.mp3
+│   │   ├── 04_Pochod_zodpovednych.mp4
+│   │   ├── 05_Nahodna.mp3
+│   │   ├── 05_Nahodna.mp4
+│   │   ├── 06_Hymna_potencionalnich_milionaru.mp3
+│   │   ├── 06_Hymna_potencionalnich_milionaru.mp4
+│   │   ├── 07_Curaci_na_ctyrech_kolech.mp3
+│   │   ├── 07_Curaci_na_ctyrech_kolech.mp4
+│   │   ├── 08_Litani.mp3
+│   │   ├── 08_Litani.mp4
+│   │   ├── 09_Lovecka.mp3
+│   │   ├── 09_Lovecka.mp4
+│   │   ├── 10_Rovnovazna.mp3
+│   │   ├── 10_Rovnovazna.mp4
+│   │   ├── 11_Move_me_softly.mp3
+│   │   ├── 11_Move_me_softly.mp4
+│   │   ├── 12_Electrical_disturbances.mp3
+│   │   ├── 13_Ja_a_mala_hlava.mp3
+│   │   ├── 13_Ja_a_mala_hlava.mp4
+│   │   └── image.jpg
+│   ├── vyber_maly.jpg
+│   └── Zmrsene konce
+│       ├── 05_Kazdej_z_nas_jde_zvlast.mp3
+│       ├── 05_Kazdej_z_nas_jde_zvlast.mp4
+│       ├── 07_Bubliny_v_hlave.mp3
+│       ├── 07_Bubliny_v_hlave.mp4
+│       ├── 08_Jeste_jeste_jest.mp3
+│       ├── 08_Jeste_jeste_jest.mp4
+│       ├── 09_New_rock_generation.mp3
+│       ├── 09_New_rock_generation.mp4
+│       ├── 10_A_cas_se_flaka.mp3
+│       ├── 10_A_cas_se_flaka.mp4
+│       ├── 11_Vocink.mp3
+│       ├── 11_Vocink.mp4
+│       ├── 12_Konecne_slovo.mp3
+│       ├── 12_Konecne_slovo.mp4
+│       ├── 13_Vypocena.mp3
+│       ├── 13_Vypocena.mp4
+│       ├── 14_Laska_ale_dnes.mp3
+│       ├── 14_Laska_ale_dnes.mp4
+│       ├── 15_Hyperoborova_extrapolace.mp3
+│       ├── 15_Hyperoborova_extrapolace.mp4
+│       ├── 16_Copak_copak.mp3
+│       ├── 16_Copak_copak.mp4
+│       ├── 17_Nejde_utyct.mp3
+│       ├── 17_Nejde_utyct.mp4
+│       ├── 18_Nechci_umrit.mp3
+│       ├── 18_Nechci_umrit.mp4
+│       └── image.jpg
+└── python_yt_list
+    ├── compare_image_folder
+    │   ├── first_image.jpg
+    │   └── second_image.jpg
+    ├── help_list.txt
+    ├── music
+    │   ├── 000000000000000000000000000000000000000000.txt
+    │   ├── 00000000000000000000000000000000000convert.bat
+    │   ├── 01 Bratři Ebenové - Nic není tak horký[dHCV_ro2U_A].mp3
+    │   ├── 02 Metro [6LO2A8Oa95Y].mp3
+    │   ├── 03 O vuli [8JVauZ7BE08].mp3
+    │   ├── 04 Pochod zodpovednych [ZGxDedMs06M].mp3
+    │   ├── 06 Hymna potencionalnich milionaru [8T6D36CM3VY].mp3
+    │   ├── 07 Curaci na ctyrech kolech [qK9LDwnc8bc].mp3
+    │   ├── 07 Jeste jsem [4cFKb52kMsg].mp3
+    │   ├── 08 Litani [CzRxras16_g].mp3
+    │   ├── 08 Uz nejsem dospelej [zLlzdEcJ63M].mp3
+    │   ├── 10 Common Mistakes Made With Software Defined Radio[ORFYJuCo6jg].mp4
+    │   ├── 13 plíhal - morseovka [kN9aWy_y3qA].mp4
+    │   ├── 14 na prd[X-XQLcBfekc].mp3
+    │   ├── 14 Zereme vetve z kere [dzHjwuwekt4].mp3
+    │   ├── 1982 [NHQO8W-lq_M].mp3
+    │   ├── 1982 [YKXr1Cq_9xk].mp3
+    │   ├── 24kGoldn Mood PARODY Im Always Mean to Jew  Rucka Rucka Ali[jLdGDfcyI34].mp4
+    │   ├── 26 Mám príma den [iat9OV09Yw4].mp4
+    │   ├── 29 ⧸ 31 [QXtg0OCNdKg].mp3
+    │   ├── 2b2t Anime Opening [6CUoNfZgK8o].mp4
+    │   ├── 301 - Nic lepšího nepřijde[NnfGt09Zqyw].mp4
+    │   ├── 35 Dobeš 🔴 BLAŽEK !!![yGrDwg2fIzI].mp4
+    │   ├── 9b9t Official 5YA Song _ Sung, written, and produced by Dyu [2JcHLwrscNM].mp3
+    │   ├── a bude hůř-nechte si ty klíny [GH7y7w7iib4].mp3
+    │   ├── ACDC - Hells Bells (Official Video)[etAIpkdhU9Q].mp4
+    │   ├── ACDC - Highway to Hell (Official Video)[l482T0yNkeo].mp4
+    │   ├── A co dál [mJKizXr0vL8].mp3
+    │   ├── against me! - baby i'm an anarchist (lyrics) [9gEvxw9XKzo].mp4
+    │   ├── Against Me! - Holy Shit! (Lyrics on Screen) [Fg3NFILyeDo].mp4
+    │   ├── Against Me! - How Low (Lyrics on Screen) [9XTWjDnd9zY].mp3
+    │   ├── Against Me! - Unprotected Sex With Multiple Partners (Lyrics on Screen) [qY3QsliyqU0].mp4
+    │   ├── Agraelus - Budu volit SPD #herdynremix [j-NGQaNbwSk].mp4
+    │   ├── Aktual - Chovám v kleci bolševika [6f5iy9foxyE].mp3
+    │   ├── Alegorie [rbPn8kXl4Uk].mp3
+    │   ├── Aleksandr Pistoletov Pirates of the caribbean [GKzNcc7fFPM].mp4
+    │   ├── Ale my stále hledáme štěstí[0nCY2ZaulfI].mp3
+    │   ├── Alfasrnec Paranoik [dfs9MeABpF8].mp4
+    │   ├── Alibi[ZJCvl-kTOD4].mp3
+    │   ├── Alkeholki[NXY7R-JyEIw].mp3
+    │   ├── Allah-Las - Long Journey[uwYMhfMORw8].mp4
+    │   ├── Alois Veliký [_4XuM49JKJI].mp3
+    │   ├── Always Look on the Bright Side of Life - Czechoslovakia edition [Bdb56Uco-VQ].mp4
+    │   ├── Always Look on the Bright Side of Life - North Korean Edition [ifLqzLEB3E0].mp4
+    │   ├── American Idiot (feat John Gallagher Jr Stark Sands Michael Esper Rebecca Naomi Jones[tVJ5VvLAkw0].mp3
+    │   ├── Anděl [XbJKC9JkTP0].mp3
+    │   ├── Anders Nilsen Salsa Tequila German Version [vBHZ6QWCLss].mp3
+    │   ├── Anders Nilsen - Salsa Tequila (Official lyric video) [77Ms1oCiDH4].mp4
+    │   ├── Anders Nilsen - Salsa Tequila (Official Polish Parody) [TzXvHQJm08s].mp4
+    │   ├── And the Snakes Start to Sing[DpYqD5bDrsg].mp3
+    │   ├── Aneta Langerová - Vzpomínka (z alba Jsem)[iMm-LtIxM4w].mp3
+    │   ├── Ani hnout[JmXANaRorZo].mp3
+    │   ├── Another Period - I'll F＊＊k You in Heaven - Uncensored [AOsvfl-PGqk].mp4
+    │   ├── Ántré [-t4Ehs0Ox9o].mp3
+    │   ├── Anyway - Lost [hfCQcvS65po].mp4
+    │   ├── ANYWAY-lost [N9SJYJtPUl8].mp4
+    │   ├── Apropó [cybuGBNAtXs].mp3
+    │   ├── art is dead[Eo9pU1q8sy8].mp4
+    │   ├── Art Is Dead lyrics by Bo Burnham (HD) [uHWIfCtgP-4].mp3
+    │   ├── AsiJat a Eva [Y2INQeBTIlg].mp3
+    │   ├── Asi si umřu[CY4-3Tx13jU].mp3
+    │   ├── a song about jeff bezos rocket [g3zDhW03u6U].mp4
+    │   ├── A tak jdou roky bluesový [j35WImUnnCs].mp3
+    │   ├── Ať Hraje Kapela![kvGmGf8E9po].mp3
+    │   ├── Atom (Já trvám na tom hodit na Bratislavu atom)[SYyVSs7UAnE].mp3
+    │   ├── Atomová ukolébavka [cJA5Vq8eack].mp3
+    │   ├── Austrálie [JZBbMW0T4ik].mp3
+    │   ├── Awesome Face Song [vbrII7frHV0].mp4
+    │   ├── A žádný srdce [ZhWrkMKsBlk].mp3
+    │   ├── Až budu mrtvý muž [7HZFpl4ijD8].mp3
+    │   ├── Až se jednou vrátím z bordelu [dumWLm9grms].mp3
+    │   ├── Babes In Toyland - Hes My Thing (Video)[HMmnO34saOQ].mp4
+    │   ├── Babička[5itbraN4JoM].mp3
+    │   ├── Babiš - Čapí hnízdo (Kuře a prase song) [V2sXSsLSt6Q].mp4
+    │   ├── Babiš song - Kurva jako (BlackFish mix) [AoJ9L66eBbw].mp4
+    │   ├── Babylon [0dAxntQt0yQ].mp3
+    │   ├── Bacha na hlavu (feat. MC Gey) [KERUKb42EoU].mp3
+    │   ├── Bad Religion - Incomplete (Sub Español )[vEFv2el0zeg].mp4
+    │   ├── Balada o očích topičových[T2TGnfzrPbc].mp3
+    │   ├── Ballad of Dwight Fry[FfqrZvKI_1g].mp3
+    │   ├── Bambusu je to král [1Uo1PkFcZJg].mp3
+    │   ├── Barbora Poláková & David Koller - Sami (oficiální video) [DXCrJ9IpSBA].mp4
+    │   ├── Básník, ten má právo veta [WCgBuC3FYqg].mp3
+    │   ├── BAYRAKTAR Ukraine war song [iiaYZ3tpqRg].mp3
+    │   ├── Bazar - Zastavárna[LMvaBmb0JN0].mp3
+    │   ├── Bazliva (Deep Purple)[nLPs1T0buXE].mp3
+    │   ├── Bazliva [NziMoUJEmrY].mp3
+    │   ├── Beastie Boys - Sabotage [z5rRZdiu1UE].mp4
+    │   ├── Beat & I A Já Und Ich (feat Masta Ace & Dendemann)[SEt3SeWWE8A].mp3
+    │   ├── Bejval jsem anarchista [6BWCkrIl1Ko].mp3
+    │   ├── Bestiář (Live) [UdAZTISrZ38].mp3
+    │   ├── BETELNÁ KOC - Honza Hlaváček[L-HsoROBvWc].mp4
+    │   ├── Bez Debat 2 [mfCC0tliVRg].mp3
+    │   ├── Bez ladu a skladu - Ach jaj bože ľudia moji[R-wdspEP7lA].mp3
+    │   ├── Bez ladu a skladu - Anča kráča, auto fičí [WwvHu6xlOGo].mp4
+    │   ├── Bez ladu a skladu   Parné valce[Joid7wck_KM].mp4
+    │   ├── BEZ LADU A SKLADU_Postavme sa na hlavu_directorscut[miDmQOguk4U].mp4
+    │   ├── Bez ladu a skladu - Prisiel k nam film z USA [nukZF1pZuhQ].mp4
+    │   ├── Bez refrénu[xTqe9elT0Yc].mp4
+    │   ├── Bez záruky V hospodě [S6f2-2qVAW8].mp3
+    │   ├── BijouTerrier - Tarantínov film [starring Vilém Čok] (official music video)[YVpYLbIs2o8].mp4
+    │   ├── BIJOUTERRIER - Vláda OFICIÁLNY VIDEOKLIP[rksvm80aXRE].mp4
+    │   ├── Bílá stížnost[VDFNyY14NU8].mp3
+    │   ├── Bílá[zlJi5EnqFRo].mp3
+    │   ├── Bílé velryby [Ggl4u7qEZeE].mp3
+    │   ├── Biting Elbows - Toothpick Official Music Video[uR9pt73L_JU].mp4
+    │   ├── Black Betty - Edit[nU1VfYYKMDk].mp4
+    │   ├── Bledá slečna [RzkXKkSY6Hw].mp3
+    │   ├── Bluesberry - Bluesovej král[pdrz2xUqaYg].mp3
+    │   ├── Bluesberry - Klíč @ festival Zahrada (2004) [54FzkCsHQqo].mp4
+    │   ├── Bluesberry - Mládí je v háji (U Rafa 2012) [XwrpCBeagTM].mp4
+    │   ├── Blues je třeba [ynkxO6tMJeY].mp3
+    │   ├── Blues o rodinné idylce (He Knows The Rules) [04r1RvuyFQ0].mp3
+    │   ├── Blues o žravý slepici[t865VwMf4GI].mp3
+    │   ├── Blues pro slušný lidi [J9oEgE6J20E].mp3
+    │   ├── Blues vepřového ovaru (Pigfoot And A Bottle Of Beer) [vKcRTHw0UUg].mp3
+    │   ├── Bo Burnham - Hashtag Deep (Deep) Lyrics[zbp7F9eSwyw].mp4
+    │   ├── Bo Burnham - Sad lyrics [HLSvY1fKQI4].mp4
+    │   ├── Bomba [H_uskmxOE_U].mp3
+    │   ├── Bonanza [gzDak8naKzs].mp3
+    │   ├── Boreczech [fojSL9d5jZY].mp3
+    │   ├── Bossa[bV0fps60mJU].mp3
+    │   ├── Boty proti lásce[45RL3c1oVRg].mp4
+    │   ├── Bow Wave - Proutek [REZMys51Dbk].mp3
+    │   ├── Bow Wave - Změna [gLEW156gDfk].mp3
+    │   ├── Boží království vaří [ABBtmEjXwmQ].mp4
+    │   ├── Brandejs (My Baby) [tIt4zFJk_do].mp3
+    │   ├── Brano Mojsej- Pijeme fernet cez internet (Official Video) [SsRH4wZrzrg].mp4
+    │   ├── bratri Ebeni Ja na tom delam [oJbToBEzt5I].mp4
+    │   ├── Brejle - Hudba Praha [BcZ0bjXsh24].mp4
+    │   ├── Brkovi – Bagra Sa Ekrana ｜ Official Lyric Video [L6yWFP8CppI].mp4
+    │   ├── Brkovi – Hoću da mi dijete sluša narodnjake _ Official Music Video [ZbBYp3VhEGY].mp4
+    │   ├── Brkovi – Lenta _ Official Music Video [tp5C-iv62dA].mp4
+    │   ├── Brkovi - Tolerancija [_A54kOc9aUQ].mp3
+    │   ├── Brkovi - Više ni pankeri ne slušaju punk _ Official Music Video [j8vUi1ROpEY].mp4
+    │   ├── Brkovi – Znanac _ Official Music Video [2fYYjPNsFfQ].mp4
+    │   ├── Brno -  My Home Town[0O6pD8K5cVo].mp4
+    │   ├── Brute-Forcing FTP Credentials for Server Access [Tutorial][hE_Kjav323U].mp4
+    │   ├── Brutus - Opijem Se [X6uGrhUUKJ4].mp3
+    │   ├── Buffalo Bill [REOJcLJ5B7M].mp3
+    │   ├── Bujonet [3CDnJSV7xT0].mp3
+    │   ├── Busmans Holiday[IpRh5bChBSM].mp4
+    │   ├── Byl jeden král (When You Shook Your Long Hair Down) [jznqKii7YpQ].mp3
+    │   ├── Cant You Hear Me Knocking (2009 Mix)[Gz5mI6tqm_Q].mp3
+    │   ├── Casey Jones Zelenáči[5qZQiMpMU2Q].mp4
+    │   ├── Čas letní[GddpB6z7YUA].mp3
+    │   ├── Časoprostor[9nCewjqOFQ4].mp3
+    │   ├── Casu je malo [qp4XGbO9WpE].mp3
+    │   ├── Časy zlý [ntNHoo84Aq8].mp3
+    │   ├── Čau Čau[WNHdMZen8TI].mp4
+    │   ├── Čekárna [NJC1hDyVwTk].mp3
+    │   ├── Centryfuga [JNs8TabiMsI].mp3
+    │   ├── Cerna dira [Yj6Z7a_q0T4].mp3
+    │   ├── Černej šerif nikdy nespí [rKEWDBgST7Q].mp3
+    │   ├── Černobílá [krIRyvYfXS4].mp3
+    │   ├── Cernou Barvou[YduUwRzx6jA].mp3
+    │   ├── Čerti [CoHhULYs9-8].mp3
+    │   ├── Čert nás vem [_RgzbOyJU04].mp3
+    │   ├── Čert v rathauze [Fe5IDmbZFfw].mp3
+    │   ├── Cesta nikam [AQ-iDArx-_Y].mp3
+    │   ├── Cesta Rýmu [4iCNIqRO_0I].mp3
+    │   ├── Čestný Mistr[biSLCaywRr4].mp3
+    │   ├── Che Guevara [lalgxYVFGKg].mp3
+    │   ├── Chleba s marmeladu[GVgI96FQiLk].mp3
+    │   ├── Chór[kijicslv6sA].mp3
+    │   ├── Choroši： Děvče na osadě [3tpRgjU3nCc].mp4
+    │   ├── Chybí mi ta jistota [aElSSCp9Etw].mp3
+    │   ├── Cikánská balada [hlplCFq1fJM].mp3
+    │   ├── Cimrmani_Mala nočni hudba_Mě se libi pani nadlesni[uVVe21GubDc].mp4
+    │   ├── Cislo na zapesti [tgn6HDiLFNA].mp3
+    │   ├── Čistý ubrus pro Bulata Okudžavu[ZUrbqZla22o].mp3
+    │   ├── Civilizace[_gikm-dm3Dc].mp3
+    │   ├── Cizí vlasy[JJd5q1DX_Ns].mp3
+    │   ├── Cloumásemasou [-a1bw___iqc].mp3
+    │   ├── Co dělat běhěm karantény _ POKÁČOVA RYCHLOVKA [9iHM73TZ97M].mp4
+    │   ├── Co je to blues [pndMGZrZmf8].mp3
+    │   ├── Co jsme si, to jsme si [pKnZ_JoRqSc].mp3
+    │   ├── ČokoVoko - Mám ráda [fRVkFMVChdY].mp3
+    │   ├── Čokovoko - Nemám ráda (slide show video)[kzs0Fp9P6R4].mp4
+    │   ├── Čokovoko Perioda(official)[UzPdIGu1tTw].mp4
+    │   ├── čokovovko - Dredař (official) [SheqE45nqoA].mp4
+    │   ├── Come Together - A. Skillz Remix (FK5 Video Edit) [8Id2baAPvnQ].mp4
+    │   ├── Complexity[3DLVLRpKtYc].mp4
+    │   ├── Computer Error Song [mKkLjJHwRec].mp4
+    │   ├── Co řeknou[8A5KHQjPCf4].mp3
+    │   ├── Co řeknou[nFb7Id2Hk4Y].mp3
+    │   ├── Co vlastně chceš[0BnxK22E4Nw].mp3
+    │   ├── Co Znamená Vésti Koně [-eggif4qe-s].mp3
+    │   ├── Což takhle dát si špenát [q3QUHHpWKwk].mp4
+    │   ├── Create Your Own Dark Web Website[YXoS8wd1DJo].mp4
+    │   ├── Dachau blues [dL8t7Gkkq1o].mp3
+    │   ├── Další tři přání[L8N1XxVNx10].mp3
+    │   ├── Dám skotskou[hGin8YDdndQ].mp3
+    │   ├── DA.MUkluv mec [6iiby81gIeU].mp3
+    │   ├── Daniel Landa  - Hoří horizont[zAz4mcgVTIs].mp4
+    │   ├── Dáša [3rEWIxRhu7U].mp3
+    │   ├── Davová psychóza - Spravodlivosť [3mCXJGR5FsI].mp3
+    │   ├── Deaf Radio  Anytime (Audio)[VUqgwbS1g6k].mp3
+    │   ├── deceptacon - le tigre[EU1CDSP7FRk].mp4
+    │   ├── Dědovo Desatero [iLhGudl440k].mp3
+    │   ├── Deerhoof - Scarcity Is Manufactured (Official Video) [6YDMgzRKXQA].mp4
+    │   ├── DeeThane - Idiot (Official Lyrics video) #ZG [s-MYUq7SU9o].mp4
+    │   ├── Dělej to líp[Mata2XrV9EM].mp3
+    │   ├── Demokracie [4YlrOS4slpg].mp3
+    │   ├── DEN OTEVŘENÝCH OKEN [yfMfAUTaIfA].mp3
+    │   ├── Deprese na druhou [bsijVzNKpAg].mp3
+    │   ├── Děti bolševizmu _ Bolševický bozi [N_89yT3NCAs].mp3
+    │   ├── Děti [o0-ZeMlGjwU].mp3
+    │   ├── Děti z kouřový hory _ RfP 2011 [yDBioDZtEOo].mp4
+    │   ├── Devce mi usnulo [OVMtsIBwjzQ].mp3
+    │   ├── Dezinfekce [1ZkeYmTXTsM].mp4
+    │   ├── Dezinformace [oeMiLqF_DQs].mp3
+    │   ├── Dezorient Express 2022 [GSxeLHHRJWM].mp3
+    │   ├── Dilema [Abe0MsNyro4].mp3
+    │   ├── Directory Traversal  Complete Guide[6z49dU1HVgI].mp4
+    │   ├── Disco Babiš - Čapí remix [8wxJYH-N-mM].mp4
+    │   ├── Ð is for Ðogecoin [000al7ru3ms].mp4
+    │   ├── Divná písnička o divné popravě [ibgk2GgG-4M].mp3
+    │   ├── Divný kníže [zJ203eg0eKk].mp3
+    │   ├── Divokej západ - Pocem holka [T5lhTxCVqlo].mp3
+    │   ├── dizzastar - 4amperovej knedlik [EQnELoVK4ns].mp3
+    │   ├── Dlažební kostka [HKl9ONpTPc0].mp4
+    │   ├── Dnes[Fzbs0mnDSnI].mp3
+    │   ├── Dobré časy [N13DTxFdi6Y].mp3
+    │   ├── Dobrý den majore Gagarine[BNYVQCZLZDM].mp4
+    │   ├── dobyti severniho polu zidem bobem dylanem - xavier baumaxa[FdrMB6KUNsg].mp3
+    │   ├── Doctor P.P. - Bicáky, tricáky, kokosáče (Oficiální videoklip) [5lyRbzVSKqE].mp4
+    │   ├── Doctor PP - Já mám vztek [jzqF8luyCiM].mp4
+    │   ├── Dogecoin Song - To the Moon [Official] [s3NWyh8a5t0].mp4
+    │   ├── Do haku II[KcLtY4niDuM].mp3
+    │   ├── Dokonalý svět [LE6E1WYOXUw].mp3
+    │   ├── Dokud Mi To Zapaluje Demo [rI31P7dsguA].mp3
+    │   ├── Dokud mi to zapaluje[Fs5I1wWFC3A].mp3
+    │   ├── Do nebe[S1UsZ-oYyFg].mp3
+    │   ├── Don Kichot [JdF0Xx4eGiA].mp3
+    │   ├── Dopis [SfBXrbE9GcA].mp3
+    │   ├── Dopisy [xyuN6uvsiww].mp3
+    │   ├── Do řady! - Blaničtí rytíři[A-Mt63dpARo].mp3
+    │   ├── Do řady!-Do řady![7Te4_8hraU8].mp3
+    │   ├── Do Řady! - Ježíš [--bVyhkm01E].mp4
+    │   ├── Dotace [MjyrMSom6AA].mp4
+    │   ├── Doznání [ADLTQ2i_fos].mp3
+    │   ├── Dres a tretry [G1w8qpHHkSk].mp3
+    │   ├── Dubioza Kolektiv - Firma Ilegal [x_PV8XmvLMw].mp4
+    │   ├── Dubioza kolektiv No Escape (from Balkan) (Official video)[jtgA0jvhp2A].mp4
+    │   ├── Dubioza kolektiv Prvi maj[iO79DhItC_c].mp3
+    │   ├── Dubioza kolektiv USA (Official video)[0a5BJxrarL0].mp4
+    │   ├── Důchodce [SmVWbDc1CYc].mp3
+    │   ├── Důchodce [xgrr3oiZsIc].mp3
+    │   ├── Dukla Vozovna - Bílá Vdova [wSSApXR-pgg].mp3
+    │   ├── Dum na demolici [6Q4KcNezn5M].mp3
+    │   ├── DVD Vyčistit 2[DScjyPzqHFc].mp3
+    │   ├── Dvě kostnatý dámy[xYTRG80_xos].mp3
+    │   ├── Dvě nasraný kočičky [4k3ibnoXgoA].mp3
+    │   ├── Echt! - Mam vseho dost [iL2d5VdAwLg].mp4
+    │   ├── Echt! - Světabol[J9IPsIWLNto].mp3
+    │   ├── E!E - Český ráj to napohled  (Official Music Video 2023)[IyJHSZp02Is].mp4
+    │   ├── E!E - Konečně jsem chlap[NHugcItiBbw].mp4
+    │   ├── E!E - O ženách [ysdcjQXatJk].mp3
+    │   ├── Egon Bondy - Zbytky eposu, úryvek o oblbenosti [dvokbU_JpeU].mp3
+    │   ├── Elán - Čaba neblázni (Official) [xBEoDpCIk3A].mp4
+    │   ├── Elán - Voda čo ma drží nad vodou text[GMVRQhE9B7A].mp3
+    │   ├── Elektrická sesle [ck3KKFHtNdg].mp3
+    │   ├── Eminem - Mockingbird [Official Music Video][S9bCLPwzSC0].mp4
+    │   ├── Energeticky úsporné Vánoce _ POKÁČOVA RYCHLOVKA [6g7N_JavuHc].mp4
+    │   ├── E-Pro Revised Audio Again Version Closed Captioned[RIrG6xBW5Wk].mp4
+    │   ├── Eric Idle - ＂Always Look On The Bright Side Of Life＂ - STEREO HQ [SJUhlRoBL8M].mp4
+    │   ├── error [レッドゾーン] [5BZLz21ZS_Y].mp4
+    │   ├── Esazlesa - Průměrný děti historie[8CKHHBAvLsg].mp4
+    │   ├── Etho - Resource Gathering (elybeatmaker Remix) [OK4WqyKjofw].mp3
+    │   ├── European GNU Radio Days Introductory Tutorial 1 (JM Friedt)[_0xF_eQoSGA].mp4
+    │   ├── Euthanasie [a_ynV2wUOlw].mp3
+    │   ├── EVERYBODY DO THE FLOP (asdfmovie song) [L5inD4XWz4U].mp4
+    │   ├── Experimentalni materska skolka [u5juuQ_Z6HU].mp3
+    │   ├── Extempore - Lihovar (Live 1979)  czech punk [Y-7kbP9FZnw].mp3
+    │   ├── Fatlip With Intro[CMX2lPum_pg].mp4
+    │   ├── Fat Shady - Daddy Aint Going to Work Tomorrow (English lyrics)[--h--fflWyk].mp3
+    │   ├── Fazlija - Helikopter [3ExGuHWdXCE].mp3
+    │   ├── Fenka[bCs1qjwAn7U].mp3
+    │   ├── Ferda jede na kole [gTqdVd0Wyos].mp4
+    │   ├── Filip Pýcha - Malá trapná odysea[TCaetWfGkl0].mp4
+    │   ├── Filip Pýcha - Spadla školala[eHSLonsPEMU].mp4
+    │   ├── Finančák[e82YrTKsDVw].mp3
+    │   ├── Flinta v zite (Live) [IJsqX7tEtuU].mp3
+    │   ├── Foil (Official 4K Video)[urglg3WimHA].mp4
+    │   ├── Fousatej Hat   - Ruma dej [m6ksc2zhADc].mp4
+    │   ├── František Gellner - Po nás ať přijde potopa [mDOgoN7lIPc].mp4
+    │   ├── Frantisek Sahula   Par not[yWq5GrQi8v0].mp3
+    │   ├── František Sahula - Stejně mi nedokážou nic [w5KLvfmeE_U].mp3
+    │   ├── František Sahula - Stíny Na Duši [TEXT][QHvOHHXfx9Y].mp3
+    │   ├── From Gods Perspective (FULL SHOW on YouTubeNetflix)[Zxc20saM8DA].mp4
+    │   ├── Furt to tak mame[WqgaXgcGMRE].mp3
+    │   ├── Gábino[JuuDm5A5WuU].mp3
+    │   ├── Garfunkel & Oates Loser[Kw2qEUwFbGM].mp4
+    │   ├── GAS GAS GAS! but It's ČESKY [jV7dgayLwsM].mp4
+    │   ├── German Soldiers Song - Erika (with English Subtitles)[rcVb6l4TpHw].mp3
+    │   ├── Gilotina [ailP7wrG3RM].mp3
+    │   ├── Grafiti - What Is The Problem [-jHxDXtGYlA].mp4
+    │   ├── Green Day - 21 Guns [Official Music Video][r00ikilDxW4].mp4
+    │   ├── Green Day - Warning (Video)[eebfMFzJHNs].mp4
+    │   ├── Greenhorns - Feleena z El Pasa[5_vMziAy9hA].mp4
+    │   ├── Greenhorns Veterán [lcPx05MzEI4].mp3
+    │   ├── GRIANDANCE - BLOCK BY BLOCKWORK! (GRIAN THE END HC7 FINALE)  jono[bBksFSJEkGw].mp4
+    │   ├── Grian -  More Doors for Me (elybeatmaker Remix) [K0Dw4dGETWo].mp3
+    │   ├── Grimmové [QWAtT-e9s9I].mp3
+    │   ├── Gulášová polífka [TKLj2HCnRQs].mp3
+    │   ├── Hádej [iJv6ZZwxN_w].mp3
+    │   ├── Hadí počty (Live) [W7DjRBKeq4c].mp3
+    │   ├── Hagen Baden -  Průša (1992) [VkReC1QU9K0].mp4
+    │   ├── Hágen Báden - Průša [CDtseF2CP7Q].mp4
+    │   ├── Hantec - Hercna v gébišu [Z8OdEp9SL8g].mp4
+    │   ├── HARABIN ČI ČI ČI (piatoček remix) [lldRjeDFQgs].mp4
+    │   ├── Hejkal (text)[DVRzYIFkzME].mp4
+    │   ├── Hej kámo![xfAxp5e_vAA].mp4
+    │   ├── Hele hele [hcHLJwjjza0].mp3
+    │   ├── HEĽENINE OČI - NAKA _ Official video 2020 [A3eWSytd8og].mp4
+    │   ├── Hell's Comin' With Me - Poor Man's Poison (legendado⧸tradução) [YMgIMSSaeTQ].mp3
+    │   ├── Herdyn - Das Buben (Animovaný video) _ #HERDYNREMIX [wMxygvIExNE].mp4
+    │   ├── Hip Hop [ozw1gtE7YJY].mp3
+    │   ├── Hit That (Official Music Video)[HwRL1LNVTLI].mp4
+    │   ├── Hlasuju proti - PSH ft. Indy& Wich [LTcPd3gTYaE].mp3
+    │   ├── Hledám [71a-kxXlE_k].mp3
+    │   ├── Hledám šťastnou hvězdu [8GpNXrK04JA].mp3
+    │   ├── Hle, jak se perou [XSv4bOxCwkA].mp3
+    │   ├── Hlídači slov [2E4iIRtpBUk].mp3
+    │   ├── Hm - Buď můj salám[wWd9_bQl5Vg].mp3
+    │   ├── Hm - Kdo vám tak zcuchal tmavé vlasy[Lx-ecRkfq3s].mp4
+    │   ├── Hm Kdo vám tak zcuchal tmavé vlasy[-MI-CW267Hw].mp3
+    │   ├── Hm Moje ruce[bYJ7FpNdRpA].mp3
+    │   ├── HM  Píseň o lásce (Jaroslav Seifert  Hm)[uW5xcB5u5FY].mp4
+    │   ├── HM  Přijdeš domů[rVunAlEa6sc].mp4
+    │   ├── Hm - Znáš dálku[cUVHYs4dO9o].mp4
+    │   ├── Hnaci strojek [Eid0_HVHb1E].mp3
+    │   ├── Hnaci strojek [VaRuY1jVPqQ].mp3
+    │   ├── Hodinový hotel[03pI4MJE5EQ].mp3
+    │   ├── Holky a mašiny (Olga Hepnarová edition)[9EnKuxMXV6w].mp3
+    │   ├── Hollywood [yn51DaB9fpM].mp3
+    │   ├── Homo-opo-čenský [DkG4L0oVqUs].mp3
+    │   ├── Honza Jícha Bohyně[Xhrg696Cky8].mp4
+    │   ├── Honza Jícha Univerzální trampská píseň[RoqG4RygXgU].mp4
+    │   ├── Hópni zpátky do hrobu[ojJUTIVe6Uk].mp3
+    │   ├── Hop Trop - Amazonka (oficiální video)[plgFQPmf-DU].mp4
+    │   ├── Hoří [bZCdBJy3hGc].mp3
+    │   ├── Horko[qr1lMHX-1WQ].mp3
+    │   ├── Horkýže Slíže - A já sprostá [oficiálny videoklip][89YFb7qQyy8].mp4
+    │   ├── Horkýže Slíže - Baby [oficiálny videoklip] [QnX6HnJlUQU].mp4
+    │   ├── Horkýže Slíže - Brdokoky [oficiálne audio] [FDLeLEAaJkI].mp3
+    │   ├── Horkýže Slíže - Frankie Doparoma [oficiálne audio] [-JJxftGO3pQ].mp3
+    │   ├── Horkyze slize - Listok na Mars bonus version [l14KHPM9PQQ].mp3
+    │   ├── HORKÝŽE SLÍŽE - POSTOJ [4QgjR7TuvJo].mp3
+    │   ├── Horkýže Slíže - Shanghai cola [oficiálny videoklip] [YobJ4wjl0qg].mp4
+    │   ├── Horkýže Slíže - Silný refrén [oficiálny videoklip] [b7ZFgwa9StM].mp4
+    │   ├── Horkýže Slíže - Vlak [oficiálny videoklip] [IPDXybx2eTE].mp4
+    │   ├── Horkýže Slíže - Vojtech [oficiálne lyrics video] [P2EV5_Nq9j0].mp4
+    │   ├── Hořlavá písnička [fKNHzQfm7Ws].mp3
+    │   ├── Hospodská [AsdFQm7mdFU].mp3
+    │   ├── Houpeme lodí[Qb9180g1BO4].mp3
+    │   ├── House of the Rising Sun [VixdIglCZXk].mp3
+    │   ├── Hovno - NEJLEPŠÍ PÍSNIČKA O EXKREMENTECH EVER! [9L-5a3cI16k].mp3
+    │   ├── How Hackers Bruteforce Login Pages of Any Website![UVQLHe51R_Y].mp4
+    │   ├── how to find a street in 2 minutes[rl2Q9xH8e7M].mp4
+    │   ├── How to Install LineageOS Using Linux ( How to Root Unlock Bootloader & Custom Recovery)[40u24m74GJ0].mp4
+    │   ├── Hrci prci [6OLFOdD2w24].mp3
+    │   ├── Hrdinská [GVd9fVPyvDE].mp3
+    │   ├── Hryhorij [on5QM-CsWfY].mp4
+    │   ├── Hudba Praha - Máma, Táta [8VleMlMb-XI].mp3
+    │   ├── Hurvínkovy trable [oVT6T8zgCd0].mp3
+    │   ├── Hustej wimpy -  Máme doma ebolu [v9Ed8cNLiJk].mp3
+    │   ├── Hustej Wimpy - Pračlověci  -) [7kgMiplZzHs].mp4
+    │   ├── Idiot - Kočkolit[rhRhL0rv4oQ].mp4
+    │   ├── Igor Pachmelking Zakuskov ： Come here and drink with me ! [3PUibM7OYmc].mp4
+    │   ├── Ikarus [_5i9qQPi19Q].mp3
+    │   ├── I kdyby ( 2)[W04lkC_Mj7c].mp3
+    │   ├── I Love Rocky Road (Official HD Video)[beTsDOBRs8I].mp4
+    │   ├── Inseminační stanice - NO FUTURE[_HjGFGPqpX8].mp3
+    │   ├── Instalatérská [yNgAtjYIE0k].mp3
+    │   ├── in the Russia ! [paVsb123Ziw].mp4
+    │   ├── INV - Maso z Billa Gatese [xOVzXWN5QC4].mp3
+    │   ├── Inzerat[V2yxl5gP4_s].mp3
+    │   ├── IRC Chat - How to Use The Social Underground of Geeks[gavdElFoTWI].mp4
+    │   ├── Ironie [5ZIGOEIzY-o].mp3
+    │   ├── Iskall and Mumbo Jumbo - Do You Even Bust？ (elybeatmaker Remix) [GV9Oy_cadq8].mp3
+    │   ├── It's my life (Russian version) [9B1M3IPVcXs].mp4
+    │   ├── Ivan Hlas - Na kolena (original)[wFj7rH6I2QM].mp3
+    │   ├── Ivan Hlas - Pro Elišku [official video][QDsZiC0Wvyk].mp4
+    │   ├── Ivan trojan [HhYOznk2ckc].mp3
+    │   ├── Ja a dabel [b6RSLWXDELk].mp3
+    │   ├── Jak Bubnuje Charlie？ [bG0oE7jwCtA].mp3
+    │   ├── Jak fungují nejznámější seřazovací algoritmy[hKLDct1mV5U].mp4
+    │   ├── Jak mi dupou králíci [pwqTCR3HsY4].mp3
+    │   ├── Jak můžeš zapomenout [MJMRUTjRwS8].mp3
+    │   ├── Jak na korona virus (Pokáčova Rychlovka) [CDnXCPt9Njw].mp4
+    │   ├── Jak nám dupou králíci [22tshO7sckA].mp3
+    │   ├── Jako u blbejch [DVgopOqRN8c].mp3
+    │   ├── Jako vždycky [p1ndmLXKkws].mp3
+    │   ├── Jak To Máme [gfODOHjy-C4].mp3
+    │   ├── James [GKU9a5JD0pA].mp3
+    │   ├── James - Vypsaná fixa [OxZKyaafxko].mp3
+    │   ├── Jananas - Antonín Sova (live) [XNCYRzctYv0].mp4
+    │   ├── Jananas - Dokonalá [Q7XT0drzkz0].mp4
+    │   ├── Jananas - GPS (videoklip) [UypyhR5Io54].mp4
+    │   ├── Jananas - Hormonie (Live Česká televize)[4wYPk0GMtcM].mp4
+    │   ├── Jananas - Malorážka (oficiální video) [cjpnhcHcdmI].mp4
+    │   ├── Jananas - PoÚtStČtPáSoNe (oficiální video) [X3Ohig0Bal8].mp4
+    │   ├── Jananas - The best of Jananas (live) [xvmee1eyIvs].mp4
+    │   ├── Jananas - To samo (lyric video) [cCnKiGfxSHI].mp4
+    │   ├── Jananas - Válka sportu [92nWiL8ZmsU].mp3
+    │   ├── Jananas - Válka sportu (live) [AtNvbjdaaJg].mp4
+    │   ├── Jananas - Zálohovaná [pycTVHX5HiA].mp4
+    │   ├── Jananas - Želé (Live Česká televize) [dLnvP9sqwGE].mp4
+    │   ├── Jana Smutná [e2Nzne_EK3Y].mp3
+    │   ├── Jan Burian - Kluci z naší třídy [5voGO4dAUvQ].mp4
+    │   ├── Jan Burian - Naruby [ON2vMujfLV0].mp4
+    │   ├── Jan Burian - Předvánoční koleda [1Qp0W3m2vjE].mp3
+    │   ├── Já nic, já muzikant [BMPTbJdPBv4].mp3
+    │   ├── Jan Werich- Bleška veška[rUpaKG0jiwU].mp4
+    │   ├── Jan Werich- Strejček hlad[vU9ANFhT27Y].mp3
+    │   ├── Jarda Švec a Visáči： Spermie + Parník zleva [oa8vTymyfGA].mp3
+    │   ├── Jarda Svoboda - Love Story [aUrdvpr36ck].mp3
+    │   ├── jarmila [9p5PiLSH1oY].mp4
+    │   ├── Jaromír Nohavica - Já chci poezii [ZnaHFXgzr2A].mp3
+    │   ├── Jaromír Nohavica - Ježíšek [co5jRuxu8L4].mp4
+    │   ├── Jaromír Nohavica - Penzion Česko [_UYW1s_XDAw].mp4
+    │   ├── Jaromír Nohavica - U nás na severu [vxjpS2zrxPI].mp3
+    │   ├── Jaroslav Hutka Havlíčku Havle Lucerna 1990[n3B9Dw0Ex4Y].mp4
+    │   ├── Jaroslav Hutka Ukrajina (2022)[WYe5arMBFLs].mp4
+    │   ├── Jaroslav Jeroným Neduha - Estébáček [-qbl7t2UGBE].mp4
+    │   ├── Jaroslav Samson Lenk - Jaro[8215opLcd0c].mp3
+    │   ├── Já se o nic neprosil [ZWcaX7qKh3g].mp3
+    │   ├── Jasná Páka Celou noc [Onnr72n0Cfs].mp3
+    │   ├── Jasná Páka Pal vocuď hajzle [yI4L1SpvUqw].mp3
+    │   ├── Jasná páka - Špinavý záda [eTAWn7yvbzM].mp4
+    │   ├── Já Vím[d4kVKz6aS34].mp3
+    │   ├── JDOU PO ME, JDOU [iUUPvB8kTPw].mp3
+    │   ├── Jé jé je to tak[3x2345ozhes].mp3
+    │   ├── JéJé Neduha Rock and Jokes Extempore band - Šel sem včera domů - přišel sem až dneska [dNiwcyjIoBs].mp3
+    │   ├── Jen s tebou - Mimo děj (album Bezcitnej pocit 2016)[pvfnBCDo3rM].mp4
+    │   ├── Je pět ráno[KCqkwFF1PKE].mp3
+    │   ├── Je podzim[HoUNo8UTS3M].mp3
+    │   ├── Je pozdě [TjAMrWI_pRg].mp3
+    │   ├── Jeřabiny [glXACl9wMHM].mp3
+    │   ├── Jessli dovolíte[jP3ZCDJ403A].mp3
+    │   ├── Ještě není čas [Etjk1XfXJjo].mp3
+    │   ├── Jesus[_quyxI4hIOk].mp3
+    │   ├── Ježek Voskovec Werich – Kolaboranti v Protektorátu[CbDGFW1rPZU].mp3
+    │   ├── Jiří Dědeček Óda na prezidenta[BC9rj-mdGbA].mp3
+    │   ├── Jiří Dědeček： POTKAN [ZNubqNJoSCw].mp4
+    │   ├── Jiří Dědeček & Úterý - Usměj se na mě Malostranská Beseda 16022013[CpNtiOKec9M].mp4
+    │   ├── Jiří Dědeček - Už jde rudoch od válu[dBebXwy9bh8].mp3
+    │   ├── Jiří Schmitzer - Hana [WwtKYb7Qp6Y].mp3
+    │   ├── Jiří Schmitzer - Řekněte prdel! [ZOFu0ySOuBk].mp3
+    │   ├── Jiří Šlitr - Tři tety [6eLwi7VIwiY].mp4
+    │   ├── Jízda vlakem[V497xtJJEH8].mp3
+    │   ├── Jsem Boží [C1vN-OKE53w].mp3
+    │   ├── Jsi krásnější než růže parodie[tfG4O6VrJhA].mp4
+    │   ├── Jsme normální [T6XQ2-5Ykko].mp3
+    │   ├── Kabát - Óda na konopí [4Px1Xscwv2Q].mp4
+    │   ├── Kain IX. [ykGSvfu2QJY].mp3
+    │   ├── Kaktus[czS4D6b6J_8].mp3
+    │   ├── Kamenozrout[DburVDr3wuc].mp3
+    │   ├── Kámen v botě[Ew_hg1Iz4ec].mp3
+    │   ├── Kamil [3ih2AyaHuzg].mp3
+    │   ├── Kampaň Song (Volby 2017) [U1CtvgsuAFg].mp4
+    │   ├── Kam se dožijem[CRGKJ4rw5V0].mp3
+    │   ├── Kam zmizelo[7kYbh2j3DDU].mp3
+    │   ├── Kanárek [h1d0D3qbd3c].mp3
+    │   ├── Kandidát vět[VfSh5P1bbxE].mp3
+    │   ├── ＂Kapely s příběhem＂ Jiří Dědeček-Udavači aneb Pán Bureš, nech sa páči [56ZziGr5Bf0].mp4
+    │   ├── ＂Kapely s příběhem＂  Jiří Dědeček-Za trochu lásky [M5-Ij77VOEw].mp4
+    │   ├── KAPITÁN DEMO - ZLATÍČKA (official video) [E4SAN6SlMp4].mp4
+    │   ├── Karabina & Rowers- Make love Cosa Nostra [VQWKntBGCXI].mp4
+    │   ├── Karavana mraků [K-wVTb8ukbY].mp3
+    │   ├── Karel Kryl - Atlantis [g6wrODM5af4].mp3
+    │   ├── Karel Kryl - Babylon [qRqEokAU4Z4].mp3
+    │   ├── Karel Kryl - Balada Manoně [ca2oL-dPjJE].mp3
+    │   ├── Karel Kryl - Blues pro papírový děfče [nOuftga3LcY].mp3
+    │   ├── Karel Kryl - Číslo na zápěstí [ZeTaMfGQlf8].mp3
+    │   ├── Karel Kryl - Co řeknou [e6jV3-sbBLY].mp3
+    │   ├── Karel Kryl - Darwin[I17iIBV2HPg].mp3
+    │   ├── Karel Kryl - Důchodce [7szXmyqA9Y4].mp3
+    │   ├── Karel Kryl - Ellena [g9mb22eX4gE].mp3
+    │   ├── Karel Kryl - Gulášová polífka [iAp-bjaYgpI].mp3
+    │   ├── Karel Kryl - Habet [cATkTIs2VkY].mp3
+    │   ├── Karel Kryl - Hle jak se Perou [ZhnJQY7ejOU].mp3
+    │   ├── Karel Kryl - Holáryjó [IX_LcYDwBUY].mp3
+    │   ├── Karel Kryl - Idyla [VTuDCzMs2mo].mp3
+    │   ├── Karel Kryl - Král a klaun [Wj8BuvEj56I].mp3
+    │   ├── Karel Kryl - Lásko! [W4D9_a3UTz8].mp3
+    │   ├── Karel Kryl - Maškary [eJZxKE9ol0E].mp3
+    │   ├── Karel Kryl - Monology [ev86c_t31Dw].mp3
+    │   ├── Karel Kryl - Morituri te salutant [BWcLkj74mv4].mp3
+    │   ├── Karel Kryl - Nehažte kamení [0BkyzElFWvI].mp3
+    │   ├── Karel Kryl - Nevidomá dívka [gGvrI_5qFXA].mp3
+    │   ├── Karel Kryl - Ostrov pokladů [U-Y1OeD314g].mp3
+    │   ├── Karel Kryl - Pasážová revolta [6OYbqsp_KRM].mp3
+    │   ├── Karel Kryl - Píseň Neznámého vojína [cq303GXK9qc].mp3
+    │   ├── Karel Kryl   Píseň neznámého vojína [JYcDjz3MJ0E].mp3
+    │   ├── Karel Kryl - Píseň o žrádle [CBja70jiFL4].mp3
+    │   ├── Karel Kryl - Písničkářský bacil [xIFDPxcJ_Xs].mp3
+    │   ├── Karel Kryl - Platýs [Zmk4dplmLGI].mp3
+    │   ├── Karel Kryl - Pochyby [eruYOW7uq-Q].mp3
+    │   ├── Karel Kryl  Podivná ruleta [KYmWbZehezg].mp3
+    │   ├── Karel Kryl - Potkal jsem svou tchýni [emweoc5amdI].mp3
+    │   ├── Karel Kryl - Prsten s kamejí [CnnjW1Kx-SM].mp3
+    │   ├── Karel Kryl - Pták Noh [zyeJ1jyo2y4].mp3
+    │   ├── Karel Kryl - Pušky a děla [L4Fdt6Kohz0].mp3
+    │   ├── Karel Kryl   Salome [kSVdxMzva9o].mp3
+    │   ├── Karel Kryl - Smečka [8i9WjZh8KK4].mp3
+    │   ├── Karel Kryl - Strejček Strach a teta Obava [ee4752EppU4].mp3
+    │   ├── Karel Kryl - Střepy [LLuKW0R7Mdc].mp3
+    │   ├── Karel Kryl - Tak jenom pojistit [gmeTh7H2_QE].mp3
+    │   ├── Karel Kryl - Tak Vás tu Máme [Y2WI9XsXu2M].mp3
+    │   ├── Karel Kryl - Tak vás tu máme [ZsXQlB1aNt8].mp3
+    │   ├── Karel Kryl - Timur a jeho parta[xdRgv7kFS1g].mp3
+    │   ├── Karel Kryl - Tráva [XwGa7IoLUBU].mp3
+    │   ├── Karel Kryl - Za vozem [vjUZjLcSzic].mp3
+    │   ├── Karel Kryl - Znamení doby [1-62ljrhLnA].mp3
+    │   ├── Karel Plíhal - 01 Diga diga do[Z5XJs9x1COA].mp4
+    │   ├── Karel Plíhal - 05 Švadlenka [V2lmE2BBENg].mp4
+    │   ├── Karel Plíhal - 07 Sedí topič u piána [Qekr1Tl-a0Q].mp4
+    │   ├── Karel Plíhal - Amnestie [vtNNf7l1fbY].mp3
+    │   ├── Karel Plíhal - Básník ten má právo veta[I7LQi5avuFg].mp3
+    │   ├── Karel Plíhal - Bázlivá [N0mTZ0GwIKs].mp3
+    │   ├── Karel Plíhal - Blues o žízni[mdUzQ3FR_WY].mp3
+    │   ├── Karel Plíhal-Blues železničního mostu [mJ-9QVf-hMc].mp4
+    │   ├── Karel Plíhal - Brej den [UKvL2_5U4_c].mp3
+    │   ├── Karel Plíhal - Burani z Anglie (live) [giPLKz-Ss7E].mp4
+    │   ├── Karel Plíhal - Času je málo [tNERnRCnSGE].mp3
+    │   ├── karel plihal cerna dira.wmv [s0mWkezyqPY].mp3
+    │   ├── Karel Plíhal - Dáša křičí ze spaní [7Z2LTomhSRQ].mp3
+    │   ├── Karel Plíhal - Dopis [muvbCKsiffQ].mp3
+    │   ├── Karel Plíhal - Fotka [i2htt9zLIZw].mp3
+    │   ├── Karel Plíhal - Gilotina [AuwT4-NOqRE].mp3
+    │   ├── Karel Plíhal - Imperial blues[dTrxmgkmp-I].mp3
+    │   ├── Karel Plihal  Jaroslav Seifert - Vánoční píseň[HlSKDuGEI-s].mp4
+    │   ├── Karel Plíhal - Já vrátím se zpátky [T7cUYGfM0cE].mp3
+    │   ├── Karel Plíhal - Kluziště [ErrhbKM4DMU].mp3
+    │   ├── Karel Plíhal - Kučeravý listonoš[UoWo9RIhD7M].mp3
+    │   ├── Karel Plíhal - Lelek[Ey0qsKK4vgA].mp3
+    │   ├── Karel Plíhal - Mám křivej nos[AIPJQmyj07M].mp3
+    │   ├── Karel Plíhal Milej pane Danikene[RmUjozMb1ic].mp3
+    │   ├── Karel Plíhal - Modrá knížka [cyodPHBlakk].mp3
+    │   ├── Karel Plíhal - Nagasaki, Hirošima [2vIIih6P_jc].mp4
+    │   ├── Karel Plíhal - Na kolech (live) [QYECYkGDvz0].mp4
+    │   ├── Karel Plíhal - Na konečné tramvaje [chgYqrq0QQg].mp4
+    │   ├── Karel Plíhal - Nalámal se mraveneček [syBtBPjiJRk].mp3
+    │   ├── Karel Plíhal - Námořnická [MMKnIg8VFHI].mp4
+    │   ├── Karel Plíhal - Námořnická [XW7ZxSB5Qo8].mp3
+    │   ├── Karel Plíhal - Na Pradědu sněží[Bu3ntlhsaVo].mp3
+    │   ├── Karel Plíhal   Nebe počká   Deštivý den[Kre14kn4xuc].mp3
+    │   ├── Karel Plíhal - Neopouštěj rám[1BX5h3UT0_4].mp3
+    │   ├── Karel Plíhal - Odcházím z domova[BxrKICLALY4].mp3
+    │   ├── Karel Plíhal - Odjakživa mne to vábí[UDvO8SRqtyY].mp3
+    │   ├── Karel Plíhal - O jehle a niti [QMNZK1UjTpo].mp3
+    │   ├── Karel Plíhal - Olomouc[L0IpQ9xUWVI].mp3
+    │   ├── Karel Plíhal - Padaly hvězdy [splYJiok1hY].mp4
+    │   ├── Karel Plíhal - Padaly hvězdy [yB3Yv-Jd128].mp4
+    │   ├── Karel Plíhal   Padesátník[AjEBHElI9BQ].mp3
+    │   ├── Karel Plíhal - Peníze z nebe[diblD9EptJw].mp3
+    │   ├── Karel Plíhal - Pomalu plyne proud[vQZnJSMavYg].mp3
+    │   ├── Karel Plíhal - Pozvánka [YQWRJVi1xw4].mp3
+    │   ├── Karel Plíhal - Ráda se miluje [O3mzoRPKZMY].mp4
+    │   ├── Karel Plíhal - Skončil další fet [5iineU4AJrw].mp3
+    │   ├── Karel Plíhal - Snehulák [7zoF3SEJgjk].mp4
+    │   ├── Karel Plíhal - Sopka [Ath6hmVjAUE].mp3
+    │   ├── Karel Plíhal - Sprej (live) [c5AGi7CFi5Y].mp4
+    │   ├── Karel Plíhal - Tichá je voda [nIgyuvQ3zbc].mp3
+    │   ├── Karel Plíhal - Ve skříni (Olomouc) [63CFVK5NSmU].mp3
+    │   ├── Karel Plíhal - Vločka[WPpGCTAef_w].mp4
+    │   ├── Karel Plíhal - Vosa v kofole [N_jzThSYvb0].mp3
+    │   ├── Karel Plíhal - Vzpomínky.wmv [Lr_cUuzH8sg].mp3
+    │   ├── Karel Plíhal - Zahradnická [5hQXpU0QPU4].mp3
+    │   ├── Karel Plíhal - Zavřu se do sebe [sd2lLRFmPwM].mp3
+    │   ├── Karel Plíhal - Železniční most[QcZ8NILZago].mp3
+    │   ├── Karel Plíhal - Země je deska[8jTP6uObwXg].mp3
+    │   ├── Kashmir - Rocket Brothers [rkQsoyKoiWg].mp4
+    │   ├── Kashmir - Surfing The Warm Industry [5-441uxB7Zw].mp4
+    │   ├── Kata-rze [ezlQjUe-xVU].mp3
+    │   ├── Kata-Strofy [PjJGQlaXkD0].mp3
+    │   ├── KATO - Aha (Remake)[iqrkMI9XHog].mp4
+    │   ├── Kde až jsou hranice, za které už nemůžu jít (Spermie_Sperm) [kCBT9YVvGdM].mp3
+    │   ├── Kde život můj (Where My Life Is)[-6QdivWo_vU].mp3
+    │   ├── Kdyz k nam prisla svoboda [BcNfJCZb3Cw].mp3
+    │   ├── Když na pavouka sedne blues.wmv [OvB4u-yvJhk].mp4
+    │   ├── Když se kouří konopí [tqrggXtxRck].mp3
+    │   ├── Kfjetina[JFQ8JGjzG84].mp3
+    │   ├── Kill the messenger[QsbVwn93-G8].mp3
+    │   ├── Kingdom Come Deliverance - Till Our Heads Turn White OST (Cover by Joran)[Y6Sslsb_Q-4].mp4
+    │   ├── Kis Grofo - Gigolo [7OvLinmDeUM].mp4
+    │   ├── Klánovice[h2dDth9DnEs].mp3
+    │   ├── Klánovice[sWcagfY4TLA].mp3
+    │   ├── Klemen Slakonja as Pope Francis - Modern Pope (#SpreadLove) [RoJsKV6-e9M].mp4
+    │   ├── Klementajn (Clementine) [RNTvplOaMPA].mp3
+    │   ├── Kleště a Letlampa (Šrouby a matice parodie)[D2Z7aOIb3C8].mp3
+    │   ├── Klobouk dolu[L5bck-MWNcE].mp3
+    │   ├── Kluk s pistolí [PuQEzq4mT0I].mp3
+    │   ├── Kohout plaší smrt - Hospodská [B6N9VgMkGxE].mp3
+    │   ├── Kohout plaší smrt - King of the road [IM1sL30mwJ4].mp4
+    │   ├── Kohout plaší smrt - Lodivod (Official video 2016) [j6iw5T_LfAg].mp4
+    │   ├── Kohout plaší smrt - Moucha [B6_ePJWpfGs].mp4
+    │   ├── Kohout Plaší smrt - Od osmi do pěti [WllZRhHbLWc].mp4
+    │   ├── Kohout plaší smrt - Ovečky [bdyp_-9Jtaw].mp3
+    │   ├── Kohout Plaší Smrt - Písnička veselá (EP 2017) Lyrics video[qvEci5TiOQM].mp4
+    │   ├── Kohout plaší smrt - Ztracená generace (EP 2016) [5lRGsxK7JMI].mp3
+    │   ├── Koleje [Z8KS9jtvgI0].mp3
+    │   ├── Komunismus [o-RZa6dVYLw].mp3
+    │   ├── Komunisty nemám rád [7HNNZBJQmdM].mp3
+    │   ├── Konečnej proces [yvn-4Z0Iwic].mp3
+    │   ├── Konflikt - Rebel ｜Official Video｜ [jcHu074Fhnk].mp4
+    │   ├── Konspirační praxe (feat. LA4 & Rest) [jo-Xv2J_ESU].mp3
+    │   ├── Konspirativní píseň o lásce aneb Na vlnách NWOO[T-qgG5N3Ng4].mp3
+    │   ├── KONTRABAND (feat. JOHNYBOSS) [NGPDsWH2eDM].mp3
+    │   ├── Konzumní [TsOUnA3_PtA].mp3
+    │   ├── Kosovo[L7RsC5fUe0g].mp3
+    │   ├── Koukám, jak celá země vstává.avi [BWC_zQMDAUA].mp4
+    │   ├── Kousnul mě pes [c71-ViyK1gE].mp3
+    │   ├── K Plíhal +Z Navarová  Sedávám na domovních schodech[4UQHfn6bxAQ].mp4
+    │   ├── Krach na burze[1x4nzDWQInI].mp3
+    │   ├── Král a klaun [9F0nS9I8Q1Q].mp3
+    │   ├── Král bláznů [vkKNMy-Bwlc].mp3
+    │   ├── Krasa Nesmirna [Uh03hIqdTTg].mp3
+    │   ├── Krausberry - Do Nebe[5HZeGjgzny4].mp4
+    │   ├── Kreatura [2x-qY7kkCgs].mp3
+    │   ├── Krímeš  -  Pridaj mi HD[HqEihwSvsC4].mp3
+    │   ├── Kristýno![c-KsTSjQi7E].mp3
+    │   ├── Kriticka Situace - Lovci [jsNRS9kfaT0].mp3
+    │   ├── Kriticka situace - Nečekej [MjcvOOmfpTc].mp3
+    │   ├── Krize [Xs-GL_YnzKk].mp3
+    │   ├── Krok po kroku[4585ATEjsr0].mp3
+    │   ├── Krosnicka[cy5iwM9dj9M].mp3
+    │   ├── Kubistický portrét [Veiew4V7mAQ].mp3
+    │   ├── Kufry mám sbalený [Fg8qWfVbp2g].mp3
+    │   ├── Kuko HS (Horkýže Slíže) - Horná Dolná (prod.Marcel Buntaj) HORNÁ DOLNÁ lyrics video [e3yqsdS9GQ0].mp4
+    │   ├── Kultura je plná kultů [dwM4UKD4xtA].mp3
+    │   ├── Kuplet O Ženské Emancipaci[rlxRD9vtY6A].mp3
+    │   ├── Kupte Si Hřebeny [Q4_q-jelA4I].mp3
+    │   ├── Květa [1bOMc9eE-uU].mp3
+    │   ├── Květina[cpyE43LAGJI].mp3
+    │   ├── Kvety - Balon[wAkb1IEWp6w].mp4
+    │   ├── Kvety - Cirkus[H9d8iL4CZEE].mp4
+    │   ├── Květy - Liány[c9qIV9jzZo4].mp3
+    │   ├── Květy - Město (official video) [bufcOFIUMoQ].mp4
+    │   ├── Květy - My děti ze stanice Bullerbyn [mXC1V7nVt1s].mp4
+    │   ├── Kvety - Pasacek Ovci[IFPT-PUXgXs].mp4
+    │   ├── Květy - Psí hvězda (Myau 2009)[Jz_Sqv_t3zY].mp4
+    │   ├── K vode [QKOB35LesZk].mp3
+    │   ├── Kyselina [Yus7iVBcVZo].mp3
+    │   ├── Lajlaj[yAyIyjXipU8].mp3
+    │   ├── Lásko [NvKNAfJWscA].mp3
+    │   ├── Lásko [vS8rMJsmjJU].mp3
+    │   ├── Lednice - JZD [Be9T1zvpJkA].mp3
+    │   ├── Lednice[PBaMU4MtDb8].mp3
+    │   ├── Leica [N9AOWy1KKq0].mp3
+    │   ├── Lemon Tree [49zga3j91i8].mp3
+    │   ├── Lenka[Pvmo4B46ZOE].mp3
+    │   ├── Letecky most ale marně čekáš v obklíčení u Stalingradu na letecký most[cCUsSqNd9fo].mp3
+    │   ├── LE TIGRE - DECEPTACON[-SyBR-M2YvU].mp4
+    │   ├── Lih Ze Sliv [2beiQpcwPhA].mp3
+    │   ├── Lilie - Karel Kryl [ySeHFK9KFu0].mp3
+    │   ├── Limp bizkit - mision imposible [IpP34A0Nz8o].mp4
+    │   ├── Lion by Stephen Lynch[JhA3pXjFeGs].mp3
+    │   ├── Lístok na Mars[Y43PkrTjpCE].mp3
+    │   ├── Lorenova [wKeZanngst4].mp3
+    │   ├── Los Colorados - Du Hast (Official Rammstein Cover) [a5xSxGhlHfc].mp4
+    │   ├── Loser[YgSPaXgAdzE].mp4
+    │   ├── Louis Armstrong - What A Wonderful World (Lyrics)[A3yCcXgbKrE].mp4
+    │   ├── Loutka [FFwSUseLHUk].mp3
+    │   ├── Loutka [wFID08HsUVk].mp3
+    │   ├── Loutky[IpCXXl8_LzM].mp3
+    │   ├── Love Song[o6saANCeExg].mp3
+    │   ├── Lucie - Černí Andělé [CW7NRJ_4IOE].mp4
+    │   ├── Lucie - Medvidek [J9q_oq6f19E].mp4
+    │   ├── LUCIE -troubit na trumpety by se nám líbilo[UevpxMhmrV0].mp3
+    │   ├── Lullaby (The Divorce Song) [_Z5XTc4s9R8].mp3
+    │   ├── Lunapark [DwIqCLovitM].mp3
+    │   ├── Made in Valmez[1KXhKnKKpGs].mp3
+    │   ├── Mafia Corner - Zuzulienka [smbG77cepTM].mp4
+    │   ├── Malá píseň o životě  Matěj Plíhal[dqx8BQOkbJQ].mp4
+    │   ├── Malomocnost prázdnoty - Špinavej titanic [2s8AwmwIZ5E].mp3
+    │   ├── Malý bubeník [QPC5M7vuoe8].mp3
+    │   ├── Mámámamá[X7XXiLSPsq8].mp3
+    │   ├── Máme co jsme chtěli [00Ak2koZXMM].mp3
+    │   ├── Mam prima den [SnsbM2pami8].mp3
+    │   ├── Mamuti[65seC7mCkEQ].mp3
+    │   ├── Mám v Bosně jeden tank [u98RgGgmxys].mp4
+    │   ├── Mám Vředy[CZWkFpmOASQ].mp3
+    │   ├── Mandelinka [6IHLgHBv_5M].mp3
+    │   ├── mao zedong propaganda music Red Sun in the Sky [OjNpRbNdR7E].mp3
+    │   ├── Marie dej mi čaj[hqgslGvVCUk].mp3
+    │   ├── Marines' Hymn (The Halls of Montezuma) _w lyrics [SwS6OkgUXKE].mp4
+    │   ├── Márinka [bYMLvprxYEA].mp4
+    │   ├── Mário[ZhHpvoufFqk].mp3
+    │   ├── MARNÁ [qW8cYPII5fc].mp3
+    │   ├── Marnosti ustup[LgSFIbTr4rE].mp3
+    │   ├── Maroko[B_Z93XgVXvM].mp4
+    │   ├── Mars útočí [UxHhu4kGobc].mp3
+    │   ├── Martin Čarný - Bezpracovní [s9jVCsbtdCM].mp4
+    │   ├── Martin Čarný III Cesta anarchistického dobytka za štěstím[o1ZVistUyt4].mp4
+    │   ├── Mártyho píseň[TZ9A3GP05EM].mp3
+    │   ├── Masomlejn - Paměti (pra) trpaslíka Čecha (1993)[W1hsbONqArk].mp3
+    │   ├── Matfyzák [tHu-8wEtBx8].mp3
+    │   ├── Matička Rus [mrchQfIUXLA].mp3
+    │   ├── Matná[UWwrveJGwaU].mp3
+    │   ├── Matovič remix - One time next time ou nou [OWZaId5hDnw].mp4
+    │   ├── Matt Rogers - Have a Pornographic Christmas [TgQr2SZdjOE].mp3
+    │   ├── Mávátka [aGkoSS21VrY].mp4
+    │   ├── Mazoretka [V5B6TuOeMSE].mp3
+    │   ├── MC Šalingrad, Lil Dopravis - Šalina rap (prod. LaloProductionsBeatz) [uThclT7VaL8].mp3
+    │   ├── Me-E-Me-E-Me-Meloun [Prw9hmZlgSM].mp3
+    │   ├── Me First and the Gimme Gimmes - Over the Rainbow[PBGGYrFePCk].mp4
+    │   ├── Mejdlo (Hey Baby)[vScvxt8LpLc].mp3
+    │   ├── Mejla Hlavsa & Garáž - Podvlíkačky [sGF9k1SRRBI].mp4
+    │   ├── Metronom [4T5sqVvJ34o].mp3
+    │   ├── Me, You and Steve by Garfunkel and Oates [groaPrY41Rk].mp4
+    │   ├── Mezi-A-Zet [WBphszOOu24].mp3
+    │   ├── MHD song - Ventolin[OHVYxTcWGso].mp4
+    │   ├── Michaels Uncle - Nezabíjej bratra[i4mFtHg159w].mp4
+    │   ├── Michael’s Uncle – Nezměníš nic (oficiální videoklip) [gaBFZRoNvaU].mp4
+    │   ├── Michal Horák - Bulvární (Live at Klub Parník - Ostrava) [_6SGU1-DXak].mp4
+    │   ├── Michal Horák - Děda Jára je boss [O3FX9V4QPu8].mp4
+    │   ├── Michal Horák feat. Pavouk - Vysokoškolskej song (Official Video) [70FP5nIrVyU].mp4
+    │   ├── Michal Horák feat. Pokáč - Netušim (Official Video) [HVrwxMFhzf0].mp4
+    │   ├── Michal Horák - Komár [2p-_1z51-1o].mp4
+    │   ├── Michal Horák - Nemusí bejt [B1tjKqzRMKo].mp4
+    │   ├── Michal Horák - Pátý kafe (živě ze zkouškovýho) [V1fibgNg5yE].mp4
+    │   ├── Michal Horák - Prázdná lednice [u99FxhFY9WE].mp4
+    │   ├── Michal Horák - Psí balada (živě) [8NNSdd2Crxo].mp4
+    │   ├── Michal Horák - Revizor [FNotOEH1h_c].mp4
+    │   ├── Michal Horák - Volejte věštce [3ZzFTAsHqNU].mp4
+    │   ├── Michal Tučný - Blízko Little Big Hornu  (oficiální video) [xsvfFBUEmXU].mp4
+    │   ├── Michal Tučný Cizinec [osgWnLxFbhg].mp4
+    │   ├── MIDI LIDI： LUX [Iln_CPcBsn8].mp4
+    │   ├── Mig 21 - Mávej (oficiální video) [bB6rrsOfcWA].mp4
+    │   ├── MIKA - Lollipop (Official Music Video) [6md5RSnVUuo].mp4.part
+    │   ├── Milej pane Danikene [hv4T3ylcjoY].mp3
+    │   ├── Miloš Zeman - Remix [efd0ZCNqMlc].mp4
+    │   ├── MILOŠ ZEMAN - THRIFT ŠOP REMIX (OFFICIAL VIDEO) [LIo-85HdzA8].mp4
+    │   ├── Minecraft lama [pKkQg0A3U8k].mp3
+    │   ├── Minecraft lama (song) - Wadní bratři (WB paří Minecraft) [e1m_pfGvNss].mp4
+    │   ├── Minecraft protestsong [JKW7oufcv98].mp3
+    │   ├── Minecraft protestsong - Wadní bratři (WB paří Minecraft) [9WFdxDswEF4].mp4
+    │   ├── Minotaur [mQpUOPWm5q8].mp3
+    │   ├── Mississippi [xpF0haLbBQE].mp3
+    │   ├── Místo k odpočinutí [ohnMfwFZYwg].mp3
+    │   ├── Mí zlatí roboti[3A3EohUZ3Ow].mp4
+    │   ├── Mňága a Žďorp - Nuda [-2BXFggI_3c].mp3
+    │   ├── Mňága a Žďorp - Pod mrazivým nebem _Nohavica, Gellner [QXbz8x3HYPo].mp3
+    │   ├── Mňága a Žďorp - Prádelník.wmv [F47WnWn_UGw].mp4
+    │   ├── Mňága a Žďorp - Rodné lány [x9-8Oa_HxMQ].mp4
+    │   ├── Mňága a Žďorp - Spaste svoje duše [-X5XDLxKUCw].mp4
+    │   ├── Modern World [whLyRybKoYk].mp3
+    │   ├── Modra knizka [C1pcknMQHfE].mp3
+    │   ├── Modri Kralici (Live) [A2gvedwhov4].mp3
+    │   ├── Moje duše ví[9Q3YECSNQI4].mp3
+    │   ├── Moje mila Ada [n7KEc601fp0].mp3
+    │   ├── Mokasín [i2nYBpCMGdU].mp3
+    │   ├── Morčata na utěku - Božkov [InGHWbOm_9o].mp4
+    │   ├── Morčata na útěku - chaluj(můj čas) [MSR6p4Xr-mg].mp3
+    │   ├── Morčata na útěku -  Di do prdele! (Di do prdele!) [u8XKVIpLvKY].mp3
+    │   ├── Morčata na útěku -  Hlášení odchytové službě (Di do prdele!) [Yv0I_kQKB5g].mp3
+    │   ├── Morčata na útěku -  Hledá se děda (Di do prdele!) [zd_oQ-jyiJI].mp3
+    │   ├── Morčata na útěku - Hovnocuc se vrací (Di do prdele!) [A2ymD9ECNp8].mp3
+    │   ├── Morčata na útěku - Já tu babičku prostě žeru [wTcZwyLngyQ].mp3
+    │   ├── Morčata na útěku - Nehoda [f8RsO_ibakc].mp3
+    │   ├── Morčata na útěku - Planeta prasat [V0NCZ5KxY2U].mp4
+    │   ├── Morčata na útěku - Rodinna pouta aneb Moc hodnej strejda [PzzfHa-eRtE].mp3
+    │   ├── Morcata na uteku severní vietnam [W-BPKF4hEnI].mp4
+    │   ├── Morčata na útěku -Twilight [GXcEKgaR9vw].mp4
+    │   ├── Morčata na útěku -  Zájezdní nevěstinec U zdechlé ludry (Di do prdele!) [SCfW4YGpfEQ].mp3
+    │   ├── Morituri te salutant [nrM_tMSctlg].mp3
+    │   ├── Morseovka [CK-Kwslq4Ek].mp3
+    │   ├── Mozna [q5iwQ8CRFjE].mp3
+    │   ├── Mravenci [YIQJIIIXe2M].mp3
+    │   ├── Mrtvy vrabec[1HmHgLMwvGA].mp3
+    │   ├── Mucha  - GREED (official video) [nOPGKHbCG6o].mp4
+    │   ├── Mucha - Mrtvá (official video) [QPm8d8wD7yY].mp4
+    │   ├── Mucha - Narkoraga (FPM Live Session) [1XZl16DEDj0].mp4
+    │   ├── Mucha - Schmutzige Mädchen[SSHHIZ_7myE].mp3
+    │   ├── Mucha- Špeky [QQy8bejGZoo].mp4
+    │   ├── Mucha - Úchyl [3dH6uRInPqg].mp4
+    │   ├── Muchomůrky bílé Garáž [I7-HNDQ0l_w].mp3
+    │   ├── Můj Příběh[qrYmHkL2Bi0].mp3
+    │   ├── Multiservis Tesla [4TI3rGXUSzE].mp3
+    │   ├── Mumuland[lrq3ePeA1IQ].mp4
+    │   ├── Mušle [b9LaznjXBuU].mp3
+    │   ├── Mužena[h07bCyfgWlc].mp3
+    │   ├── Muž, který prohrál [6xlh0WyI8js].mp3
+    │   ├── Myslenkovej pochod[nXbNmRIRsaw].mp3
+    │   ├── Myš [SeRic8Kk3-0].mp3
+    │   ├── Mys [Sq_0r2nDTM4].mp3
+    │   ├── My Whole Family - Bo Burnham (Lyrics) [iUqORgOYxmA].mp4
+    │   ├── My Woman[sYKwU1E2U1I].mp3
+    │   ├── Naběračka hoven[mzHnqcriIcg].mp3
+    │   ├── Naděje [qJxxmL2zdfw].mp3
+    │   ├── Naděje[-sIy8zBzEKg].mp3
+    │   ├── Nad horou Říp  Matěj Plíhal[aI_TlDUN0rM].mp4
+    │   ├── Nadobi [7BZF9zz13bI].mp3
+    │   ├── Nadživotní [VRSXTM9GHC0].mp3
+    │   ├── Nahoru po schodišti dolů band - Dysko Song [3hnimLOq1us].mp4
+    │   ├── Nahoru po schodišti dolů band - Hildegarda[Byb_Zvh1PUk].mp4
+    │   ├── Nahoru po schodišti dolů band - Hozená do gala [J2HUXK7y7Fw].mp4
+    │   ├── Nahoru po schodišti dolů band - Na chvíli ven [jI6B1l7lgSQ].mp4
+    │   ├── Nahoru po schodišti dolů band - Pytlíky ČSA [uBzcjOclsi0].mp4
+    │   ├── Nahoru po schodišti dolů band - Ve 4 ráno[W8-d9pQqQns].mp4
+    │   ├── Nahoru po schodišti dolů band- Ze zvyku [xOWc6jVWVZk].mp3
+    │   ├── Na Hrad![F9UtEgz4CM8].mp3
+    │   ├── Na konečné tramvaje [XfcMvw8R76Y].mp3
+    │   ├── Nálada[5BXD9Q2xwus].mp3
+    │   ├── Nálada na piču [DWBMs7C2u6U].mp3
+    │   ├── Na maturitní zkoušce v roušce _ POKÁČOVA RYCHLOVKA [csq-T4MC9_A].mp4
+    │   ├── Namaž mě máslem (feat. Mucha) [u7GYUN4FBjA].mp3
+    │   ├── Náměstek[gMfk_nQB_K8].mp3
+    │   ├── Námořník v lahvi [2atV_eyaXNE].mp3
+    │   ├── Na Nádraží[Fbv2nOqE8KI].mp3
+    │   ├── Naodpis (Live) [vj2Ydt9apOE].mp3
+    │   ├── Naodpis [zkoA78ngu1g].mp3
+    │   ├── Na Palubě Titanicu [xA8tU_r5j48].mp3
+    │   ├── Na půdě [XTjVf9DAdu8].mp3
+    │   ├── Národní třída - Je třeba si zvykat[_bxtmY67eUo].mp3
+    │   ├── Narozeniny [BG6a5Vx8biw].mp3
+    │   ├── Narwhals  - animated music video  - MrWeebl [ykwqXuMPsoc].mp4
+    │   ├── Naše bába věří všemu co píšou v novinách [E188dAePNHg].mp3
+    │   ├── Nase parta [2gTLMp5510w].mp3
+    │   ├── Naše parta - Xindl X [PWbO9Ksxi_M].mp3
+    │   ├── Násilí[atf4K87QURk].mp3
+    │   ├── Našrot - 21 Reasons Why White Men Can't Sing Rap (oficiální video) [xwCpBxbL_t0].mp4
+    │   ├── Na stanici polární[UNIxt4vqRRk].mp3
+    │   ├── Na Svatym Kopecku [atN9l0eqtrs].mp3
+    │   ├── Natural - Já na to mám 1984 [Gy_dvMhEAlU].mp4
+    │   ├── Na věky[-U8Wph6W-sI].mp3
+    │   ├── Na Větvi[9IcrmUYcg50].mp3
+    │   ├── Návštěva v pekle [fc-0hOv8pk0].mp3
+    │   ├── Na zahrádce[xtn0tU4WjFs].mp3
+    │   ├── Nazi-Czech [lDkeqUcfshA].mp3
+    │   ├── Nazijazz [6p3ftDjbFUY].mp3
+    │   ├── Názor zlej - Mimo děj (album Bezcitnej pocit 2016)[j3XhzrS1T6M].mp4
+    │   ├── Na zotavenou[aQrmmqR9Lfk].mp4
+    │   ├── něco něco - Strach[Um7zTEQpENE].mp3
+    │   ├── něco něco - Světlo[_K6VHpZWKj0].mp3
+    │   ├── něco něco - Vlny[px7IhM5QSr8].mp4
+    │   ├── Nedá se nic dělat [nBiqaTJFqrY].mp3
+    │   ├── Negalantni kuplet o poslednim zvoneni [3G-fSGXVNro].mp3
+    │   ├── Negdy[-Y2bxHwGuqk].mp3
+    │   ├── Nejlepší kuchař [IeECkEFksiE].mp3
+    │   ├── Nejlepší zvukař je playback [ONDGVUmPYjc].mp3
+    │   ├── Nejsem obtloustlý [BrJYU97jFFE].mp3
+    │   ├── Někdy [o1ewClM2geA].mp3
+    │   ├── Neklid [kUDGlDYPKiA].mp3
+    │   ├── Nenavist [leztzKs8Dcc].mp3
+    │   ├── Neplakala, to by lhala (Příběh ad vocem Morálka) - Karel Plíhal [WCCg5aeHGtM].mp4
+    │   ├── Nepravej Opak [zAFcY_tlDw4].mp3
+    │   ├── Neprojdou! - Píseň pohraniční stráže Československé socialistické republiky[ZKZyrWsLklM].mp3
+    │   ├── Neříkej mi baby[Bn8Sqbwxc90].mp3
+    │   ├── Nesahej na můj drink [O-RuD5-YGFM].mp3
+    │   ├── Netuším [Ek9AhljTaF8].mp3
+    │   ├── Nevadí [j1f34j-Q7Ys].mp3
+    │   ├── Nevděk světem vládne [uHiDBv0Ewrg].mp3
+    │   ├── Nevidomá dívka [bR_QhT9kwcA].mp3
+    │   ├── NEW - stephen lynch - america (This Is A Song For America) [3CSMTQd7JzY].mp4
+    │   ├── Nic se neděje _ POKÁČOVA RYCHLOVKA [Yx_LmlIAQyY].mp4
+    │   ├── NIGHTWORK - 90 - (devadesátky) [-MkW2U1YVuk].mp4
+    │   ├── Nikdy nic nebylo [r5IwDucCV7M].mp3
+    │   ├── Nikola Mucha a píseň Rudá řeka. Živě na DVTV Sametovém speciálu v Brně [2pS0zeCNn38].mp4
+    │   ├── Nina [12Y8wgdO8zY].mp3
+    │   ├── Nohavica - Mikymauz [81NWZV0lGWE].mp4
+    │   ├── No Name - Píseň pro nás dva[hqjJvRko88c].mp4
+    │   ├── Nosorozec (Live) [x7LC-lPLWlQ].mp3
+    │   ├── Noviny [30ec99VnrrA].mp3
+    │   ├── Nový prostor č. 33 [2BrqUr3OvO0].mp3
+    │   ├── Nowodobé kulty[NQpOYPO9ig4].mp3
+    │   ├── Nulta hodina [TdaJ59Em-Ls].mp3
+    │   ├── NVÚ - Loser  (Official Music Video 2016)[cWG6YORphyQ].mp4
+    │   ├── O blechách a tak [hETa8doMqiw].mp3
+    │   ├── Oblomov [TGRqjrUJZfI].mp3
+    │   ├── Oboroh - Návštěva v pekle [xUnyLOWqBlk].mp4
+    │   ├── Obrazárna [4_eQReml65w].mp3
+    │   ├── Óda na Kometu Brno-Text[oX6OFHN9Two].mp3
+    │   ├── Od Čadce k Dunaju [JYBFbH1g7xQ].mp3
+    │   ├── Odešla's ráno [aov6znPmDfQ].mp3
+    │   ├── Od Mozku K Srdci [4QkLzLcCmLg].mp3
+    │   ├── Odraz Slunce V Karaoke [BVI7AMKOrww].mp3
+    │   ├── Ohníčky[xRaKfRm1bVs].mp3
+    │   ├── Ohnivá kola [9mSsy9QeDLY].mp3
+    │   ├── Old Skull [vT9Xsw93X_g].mp3
+    │   ├── Olince [iLs-XS6p8Nk].mp3
+    │   ├── Olivia Rodrigo - brutal (Official Video) [OGUy2UmRxJ0].mp4
+    │   ├── Olympionik [3tibphsChUU].mp3
+    │   ├── Ona Mi, Tsunami [jNy39jiS6DA].mp3
+    │   ├── O nesmyslné době[TNn9GbeGQRo].mp3
+    │   ├── Orel mezi supy [84K4Y3rVYS4].mp3
+    │   ├── Osemnast [3ITWdseTIQc].mp3
+    │   ├── Osm dvojek [5CdDnvuBhBc].mp3
+    │   ├── Ostuda punku [qGJDA3JZ_Mo].mp3
+    │   ├── Otázky？ [YwfEjByWamc].mp3
+    │   ├── Otče noci[s8wpHpVVHHs].mp3
+    │   ├── OTK - Lavina [TXaE_xER0Mw].mp4
+    │   ├── Otvírákem[rvfYpGs7uSM].mp3
+    │   ├── Ou jipi je [DfQG5ZxDRco].mp3
+    │   ├── Ovečky [rjhILwetaV0].mp3
+    │   ├── P-13 - Ja znaju ludej[4qsJ1uOmgDM].mp4
+    │   ├── Padaly hvezdy (Live) [dTbLNnc2NYo].mp3
+    │   ├── Padevět[M3tplAXZE3k].mp3
+    │   ├── Paleček & Janík – Prodavač limonád [U8DLLOxSVMg].mp3
+    │   ├── Pan Farář[n1jyn0Gb2YM].mp3
+    │   ├── Panzerkampfwagen (Cadillac parodie)[w_DjFUxAYCA].mp3
+    │   ├── Paranoik [CUSIJkhLn0Y].mp3
+    │   ├── Parník se potápí, kapela hraje [YC-HYTEd6gs].mp3
+    │   ├── Parta vynikajících lidí - křižíkova fontána[0XMF0xS0ZtA].mp4
+    │   ├── Parta vynikajících lidí - slyšim[7f-Ln7qzRZg].mp4
+    │   ├── Pasážová revolta [uUJ7iBsodiA].mp3
+    │   ├── Pastor z Little Fort  M Hoffmann[woEZ6EJ18WE].mp4
+    │   ├── Pavel Čadek a Úcellová skupina - Zase se budím (lyric video) [dMAbutolSno].mp4
+    │   ├── Pavel Čadek feat Pokáč - 30 (oficiální videoklip)[DLBA4baaZo4].mp4
+    │   ├── Pavel Čadek - Úředníkův song (oficiální video) [4BK6EeY3d4M].mp4
+    │   ├── Pavel Dobeš - Pražce [zbMCt73kVy4].mp3
+    │   ├── Pavel Zítko - Všetko oni vědí - REMIX [G37-TFsYGuM].mp4
+    │   ├── Pavouci v poštovní schránce[zc2slJF4gYk].mp3
+    │   ├── Pecka s Kurtem (feat. Kutmasta Kurt) [hDDcTUQYxsI].mp3
+    │   ├── Peníze[vMuu0a32pgI].mp3
+    │   ├── Perpetuum promile [Kg5bH4t1r7c].mp3
+    │   ├── Pes [CmQe4LrrCV0].mp3
+    │   ├── Petra Göbelová - Novoroční (oficiální videoklip) [rGYhMyT4mec].mp4
+    │   ├── Petra Göbelová - Velká holka (oficiální videoklip) [KlPD8etC4A4].mp4
+    │   ├── Petr a strašidla [yssn-V2O-QY].mp3
+    │   ├── Petr Soukup & Jiří Vidasov - Nevim feat AZ[-wZYHmi80Wk].mp4
+    │   ├── Pierre[SbKJo_gK-1c].mp3
+    │   ├── Pink Floyd - Money (Official Music Video) [-0kcet4aPpQ].mp4
+    │   ├── Pipinka [FcUenZUPE4w].mp3
+    │   ├── Pisen [92hk8Jaqm6s].mp3
+    │   ├── Píseň neznámého generála [6tYfoBYVvHQ].mp3
+    │   ├── Píseň Neznámého vojína [EyMGq6tIBew].mp3
+    │   ├── Píseň o žrádle [wKzxQp-Aw-Q].mp3
+    │   ├── Píseň práce [WMtxbeUthQI].mp4
+    │   ├── Píseň pro Blbouna nejapnýho [OI0OG3CUiKA].mp3
+    │   ├── Píseň strašlivá o tom velkém dialogu který nastal v Čechách léta Páně 1989 ale ne s[H1SqQQFBvME].mp3
+    │   ├── pisnesmazanezyoutube
+    │   │   ├── 039 PLASTIC PEOPLE - Francovka - VELEŇ 1973, CD 1 (2006).wma
+    │   │   ├── 04c381e4_Anders_Nilsen___Salsa_Tequila_Official_German_Parody.mp4.mp4
+    │   │   ├── 2b2t Anime Opening [6CUoNfZgK8o].mp4
+    │   │   ├── franczovka.mp4
+    │   │   ├── Mucha MeToo (official video).mp4
+    │   │   ├── Můj Putine - Propaganda [lmkD-kzglPw].webm
+    │   │   ├── Tragedis - Hit [2cuGmDJqOLk].webm
+    │   │   ├── Vágus [EYGI8OXQNxA].mp4
+    │   │   ├── X2Download.com-Udělám ti 4 děcka hajzle-(1080p).mp4
+    │   │   └── Xavier.mp4
+    │   ├── Písničkářský bacil [r7VNI0XNMQI].mp3
+    │   ├── Písnička [SCt9-3EFD0o].mp3
+    │   ├── Pitomý chanson [6m_ssxOaQ-c].mp3
+    │   ├── Pivo a zavináče [ufSBkzwN3TE].mp3
+    │   ├── Pivo rum[oZLaltPkDYs].mp3
+    │   ├── Plachetnice [CtZlvt5RQxs].mp3
+    │   ├── Plastic People of the Universe-Podivuhodný Mandarin [YXUIAqGFYNw].mp3
+    │   ├── PLEASE DONT BE SO SAD (watch this when your depressed) [PppkNH3bKV4].mp4
+    │   ├── Plešatá zpěvačka[0hNtW8uojzo].mp3
+    │   ├── Plexis - Take it Easy[nSw0DQrecDc].mp3
+    │   ├── Plíhal - Mandelinka [2jlXjgxj_Gw].mp3
+    │   ├── &[pLJ85XExZtQ].mp3
+    │   ├── Plná taška hulení [LG_yAk-8btY].mp3
+    │   ├── Pochod rudých námořníků[gk6FybD2mVo].mp3
+    │   ├── Podíly[mYIobNR0CUw].mp3
+    │   ├── Podlehnuti [VeV9--AVNwg].mp3
+    │   ├── Podzimní [01AHA5JE0_w].mp3
+    │   ├── Pojďme si hrát se slůvky [3yiHssTV9aQ].mp3
+    │   ├── Pojďte Pane Budeme Hrát Punk EP (Full Album) [WPndHUv5BQk].mp3
+    │   ├── Pokáč - Balada o pivu [zDX1n2O7Zes].mp3
+    │   ├── POKÁČ - CHUDÁK ALZÁK (ukulele minisong) [HiH4LoPdHD4].mp4
+    │   ├── POKÁČ - CTRL C + CTRL V = A (ukulele minisong) [QOJzcGaBFPE].mp4
+    │   ├── Pokáč - Hořkosladká komedie [acoustic] [cFR0LVIAWH4].mp4
+    │   ├── POKÁČ - KOŠÍKOVÁ (ukulele minisong) [ZT4x1kzcY_A].mp4
+    │   ├── Pokáč - Mám doma kočku [official video] [p3y4XQ4B4Vw].mp4
+    │   ├── POKÁČ - MŮJ MILÝ BYTE (ukulele minisong) [lRVNuvIiUeM].mp4
+    │   ├── POKÁČ - OD MĚSTA K MĚSTU (pokáčovo demo) [3OdbKDVXJRA].mp4
+    │   ├── Pokáč - Pohádka (live) [official audio] [26ljY_cx93o].mp3
+    │   ├── POKÁČ - SPROSTÝ ADMIN DUŠAN (ukulele minisong)[Hpxw3A-t5a8].mp4
+    │   ├── Pokáč - To si na Googlu vyhledejte [official audio] [OBPfJ8PtJPc].mp3
+    │   ├── POKÁČ - VLASY (ukulele minisong) [brgi6HLItUE].mp4
+    │   ├── Poklad krále zimy [dbW3nnR-MrY].mp3
+    │   ├── Pokračujem v Jízdě [kiB-ihtKbfo].mp3
+    │   ├── Polední blázen [xfk5d10UnQ4].mp3
+    │   ├── Pole orná a válečná [4PSNhdoiMmY].mp3
+    │   ├── Polička[foXLxr6ta7g].mp3
+    │   ├── Popelka [6DaJhgfzmKY].mp3
+    │   ├── Pořád bez debat [KYpx3nGdD-0].mp3
+    │   ├── POŘADNÍK [sjtNNkfIL2o].mp3
+    │   ├── Porcelánový prasata [vHua84DAYuQ].mp3
+    │   ├── Posel [3XJmF_wXy6I].mp3
+    │   ├── Poselství Štěstí[xrrMiMhQOU8].mp3
+    │   ├── Poškození cizí věci (feat. Tafrob) [6mNmT1Zmz8M].mp3
+    │   ├── Poslední dopis[G7JNh5vSpo0].mp3
+    │   ├── Poslední nádražák[VHFanx1hLnE].mp3
+    │   ├── Poslední slunce[nftsOPJtQYs].mp4
+    │   ├── Poslední vůle - Jiří Dědeček [T-ZZ0M20N5U].mp4
+    │   ├── Poutníci [8nY5Lvl_E4s].mp3
+    │   ├── Poutník a déšť [CGATBpY5IWg].mp3
+    │   ├── Póvl [zUE6EL45gnY].mp3
+    │   ├── Povolávák [wAmbWUbntwo].mp3
+    │   ├── Pozor Jazz![1rmuT8Tn4go].mp3
+    │   ├── PPU - Podivuhodný mandarin - live [lYrHW83ln1c].mp4
+    │   ├── PRAČO PYGO![ANSmJy-w8qc].mp3
+    │   ├── Praděd[PMMw6QUxGU0].mp4
+    │   ├── PRAGO UNION - Bezesný Dny [SYMX4Ycc82U].mp4
+    │   ├── Prago Union - DlouháBezZastavení [tqF5ezML6xg].mp3
+    │   ├── Prago Union - Dobarvená (2016, UNRELEASED) [go3jVeFmpgk].mp4
+    │   ├── Prago Union - Drým [VG7eQqxM2_o].mp3
+    │   ├── Prago Union - Hadí počty [Vuit9qgMPhs].mp4
+    │   ├── Prago Union - Kata Strofy [bNutzedN6-k].mp3
+    │   ├── Prago Union - Klobouk Dolu [5q_ZLKVEBcY].mp3
+    │   ├── Prago Union - Krajní prostředek [pugN1Pkgq0o].mp3
+    │   ├── Prago Union - MHD[rtVogt6fPLo].mp3
+    │   ├── Prago Union - Myslenkovej pochod [Official Music Video] [r37Z209M9fM].mp4
+    │   ├── PRAGO UNION - POMALU ALE RYCHLE[CH8KyHYg4Ts].mp4
+    │   ├── Prago Union - PPS [FO72kg8QQds].mp3
+    │   ├── Prago Union - Sklep [E3AxPgG1xSg].mp3
+    │   ├── PRAGO UNION - ZÁDĚRA (OFFICIAL VIDEO) [VlP_k8BnHxg].mp4
+    │   ├── Pravidla českýho punku[85s8aNwyH8c].mp3
+    │   ├── Pražáci[GM2Seprbu98].mp3
+    │   ├── Prázdní lidé [EWqpM8zZu5Q].mp3
+    │   ├── PRAŽSKÁ PĚTKA  -  No to se ví  - Klip z filmu[X5aUVQBeqkA].mp4
+    │   ├── Pred bouri [0EWGhB3Qi-o].mp3
+    │   ├── Predstavte si rokovanie vlády, ak by bol Kiska premiérom. 🤔 [j2qBorH-TaY].mp4
+    │   ├── Prejs to čmajz (Těžkej Pokondr) [-nuKZVsydPY].mp4
+    │   ├── Překvapení [MEenVYrNCV8].mp3
+    │   ├── Převrat v Banánové republice [OKIqGvFD6-c].mp3
+    │   ├── Prezident v akvárku _ POKÁČOVA RYCHLOVKA [oQK-LFj9jj0].mp4
+    │   ├── Pricichnuti alergikovo[9g5R231DYew].mp4
+    │   ├── PŘÍDUHNED… (UŽ BĚŽIM)[ObTjDqXPk28].mp3
+    │   ├── Příležitostný piják [_3MiKCc72lk].mp3
+    │   ├── Primitiv [JEOT9h2AEtA].mp4
+    │   ├── Princess Chelsea - The Cigarette Duet[4TV_128Fz2g].mp4
+    │   ├── Přistávám [yXGUdHTNR-A].mp3
+    │   ├── Procházka parkem [YpMBoBIdR3k].mp3
+    │   ├── Pro císaře slávu [Mmutk18DC9A].mp3
+    │   ├── Procit [qrTR3fRZfzI].mp3
+    │   ├── Proč jsem se zcvok [UWACzWyI22k].mp3
+    │   ├── Prodavac slonu [40W8x2K34X4].mp3
+    │   ├── Projdu zdí [WUUNaeNBzOM].mp3
+    │   ├── Prosím tě, holka - Karel Plíhal [Crk7xpyuJ2M].mp3
+    │   ├── Proti všem - Proti všem [UZHs-fCKdkE].mp3
+    │   ├── Proutníci kluci - Jarek Nohavica (cover by Matěj Plíhal)[GbcM-DWv3XU].mp4
+    │   ├── Prouza-Na venku[B5VYQXvJ0tU].mp4
+    │   ├── PROUZA - Tak tak (Live)[u347OVzL6Lk].mp4
+    │   ├── Provazochodecka [6UNzVhAtxck].mp3
+    │   ├── Provizorní balada [XIch5V1uGK4].mp3
+    │   ├── Provokace [K29Rd4gKMmU].mp3
+    │   ├── Prší [3DQOXs8d0Uw].mp3
+    │   ├── Průvan (feat. Chaozz) [EEi3a1dC50I].mp3
+    │   ├── První [TnVSr3LpZcw].mp3
+    │   ├── Psí vojáci - Žiletky [H3fSpllkUtA].mp4
+    │   ├── psyche rock (Full Version) [qssa6ec7faQ].mp4
+    │   ├── Psychohlína - AVIA [Tg695qX1r54].mp3
+    │   ├── Psychohlína - Já mám kočky rád [KAo6R90cK-I].mp3
+    │   ├── Psychohlína - Jízda vlakem [VOxaOgW4wqA].mp4
+    │   ├── Psychohlína - Kombajny[wfeqy4Y4iIE].mp3
+    │   ├── Psychohlína - magor na poušti [O-I74NuS3ls].mp4
+    │   ├── Psychohlína - Pivoj a kanec [GsHCUTVBdV4].mp3
+    │   ├── Psychohlína - Svůdný hadry [NktdgCOw7Xc].mp3
+    │   ├── Psychohlína - Zábava [EqKV0sSa7FE].mp3
+    │   ├── Psycho [wMfthhNmuHU].mp3
+    │   ├── Půlnoční rebel [enLy0wyTGOo].mp3
+    │   ├── Půlnoční rebel (Rebelie Punk ’n’ Oi! Bonus) [4cYXH0hgA1A].mp3
+    │   ├── Půlnoční[Wo1SYvHnQ_c].mp3
+    │   ├── P.U.M. - Generace Idiot  (Official Music Video 2014) [gJerAmrUZjM].mp4
+    │   ├── Punk a pláč[slPCLvldxAU].mp3
+    │   ├── Pušky a děla [TNA8MqOTQ4M].mp3
+    │   ├── Pussy Riot - Chaika (2016) - české titulky [2ppS7cnmXdk].mp4
+    │   ├── Pussy Riot - CHAIKA  (Official Music Video) [VakUHHUSdf8].mp4
+    │   ├── Pussy Riot & Dave Sitek - Bad Apples (Official Music Video) [XMQSVsDHGD8].mp4
+    │   ├── Pussy Riot - Punk Prayer - [Mother of God, Putin Put!] [1s-ZN2yZzWw].mp4
+    │   ├── Pussy Riot： Putin will Teach You How to Love ｜ WIRED [YDDela4jNto].mp4
+    │   ├── Pusťte nás k holiči! _ POKÁČOVA RYCHLOVKA [GSIYHe3GIU0].mp4
+    │   ├── Putinův párek[EUTzUrrpGJg].mp4
+    │   ├── Rada se miluje [jdFyRXMEeaQ].mp3
+    │   ├── Radost až na kost[8M33klXsXv8].mp3
+    │   ├── Radosti života (Jaromír Nohavica) [Ezw9gexqA9k].mp3
+    │   ├── Radůza03 Bylo nebyloV hoře (2005)[mGeeXwfukwc].mp4
+    │   ├── Radůza feat Zuzana Navarová - Cestou do Jenkovic[ZIcOlITi9zs].mp3
+    │   ├── Rainbow  - The Temple Of The King ( HQ 320 Kbps )[Jlg_BEdXygM].mp3
+    │   ├── Rajčata a růže[V1tepjY2pX4].mp3
+    │   ├── Rajské zahrady [cD_EIiI4ieU].mp3
+    │   ├── Raketovej pes [q4RXQxuNj30].mp3
+    │   ├── Rakovina [XBECy-KCN5M].mp3
+    │   ├── Rancid- Hyena[md3XneSCvfE].mp4
+    │   ├── Ráno vstaneš[Azof5C_W0X0].mp3
+    │   ├── Rapvi3m[rNbGp2cHkAk].mp3
+    │   ├── Rapviem 2 [dGvB0UeX11A].mp3
+    │   ├── Rap-VI-em [YP4ylRpbsBs].mp3
+    │   ├── RAPVIIEM[wJx4adNi1eM].mp3
+    │   ├── Ratatata[KiQiGE22Xuk].mp4
+    │   ├── Rath song - Tohle rád (BlackFish mix) [bFtqv21C04E].mp4
+    │   ├── Ráže 24.7 (feat. Rest) [fHAEOiQaB5w].mp3
+    │   ├── Real World Hacking Tools Tutorial (Target Tesla)[-jLbRnmGYaA].mp4
+    │   ├── Rebelové bez příčiny [HZ_aYdZbuiw].mp3
+    │   ├── Recept  Runnin (Live)[pzOg9rFYeJs].mp3
+    │   ├── Ředitelské blues [-EWfx4RvgBI].mp4
+    │   ├── Řekni ďáblovi ne [gG5MTnE7xhQ].mp3
+    │   ├── Represe [M42TKNXDfdA].mp3
+    │   ├── Revolution - Russian Chant Aleksandr Pistoletov (Dongcopter Pirate) [oNNon23Hy9o].mp4
+    │   ├── Richard Müller - Pod plynárnou[wj08W7TDYX8].mp3
+    │   ├── Rizikové subkultury mládeže[pE37p1_XIWw].mp3
+    │   ├── Robert Křesťan a Druhá tráva - ještě jedno kafe [dGAxojETm9A].mp4
+    │   ├── Robert Křesťan & Druhá Tráva -  Kdybys mě zabila (Lyric Video)[FJoNt3HNKik].mp4
+    │   ├── Robert Palmer - Addicted To Love (Official Music Video)[XcATvu5f9vE].mp4
+    │   ├── Robinson [34xzljMfF7g].mp3
+    │   ├── Robot [oD-MwPETh8Y].mp3
+    │   ├── Rolák [_AR3QsIJudQ].mp3
+    │   ├── Rolák Dubplate (feat. Eccstatic Sound System) [6X5UmTVuShI].mp3
+    │   ├── Romka[Q6wMh1WkcBk].mp3
+    │   ├── Roy Clark - 12th Street Rag [xlrcNtH5pu8].mp4
+    │   ├── Rozcvička [UbTCE4dH1x4].mp3
+    │   ├── R.O.Z. (MH2) [NKf6MBSY4Lk].mp3
+    │   ├── Ruda & Yetty - PÍVO [CKZj1qKkLHU].mp4
+    │   ├── Ruda z Ostravy a Morčata na útěku-Tata zvrací [Cs2a6YJwrRI].mp4
+    │   ├── Ruda z Ostravy - Nuda [xb4qB7d98Cc].mp4
+    │   ├── Ruda z Ostravy - VLASTA !!! (Official Music Video) [gkWirMsjzH8].mp4
+    │   ├── Ruka je most - Karel Kryl, cover by OH [xntIrDKUbTk].mp4
+    │   ├── Ruler of Everything [At8ao5iABFg].mp3
+    │   ├── Rumštajn - Rum [D3bRWm3mxPc].mp4
+    │   ├── Running In The 90's [viy7z_yorkc].mp3
+    │   ├── Ruzovej život [c1R7sVAiWr8].mp3
+    │   ├── Růžový brejle [xZ_-wyV2unU].mp3
+    │   ├── RV-4 Svoboda[DunrUO3o6NA].mp3
+    │   ├── Rybičky48 - Bohém zapomenutý dítě (lyrics) [XIl4jGWzK-M].mp3
+    │   ├── Rybičky 48 - Jdi domů Ivane na jeden záběr [pnhi8oBWazg].mp4
+    │   ├── Šach mat[ghpGTqFET9o].mp3
+    │   ├── Safari - TV serial [XvJcSNOqDBY].mp4
+    │   ├── Salome [dbS8pMjQ-Ug].mp3
+    │   ├── Salsa Tequila - Deutsch [2ntKzszNpRU].mp3
+    │   ├── Sametové jaro [5V--ly8Ypfc].mp3
+    │   ├── Samson a Hop trop - Obluda[i_hqFJKHyiI].mp4
+    │   ├── Samurajske Mece [63Jz-nuJf5s].mp3
+    │   ├── sarada fetacka hymna [XiCl1nW9204].mp4
+    │   ├── S.A.R.S. - Buđav lebac (Official video) [YAMClna5m8k].mp4
+    │   ├── Saša Niklíčková： Lednice [mIrKh99HKq0].mp4
+    │   ├── Saša Niklíčková - Pan Šmeral[za7w1E6AKJQ].mp4
+    │   ├── Saša Niklíčková： Tetování [ujPxyYY6CL4].mp4
+    │   ├── Saša Niklíčková - Záchodová stětka [tVZcQE9SkJc].mp4
+    │   ├── Saša Niklíčková - Zmačkaná žena[w2yiJ0XuDrM].mp4
+    │   ├── Šátek[DOM5t1YFzRU].mp3
+    │   ├── Saymooon - TRAKTOR (230BPM) [2NapZeuMgEQ].mp3
+    │   ├── Sbalila mě - Mimo děj (album Bezcitnej pocit 2016)[gvxebV7XQ8A].mp4
+    │   ├── Sbohem 2021  POKÁČOVA RYCHLOVKA[nnFY0Ss8KZg].mp4
+    │   ├── Sbohem 2022  POKÁČOVA RYCHLOVKA[nuSEQ4bJZEU].mp4
+    │   ├── Schodiště - Kupředu! (2019) [302iHBeKG2E].mp4
+    │   ├── Schodiště - Mám sto chutí (2020) [emnxiRJvoeQ].mp4
+    │   ├── Schodiště - Pudu a skočim z Bezdězu (z CD Tanec) [x8p0FzYJpRU].mp4
+    │   ├── Schodiště - Síla romantiky - Live [_xyP709fp1c].mp4
+    │   ├── Schodiště - V Praze 7[Na2JJssY5pQ].mp4
+    │   ├── Sdružení rodičů a přátel RoPy Inťošky[KUrN4Nhp7Ds].mp4
+    │   ├── Sebevrah [yYeDOfy4g_I].mp3
+    │   ├── Sebevražda[Zk5-ZMsG2Ek].mp3
+    │   ├── Sedí prase ve svém chlívku [yA8kGWTmMLk].mp3
+    │   ├── Sedí topič u piána [XhAvLVkpWGM].mp3
+    │   ├── Self Esteem [FVhoS2vraQE].mp3
+    │   ├── Senior freestyle[BE_zI2Pe6qs].mp3
+    │   ├── Sen[T1qzEhjy49U].mp3
+    │   ├── Sex Pistols - God Save The Queen Revisited [g-38GX2YQig].mp4
+    │   ├── Sex With Ducks： the Music Video by Garfunkel and Oates [EXPcBI4CJc8].mp4
+    │   ├── Silent Scream - Notorickej dietář [Official Video] [lWyQcjDs8Us].mp4
+    │   ├── Simpsonovi homer zpívá poker face ! (Full HD s textem)[P4BapXXiqYU].mp3
+    │   ├── Situace (Sekerou okna neumyješ)[AKHRBxp8GLc].mp3
+    │   ├── Sklípek[Da3MSRlF_J0].mp4
+    │   ├── Skončil další fet [PuI80sIH-zk].mp3
+    │   ├── Škraloup[Dd7OAntXxco].mp3
+    │   ├── Slávek Janoušek - Rozhovor s nádražákem[eckA2Lqa2oo].mp4
+    │   ├── Slepej kámoš (Remaster)[vI_qZ4g7P-M].mp3
+    │   ├── Složená[95eipgB3M2U].mp3
+    │   ├── Slunicko [ylCdsV-D7MQ].mp3
+    │   ├── Slušnej Čech [ZrQAa3glIMo].mp3
+    │   ├── Služobníci Najvyššieho - Ježišu Pane môj [8NCIV6ChK1s].mp4
+    │   ├── Smer reklama - čo ak vyhrá voľby Matovič, Kiska a Truban [NyFAFEBVduo].mp4
+    │   ├── Smrt žije [m3ArFYo33zw].mp3
+    │   ├── Smutnej klaun [t7jPYqPF9FQ].mp3
+    │   ├── SNAD - Armádní[Czm9xQC6qMQ].mp3
+    │   ├── SNAD Na co[QLI2NtpozFs].mp3
+    │   ├── Snění [vW6YUCuQu1g].mp3
+    │   ├── Snidane Z Elektriny [9k6RsD_HXVM].mp3
+    │   ├── Sobec[GUFjhgrMsiA].mp3
+    │   ├── Sobotka song  - Demise feat. Zeman a Babiš (BlackFish mix) [7947hiDExn4].mp4
+    │   ├── Softwarově definované rádio (Jan Hrach)[i1ZB70nPF-g].mp4
+    │   ├── Song Jak Brno Petr Vokřál [UGA_Uu_yw7Q].mp4
+    │   ├── Song s krycim názvem BUREŠ[ze5VJNkX0gY].mp4
+    │   ├── Sorry[TZ8-HihqUVQ].mp3
+    │   ├── So This Is Outer Space[SFhTwx_HqT8].mp3
+    │   ├── Sousedův trávník[165ZEK-EvIc].mp4
+    │   ├── Sovy v mazutu, Tři sestry [6mcdrejWRQY].mp3
+    │   ├── SPAM[7X45AC7pqh8].mp3
+    │   ├── Spínací Špendlík - Báječný Svět - 07 - Cíle [c-GXX4KpLrg].mp3
+    │   ├── Špína [yFON2Ei9KU8].mp3
+    │   ├── Spíš ne [-pG9H4DNYRo].mp3
+    │   ├── Splin [awU56YeVmGg].mp3
+    │   ├── Společnost přátel žehu [r8BobAwW1nE].mp3
+    │   ├── Správnej Čech _ POKÁČOVA RYCHLOVKA [d7os9i4Oqrc].mp4
+    │   ├── Sprostej chlap v hlavní roli Miloš Zeman [iyqAXhkeCJ4].mp4
+    │   ├── SPS - Realita [5dov0fj5khA].mp4
+    │   ├── SPS Ruská[dL3wJqBNE5Y].mp4
+    │   ├── SQL Injection Hacking Tutorial (Beginner to Advanced)[yusJWttsD5o].mp4
+    │   ├── Srdce a kříž [q9d_uL89Q4Q].mp3
+    │   ├── Srdce pro Anubise [aC-DFLPRl2A].mp3
+    │   ├── Stalinovy oběti - 9. Já už sem takovej. 1991 czech punk [GBSvd8i1SEM].mp3
+    │   ├── Stalinovy oběti-ja už sem takovej [YmG_pAOwU_s].mp3
+    │   ├── Staromanželská [oOuQqtymWUY].mp3
+    │   ├── Starý dům [Dhxbsop_El8].mp3
+    │   ├── Stéblo pšenice [NB7CME3hw1M].mp3
+    │   ├── Stephen Lynch - 3 Balloons [LsNAfRoqwlE].mp3
+    │   ├── Stephen Lynch - Beelz  My Name Is Satan! (Lyric video)[5BeYXjBfrdg].mp3
+    │   ├── Stephen Lynch - Craig [f8HzKlCWN8k].mp3
+    │   ├── Stephen Lynch D&D [haOys7E2Zbo].mp4
+    │   ├── Stephen Lynch - D&D [QgOB7VWjlSQ].mp4
+    │   ├── Stephen Lynch Grand Father [IKZJM737Zl0].mp4
+    │   ├── Stephen Lynch - Mixer at Delta Chi[ca-ABv1mB9Y].mp3
+    │   ├── Stephen Lynch - Peanuts [Xi-AnMqKY8E].mp4
+    │   ├── Stephen Lynch - Special Ed [pfFRv_1XdDM].mp4
+    │   ├── Stephen Lynch - Taxi Driver [4X0vrkO-2fc].mp4
+    │   ├── Stephen Lynch - Waiting [DtXPmhOzOt8].mp3
+    │   ├── Štěstí [40i4gJx3tv0].mp3
+    │   ├── Stesti Jima Dixona [fhoKO1vAtdI].mp3
+    │   ├── Štěstí na babetě  Matěj Plíhal[jQfJF3zbXqA].mp4
+    │   ├── Stín [jfmYvtBIUxE].mp3
+    │   ├── Stínohra [CmANbhyMquY].mp3
+    │   ├── Stopaři[ZkqDaKZrWOc].mp4
+    │   ├── Stop [bF7xOGHo04I].mp3
+    │   ├── Stop blues (Key To The Highway) [r5f96cK3EHo].mp3
+    │   ├── Sto Zvířat - Havran [I_oPoaYDNls].mp3
+    │   ├── Sto zvířat - Nástěnka [bjH278jrIps].mp3
+    │   ├── Sto zvířat - Nikdy nic nebylo [Ugj2a0EFIHc].mp4
+    │   ├── STO ZVÍŘAT - Poprvé [v3h_C1eWHWw].mp3
+    │   ├── Sto zvířat - příbuzný [sJf6ieoG8Z8].mp3
+    │   ├── Sto zvířat - Rodinný foto (2021)[eTEtn0HzUTc].mp4
+    │   ├── Sto zvířat   Ty vole, na základní škole [VuVFEhinIEs].mp4
+    │   ├── Strč si hlavu do pračky [_9YHVttsp5Q].mp3
+    │   ├── Street Fighting Man (Official Lyric Video)[BUt0dZXPFoU].mp4
+    │   ├── Strejda Mára[YfciBSxgN-8].mp3
+    │   ├── Střepy [8oCir37I8bk].mp3
+    │   ├── Stromek[P3OExcsWVxs].mp4
+    │   ├── Struny[JPHfj8nsTrM].mp3
+    │   ├── Such a Loser [zS0chgBD8Rs].mp3
+    │   ├── Suchozemský muž [p7m3AIgIuc8].mp3
+    │   ├── Súdna Sieň[o1Rf_a2i2X8].mp4
+    │   ├── Sunshine Lollipops And Rainbows[atY7ymXAcRQ].mp3
+    │   ├── Surrealistická krajina [q6WL85Bqnfs].mp3
+    │   ├── S Vaničkou Dítě[Hu31pKuSaaU].mp4
+    │   ├── SVARTA SONG (píseň o Svarta Jumpu)[VpVhHRWTR7k].mp4
+    │   ├── Svatopluk - Návštěva v pekle [pVy5JFX_RV4].mp3
+    │   ├── Svět je zkaženej [rI5fOuIm0M0].mp3
+    │   ├── Svíčka [2m1GGN2ZS1E].mp3
+    │   ├── Svoboda projevu [BF7_Y1_0pUs].mp3
+    │   ├── SVOLOČ - Zbytkáč (2011).mp4 [8PeiZX2t5AQ].mp4
+    │   ├── Syfilis [LDKPlVOpDFw].mp3
+    │   ├── Syrovátka[BrSvCy3c4B0].mp3
+    │   ├── Szidi Tobias - Smutná[rmk6Lzh0CqU].mp3
+    │   ├── Táhne mi na čtyřicet[cJYsQpoz8Oc].mp3
+    │   ├── Take It Easy [iHQUSHPwtLw].mp3
+    │   ├── Takhle Hnusně [4-1_gosi8YQ].mp3
+    │   ├── Tak jenom pojistit [txP4MKuqkko].mp3
+    │   ├── Taková doba [tGUKnXLmsag].mp3
+    │   ├── Tak se ptám (feat. Rest) [6mYhSYBL69M].mp3
+    │   ├── Tak to my můžem[a2SjT_3sntI].mp3
+    │   ├── Tak už to bal[0xpGOmai5r0].mp4
+    │   ├── Tak už to bal[EepTB-TvRUU].mp4
+    │   ├── Tak vás tu máme [AqCe-uHStSQ].mp3
+    │   ├── Talisman[qrtTQGa7o2I].mp3
+    │   ├── Tally Hall - Turn The Lights Off [dLrdSC9MVb4].mp4
+    │   ├── Tally Hall - Welcome To Tally Hall [SwToedwyhoE].mp4
+    │   ├── Tancirna [KcXv8iJY2WA].mp3
+    │   ├── Tata Bojs - Léčitel (Nanotour oficiální live video) [2P0uCI6h1o4].mp4
+    │   ├── Taxík [Dh6l8hmuCU8].mp3
+    │   ├── Těbůh[cWB7xOB4I-4].mp3
+    │   ├── Teď jsi náš[6TFXSCwNsHY].mp3
+    │   ├── Televizní vysílení [4kG7Z9FjQcs].mp3
+    │   ├── Terkel Rap Remix [u14k3fvE0Zk].mp3
+    │   ├── Terorista[kcvgmrX7-_M].mp3
+    │   ├── Tesáno do kamene [Q9dG2PriF-4].mp3
+    │   ├── The Assumption Song - Oney Cartoons [TywmpMQYojs].mp4
+    │   ├── The Ballad of Scarface[5XhbICuIQrI].mp3
+    │   ├── The Bidding[ipYafcHd0jA].mp3
+    │   ├── The Clash - London Calling (Official Video)[EfK-WX2pa8c].mp4
+    │   ├── The Clash - Should I Stay or Should I Go (Official Audio)[BN1WwnEDWAM].mp3
+    │   ├── The Coconut Song - (Da Coconut Nut) [w0AOGeqOnFY].mp4
+    │   ├── ＂The Hearse Song＂ by Rusty Cage [xclh_676KwE].mp4
+    │   ├── The Hearse Song(Music Video) [OUwm11Ycfbg].mp4
+    │   ├── The Hever & Vaselina Band Červený vejložky[Uyb5ED_kr7w].mp4
+    │   ├── The Judges Daughter[mraRoDbikYU].mp3
+    │   ├── the Loners - Never[2vyLLshdfJM].mp3
+    │   ├── The Loophole by Garfunkel and Oates [j8ZF_R_j0OY].mp4
+    │   ├── The New Knife Game Song [SFfxMdgtxCE].mp3
+    │   ├── The Offspring -  Cool to Hate[PkRJzErnRmY].mp4
+    │   ├── The Rolling Stones - (I Can't Get No) Satisfaction (Official Lyric Video) [nrIPxlFzDi0].mp4
+    │   ├── The Rolling Stones - I'm Free (Official Lyric Video) [S6InAX5IAQM].mp4
+    │   ├── The Rolling Stones - Love Is Strong - OFFICIAL PROMO[Te6VBiRjhqA].mp4
+    │   ├── The Rolling Stones - Paint It, Black (Official Lyric Video) [O4irXQhgMqg].mp4
+    │   ├── The Rolling Stones - Sad Day (Official Lyric Video) [yukOJdg2vPk].mp4
+    │   ├── The Rolling Stones - Sympathy For The Devil (Official Lyric Video) [GgnClrx8N2k].mp4
+    │   ├── The Rolling Stones - Wild Horses (Acoustic  Lyric Video)[SQTHB4jM-KQ].mp4
+    │   ├── The Rolling Stones - You Can’t Always Get What You Want (Official Lyric Video) [krxU5Y9lCS8].mp4
+    │   ├── The Rolling Stones - You Can’t Always Get What You Want (Official Video) [4K] [Ef9QnZVpVd8].mp4
+    │   ├── The Rumjacks - An Irish Pub Song (Official Music Video)[tDTQQWSmo8s].mp4
+    │   ├── The Sex Pistols - Anarchy In The U.K (official video) [cBojbjoMttI].mp4
+    │   ├── The Shins - The Rifle's Spiral (Video) [jyqWjl7GkCE].mp4
+    │   ├── The Turning Point [p7LDk4D3Q3U].mp4
+    │   ├── The Velvet Underground-Heroin[qFLw26BjDZs].mp4
+    │   ├── The Windows Update Song - LOLNEIN [u7KGKcAji78].mp4
+    │   ├── Ticha je voda [NTNRvPd09Yk].mp3
+    │   ├── Tichý blázni[xW2QJO5v1Ic].mp3
+    │   ├── TleSKAč - Krutej John [JC0fVNKRx9Y].mp3
+    │   ├── Tobu - Hope [NCS Release] [EP625xQIGzs].mp4
+    │   ├── TOHLE JE ČAS ft. Herdyn [6c6ScQazBlk].mp4
+    │   ├── To je můj úděl[C7p2lznpjCY].mp3
+    │   ├── Tomáš Klus - Balada[6Z_0KZQUbdo].mp3
+    │   ├── Tomáš Klus - Chátrám (oficiální video) [-7Ny897Jhng].mp4
+    │   ├── Tomáš Klus - Dobrý mrav(enci)[t_OHSNo_u-c].mp3
+    │   ├── Tomáš Klus - Iniciativní (2012) [zScZ2TPt2rc].mp3
+    │   ├── Tomáš Klus - Marie [56r7X9YF8kQ].mp3
+    │   ├── Tomáš Klus - Nedá se nic dělat (demo) [w98JNPJsP9U].mp3
+    │   ├── Tomáš Klus-Nenávratná[aDXQzaaH0dk].mp4
+    │   ├── Tomáš Klus - Noe [uZSkkLdkBPQ].mp3
+    │   ├── Tomáš Klus & Tonda Blaník - Tonda (Prezident Blaník) (oficiální video) [3u9iB9ebUIE].mp4
+    │   ├── Tomáš Klus - Žezlo [MU1HjUirXW8].mp3
+    │   ├── To Mě Na Ní Mrzí [JR-N2m0-0js].mp3
+    │   ├── Tom IS- Pod Parou 2016 [XlYypZ1uKNo].mp4
+    │   ├── Tónovací[YvoV0rm0BJ4].mp3
+    │   ├── Top 5 CTFs to Get Started with Ethical Hacking[k3qvzjRrjCc].mp4
+    │   ├── To se stava [fmEPBoMSdzg].mp3
+    │   ├── TOTÁLNÍ NASAZENÍ - Je mi to líto (lyric video) [k5MIt3fTj1c].mp4
+    │   ├── Totální Nasazení - Protidavová [M4ptM6o71yY].mp3
+    │   ├── Totalní Nasazení-Weekend Punk [ALMn_FkSjQw].mp3
+    │   ├── Továrna [Hvkku081g10].mp3
+    │   ├── Traband -černej pasažér [naT9Gp4bVr4].mp4
+    │   ├── Traband - Lano, co nas k nebi pouta [P-4RgVsH2B4].mp4
+    │   ├── Traband - Na širém moři (Hou hou, samá voda) [3337qEYDKhQ].mp3
+    │   ├── Traband - Partyzán  Partisan[Nsx2_xlTW4s].mp4
+    │   ├── Traband - Sáro! [rrtThz7taFA].mp3
+    │   ├── traband.wmv [zs0A5KFZbxs].mp3
+    │   ├── Tracyho tygr[lYjHQZ1N4CA].mp3
+    │   ├── Tradá na Beroun [c8qCYLM6ync].mp3
+    │   ├── Tragédie s agentem [5ioQF08uUi0].mp3
+    │   ├── Tragedis - Až to vzdám (OFFICIAL VIDEO 2018) [2LuBzoourmA].mp4
+    │   ├── Tragedis - Česká (OFFICIAL VIDEO 2015) [NDQshQowBE8].mp4
+    │   ├── Tragedis - Hit [2cuGmDJqOLk].mp4
+    │   ├── Tragedis - Vesnický punkeři [gGCjiUm-M1U].mp3
+    │   ├── Trauma z dědství [3yeW3ypoTcY].mp3
+    │   ├── Tráva (Should I Stay or Should I Go) [a1p4QJ675bQ].mp3
+    │   ├── Treplev[cSHbZUjxJ2M].mp3
+    │   ├── Třídní Sraz [t6JysdAJrXU].mp3
+    │   ├── Tři kříže (Hákový)[N0QRjtxDFU8].mp3
+    │   ├── Tři sestry - Pijánovka (OFFICIAL VIDEOCLIP) [_Kzvt6gXmgg].mp4
+    │   ├── Tři sestry - Už koluje fáma [wiqdLJdTnn8].mp3
+    │   ├── Tři strážníci[PtKIqd1zPSQ].mp3
+    │   ├── Trochu v hlave mam [Zp1mXoLZ_xM].mp3
+    │   ├── Trolejbus [Kn9xtG8_28o].mp3
+    │   ├── Trubadúrská [J9Ri1T1BWCw].mp3
+    │   ├── Trust me, i'm an engineer ! [rp8hvyjZWHs].mp4
+    │   ├── Tublatanka - Pravda víťazí (full version) [kJucQNdBJo4].mp4
+    │   ├── Tu du tudu tudu u - franzovka [XaxCCuYyZWY].mp3
+    │   ├── Udavač (Prodavač parodie)[2S3dwcVXTxo].mp3
+    │   ├── Udavač z Těšína[scdZGb4Wmwk].mp4
+    │   ├── Udělám ti 4 děcka hajzle [ECJaZkwBa_Y].mp4
+    │   ├── Ukolíbafka[jhgVfO-h84w].mp3
+    │   ├── Úlet [2UXPe7g-2zk].mp3
+    │   ├── Uletak [nfmppfS0zeo].mp3
+    │   ├── Umělá Hmota - Alkohol z vodovodu [vo7LG_e8NOQ].mp3
+    │   ├── Underground [XeJ0jC201nY].mp3
+    │   ├── Uniformy [QiPpbLwTxes].mp3
+    │   ├── Uprchlík[4NPXiLrdWdg].mp3
+    │   ├── U spinetu (Live) [i1aesowUe0k].mp3
+    │   ├── U spinetu [ZRZ_soOSQZg].mp3
+    │   ├── U studánky[y3fsz46nNMk].mp3
+    │   ├── U tabule armády spásy [wFdjZcpFt_A].mp3
+    │   ├── U tebe teplo je[EN2jndu780k].mp3
+    │   ├── Utekl jsem od manzelky k mamince (feat. Lubomir Schneider) [imOE6-edgb8].mp3
+    │   ├── Utrácení [Px3K2f-Ppoc].mp3
+    │   ├── UŽ JSME DOMA - CESTA (JOURNEY DROGA CHEMIN)[PybFc6hZgug].mp4
+    │   ├── Už mám sbaleno [qUPpAUH6jQ8].mp3
+    │   ├── Vágus [EYGI8OXQNxA].mp3
+    │   ├── Valíme hroudy [cnESN5aVTJo].mp3
+    │   ├── Váňa z Vorkuty  BijouTerrier  Official Music Video[sUmSgxA98mk].mp4
+    │   ├── Vánoční píseň [Qg-4RWX2Mxc].mp3
+    │   ├── Vasil [0YiujNcN3Bk].mp3
+    │   ├── VÁŽNE NEBERU (feat. Prezident Lourajder) [NdzZAjhaaeE].mp3
+    │   ├── V Bufetu (Live) [qwQpCa_FGZk].mp3
+    │   ├── Vcela na nadrazi [M0cT4ptoK00].mp3
+    │   ├── Včera brzo ráno [fYJuCE1ymcs].mp3
+    │   ├── Vekslácké blues[kgPCUiDOCPk].mp3
+    │   ├── Veličenstvo Kat [3r0OPo4ITGU].mp3
+    │   ├── Velkej Vont [RJd1iEAEMd4].mp3
+    │   ├── VELVET Underground - RocknRoll - ViDEO[x1AXciXLd6Q].mp4
+    │   ├── Vendulka[gNrmusbumyI].mp3
+    │   ├── Venkovan kluk[btPlnX1RVV4].mp4
+    │   ├── Verona [tkZ1RiEXwHg].mp3
+    │   ├── Veselé Covidonoce _ POKÁČOVA RYCHLOVKA [tCMUVM0X9FY].mp4
+    │   ├── Ve skrini [OmrOhE5V6zM].mp3
+    │   ├── Ve stínu lípy (Jumpin´ at Shadows)[jeoHR5XhXbU].mp3
+    │   ├── Větrné mlýny [A_CtZD5Tmo8].mp3
+    │   ├── Video Paroubek Rap [Tju1qkjjTIY].mp4
+    │   ├── Víkendoví Emsís[8FU02r7ZmiY].mp3
+    │   ├── Vila [EROZWOYT7Ls].mp3
+    │   ├── visací zámek - absolutní peklo [ULH3nvqGDUQ].mp3
+    │   ├── Visací zámek - Dezinformační exploze [wgNMBpnRyEI].mp3
+    │   ├── Visací Zámek - Dopravní značky [UQG0eLfu4no].mp3
+    │   ├── Visací zámek - Noviny [6B3PW0lL_PY].mp4
+    │   ├── Visací zámek - Perspektiva [_K_8VczMg1s].mp3
+    │   ├── Visací zámek - Stánek [iserGkLVN_M].mp3
+    │   ├── Visací zámek - Visací zámek [mWlQmcnxUg4].mp3
+    │   ├── Visací zámek - Všichni mi lhali [yZ6fsROWcgo].mp3
+    │   ├── Visací zámek - Známka punku [official video] [3I6I-lolZp8].mp4
+    │   ├── Visací zámek - Známka punku [ZuYx_z9KU68].mp4
+    │   ├── Vision Days - Cesta do hlubin punkáčovy duše  (Official Music Video 2013) [0dDBesAMaJw].mp4
+    │   ├── Vision Days - Jiný oči  (Official Music Video 2017) [GZ4lKHMQZg4].mp4
+    │   ├── VISION DAYS - Nekonečnej boj [kshhWS3QbRE].mp3
+    │   ├── Vision Days - Pogo [jnM9brYRxfs].mp4
+    │   ├── Vision Days - Sida  (Official Music Video 2017) [ayYuTNCN3_E].mp4
+    │   ├── Vision days  Vodrhovačka [Bsy2Jl-tD3A].mp4
+    │   ├── Vítek Fučík - Bouřka (2018)[owUTt0SYkqg].mp4
+    │   ├── Víte, vono, holky [wWR992Cxh28].mp3
+    │   ├── Viva la Anarchia [oow8z4wM1Kc].mp3
+    │   ├── Vladimir Putin - Putin, Putout (The Unofficial Russian Anthem) by Klemen Slakonja [t-wFKNy0MZQ].mp4
+    │   ├── Vlajky vlají[GUnJEzif80U].mp4
+    │   ├── Vlak [ahkh43Gz9GI].mp3
+    │   ├── Vlak [h6XCSbKjU8s].mp3
+    │   ├── Vlaky - Hudba Praha [EcvPlSAyzHc].mp4
+    │   ├── Vlasta Redl - Opět na výletě (live)[ynBm3LgmV_w].mp4
+    │   ├── Vlasy [S5cD4tlskAc].mp3
+    │   ├── VLTAVA - Blanokřídlý výtah[5CNdBvxaP3M].mp3
+    │   ├── VLTAVA - Malá mrtvá víla[2V85rqLkzx4].mp3
+    │   ├── VLTAVA - Marx Engels Beatles[mkcRDiBeuxs].mp4
+    │   ├── VLTAVA - Smutný příběh Váni[h9G5fdXgFEw].mp3
+    │   ├── V myčce[eAPP7BSEluM].mp3
+    │   ├── Vo co gou [Ac6tk-6Lf9Q].mp4
+    │   ├── Voda v prášku[49R9sv9KFZk].mp3
+    │   ├── Volit Voly [s5nSrBO54Po].mp3
+    │   ├── Vono[K5ViLv0EFsw].mp4
+    │   ├── VORGLE (Buráky v hantecu) Honza Hlaváček [9BGLg37lVgA].mp4
+    │   ├── Vosa (feat. Matej Plihal) [_TvphL4nUzk].mp3
+    │   ├── Voskovec Werich Jezek - 05 - Jackova pisen[EBcjY7qzfQ8].mp3
+    │   ├── Všechno má svůj čas [Y_7rnOqiuWw].mp3
+    │   ├── Vše je jak má být [M6bmeNQFm3c].mp3
+    │   ├── Vše jenom proto, že jsem v nouzi! [zaEDRbz-rqA].mp3
+    │   ├── Vševěd[oem1bvLhz3E].mp3
+    │   ├── Vstavej Holka (Live) [ak6ZlSBImb0].mp3
+    │   ├── Vstávej holka [_n06SPMsdNk].mp3
+    │   ├── Vybarvená[4klCiOOVy2A].mp3
+    │   ├── Vyčůrat a spát - Je mi 14 let [9bWKNM7JwPs].mp3
+    │   ├── Vylet [LuIOIBRg9do].mp3
+    │   ├── Vypsaná Fixa - 1982 original [Em850V0jFG0].mp3
+    │   ├── Vypsana Fixa - Antidepresivni rybicka P&P [r0m5LCEQLM0].mp4
+    │   ├── Vypsaná fiXa  Babička [0Isai0bVRK4].mp4
+    │   ├── vypsaná fiXa - Bubetka [ntbkzPNmF2I].mp3
+    │   ├── Vypsaná fixa Bubetka [xqKBvNj3eBQ].mp4
+    │   ├── Vypsaná fiXa Člověk s přehledem [ebrC1W9gSGU].mp3
+    │   ├── Vypsaná fixa - Čtyři slunce [wVpFU4DUI1U].mp4
+    │   ├── Vypsana Fixa - Darling (Video) [XxC4YCz_154].mp4
+    │   ├── Vypsaná fiXa Děti z kouřové hory demo Smutné a veselé vraždy 96 [ap_OluzNWIw].mp3
+    │   ├── Vypsaná Fixa - Dezolát [-Rnm0N6L4Pk].mp3
+    │   ├── vypsaná fiXa - Diskokaktus [Q6rQNsMHf08].mp3
+    │   ├── Vypsaná fixa - Domácí motokrosař (V Fabric) [NBjZ8XM9KUs].mp3
+    │   ├── Vypsaná fiXa - Drogový večírek [f1WYg3mazBE].mp3
+    │   ├── Vypsaná fixa D.U.P [C-UsyhoZyvw].mp3
+    │   ├── Vypsaná fiXa  D.U.P. demo Smutné a veselé vraždy 96 [IZxtONVNuhk].mp3
+    │   ├── Vypsaná fixa - Hlava [C85OcjRpzJk].mp4
+    │   ├── Vypsaná Fixa - Holka S Lebkou [Videoklip] [D9hnaoN1Rpg].mp4
+    │   ├── Vypsaná fiXa Hotel (Official Video)[xMLfBqbxHq0].mp4
+    │   ├── vypsaná fiXa Izit Láv [p1WN8O-Gzn0].mp3
+    │   ├── Vypsaná fiXa Kdo se s náma odpoutá [vDH0Zn-TSLI].mp3
+    │   ├── Vypsaná fiXa - Komik lobotomik [HQ] [OVH9iVhn7FM].mp3
+    │   ├── Vypsaná fiXa Kouřící miminko[NCgkUR3s8hk].mp4
+    │   ├── Vypsaná fiXa Krásný smutný den [2ZxcDXUi1nE].mp3
+    │   ├── Vypsaná fiXa Kusy radosti[oLDUCMSvNYE].mp4
+    │   ├── Vypsaná fiXa Kvalita [RbYmdJfDWpk].mp3
+    │   ├── Vypsaná fixa - letadlo [l2jMTqq-HWM].mp3
+    │   ├── Vypsaná fiXa  Limity (OFFICIAL VIDEOCLIP) [ohT_K0OBzk8].mp4
+    │   ├── Vypsana FiXa - Lunapark [uIudjS5wK5s].mp3
+    │   ├── vypsaná fiXa Měla krátkou ofinu [tO1f1J6emyk].mp3
+    │   ├── Vypsaná fiXa Místo [u6FW1-KbWGw].mp3
+    │   ├── Vypsaná fiXa  Náklaďák [aXn3TccYsow].mp3
+    │   ├── vypsaná fiXa Nedělní chvilka v jiné dimenzi [Ouybls4X8UY].mp3
+    │   ├── Vypsaná fiXa Ničím nerušená chvíle [WKQ2kDmXeq4].mp3
+    │   ├── Vypsaná Fixa - Nina [cYESypbUvd4].mp3
+    │   ├── Vypsáná fixa - Odvážný mladý muž [qyJbYVciah0].mp4
+    │   ├── Vypsaná Fixa   Potápěči [wNIM09QVm2E].mp3
+    │   ├── Vypsaná fiXa - Robinson [qsQipPWNJuM].mp3
+    │   ├── Vypsaná fiXa-Samurajský meče [Cqdccm9lzYU].mp3
+    │   ├── Vypsaná Fixa - San Piego [tV1my0ilD_s].mp4
+    │   ├── Vypsaná fiXa Schovaná [Oi2AM09jfic].mp4
+    │   ├── Vypsaná fiXa - Sci-fi povídka [00T7qnLp63Y].mp3
+    │   ├── vypsaná fiXa - Show pana Loba [yfs8-YUfek0].mp3
+    │   ├── Vypsaná Fixa   Siky Romero [FWicbwoOnrg].mp4
+    │   ├── Vypsaná fiXa  Siky Romero [t491DRoSDTI].mp3
+    │   ├── Vypsaná fiXa Šúrka Mikrofón [ilQ4p2AXz4o].mp4
+    │   ├── Vypsaná fiXa Vídrholec[fShyy--1fx4].mp4
+    │   ├── Vypsaná fiXa Víři a Zívové [G1zLkhBI75c].mp3
+    │   ├── Vypsaná fiXa Výhodou je [qbaUD_hqFto].mp3
+    │   ├── Vypsaná fiXa - Závod [RRuSpzJpb3o].mp3
+    │   ├── Vypsaná FiXa - Žebříky [-z_Tos452HI].mp3
+    │   ├── Vypsaná Fixa Žeň koně [mMXieLuHfbo].mp3
+    │   ├── Vypsaná Fixa-Zuby [KOH5Jriv4GI].mp3
+    │   ├── Vysočany - Libeň[ManP07gompI].mp3
+    │   ├── Vytržený list [i-dJ5kWU4ek].mp3
+    │   ├── Vzhůru dnem [bZktH8cgvTA].mp3
+    │   ├── Vzpomínky [80RK7X0Jqq8].mp3
+    │   ├── Vzteklej skřítek [S7TasE0kWgk].mp3
+    │   ├── Waldemar Matuška - Sedm dostavniku [N2ELbsPP5nk].mp4
+    │   ├── watch while youre high[EgRCa_zuM1I].mp4
+    │   ├── Weed Card by Garfunkel and Oates (Official Video) [CRm1yqSmsGY].mp4
+    │   ├── Weird Al Yankovic - Amish Paradise (Parody of Gangstas Paradise)[lOfZLb33uCg].mp4
+    │   ├── ＂Weird Al＂ Yankovic - Like A Surgeon [notKtAgfwDA].mp4
+    │   ├── ＂Weird Al＂ Yankovic - Smells Like Nirvana [FklUAoZ6KxY].mp4
+    │   ├── ＂Weird Al＂ Yankovic - Virus Alert [zvfD5rnkTws].mp4
+    │   ├── ＂Weird Al＂ Yankovic - Word Crimes [8Gv0H-vPoDc].mp4
+    │   ├── welcome to the internet - bo burnham animated[r9bpNLgPYH0].mp4
+    │   ├── Welcome to the Internet[k1BneeJTDcU].mp4
+    │   ├── Welcome to the World's Worst Minecraft Server [A 2b2t Animation] [uEg5UPKPY70].mp4
+    │   ├── welcome to youtube. [W0quDfpfRUQ].mp4
+    │   ├── What Goes On[AC7xbqmlluo].mp3
+    │   ├── When I'm Drinking Whiskey - Rusty Cage [q3DwlC6rers].mp4
+    │   ├── WiFi hacking with a Raspberry Pi and Parrot OS[H7TjRQioaXM].mp4
+    │   ├── Wild Horses - Rolling Stones[QhwwCWkmYoc].mp3
+    │   ├── Witch Doctor UIUAA[wNo5HQVSw-s].mp3
+    │   ├── Wohnout - Bárbíno？ (OFFICIAL VIDEOCLIP) [FjMNZBRq7WQ].mp4
+    │   ├── Wohnout - Depardieu (OFFICIAL VIDEO) [89wQgydZiEo].mp4
+    │   ├── Wohnout - Kocovina (OFFICIAL VIDEOCLIP) [Jm__pR2ROmE].mp4
+    │   ├── Wohnout - Malý princ [4ibdnBNx63Y].mp4
+    │   ├── Wohnout - Svaz českých bohémů (OFFICIAL VIDEOCLIP) [EpJV6ZCo84c].mp4
+    │   ├── Work - Jono  (Official Hermitcraft Grian Song) [6_pfonWJjYo].mp4
+    │   ├── Wossví Demo [elQ8ddoIDRo].mp3
+    │   ├── www.idnes [QX-RKhOb1cY].mp3
+    │   ├── Xavier Baumaxa - ADHD [iCFRSqLnesI].mp4
+    │   ├── xavier baumaxa - držka v blátě[6_z3Fjs_rls].mp3
+    │   ├── Xavier Baumaxa - Lidé z malých vesniček[QJYf6gJzFqM].mp3
+    │   ├── Xavier Baumaxa - Pazitka[RXkyJX70J4I].mp4
+    │   ├── Xavier Baumaxa - Půjdu do Globusu (OFFICIAL MUSIC VIDEO) [8nZrEm-mEgM].mp4
+    │   ├── Xavier Baumaxa - SAMBA V KAPKÁCH CHLASTU[DhhRhHkROwI].mp4
+    │   ├── Xavier Baumaxa - Semtam lemtam[6d4nYPOFCDw].mp4
+    │   ├── Xavier Baumaxa - Semtam lemtám[mQoMs8Oa6qw].mp3
+    │   ├── XAVIER BAUMAXA - Židot[JEZQArs2grA].mp3
+    │   ├── Xindloviny 29 - Žádám omluvu (01.11.2014) [UYgpzjqWm50].mp4
+    │   ├── Xindl X - Alenka [rv5wstsYEno].mp4
+    │   ├── Xindl X - Bojovnice [5rqr2Ox5p7Q].mp3
+    │   ├── Xindl X Cool v plotě [hoQRYyoXCAM].mp3
+    │   ├── Xindl X Dysgrafik (oficiální videoklip) Play in HD!! [YK1zo8IPH7E].mp4
+    │   ├── Xindl X- Hollywood [7NYzrMG8xFM].mp3
+    │   ├── Xindl X - Hollywood [H_uMkH4zLdg].mp3
+    │   ├── Xindl X - Mimo mísu [FM-7wjjEdwY].mp4
+    │   ├── Xindl X - Na vodě [Gyk6FMPlvTE].mp4
+    │   ├── Xindl X   prase [KkOWqcEAuE8].mp3
+    │   ├── Xindl X - Pravda (Lyric Video) ft. Kuba Ryba [qS3zO1UYboQ].mp4
+    │   ├── Xindl X - Světlo na konci tunelu [2B0h6ySX8eg].mp4
+    │   ├── Xindl X - Televízny vysílení [A8_hHWOPCs0].mp3
+    │   ├── Xindl X - V blbým věku [MfUGPsssytQ].mp4
+    │   ├── Xindl X - Vítr v Kešeni [fuW1lRksfu4].mp3
+    │   ├── XINDL X - Zdravíme vás pane prasidente (Zeman _ Kurva sem, kurva tam) [O9k1Kr3EQXE].mp3
+    │   ├── You Can't Always Get What You Want [jv9sDn_2XkI].mp3
+    │   ├── You want Privacy Ditch Android & Apple and install GrapheneOS (in 8 minutes)[nHxnjcx_G34].mp4
+    │   ├── yt-dlp.exe
+    │   ├── yt-dlp.exe.old
+    │   ├── Za 100 Let[jHPtn4kXDwQ].mp3
+    │   ├── Zabili trafikantku [M7hnpVD6kuA].mp3
+    │   ├── Žáby V Hrnci [cp_rNrNYW6U].mp3
+    │   ├── Zahradník[e79uBrxPqO8].mp3
+    │   ├── Zakonči den[qko2YcXT_cs].mp3
+    │   ├── Záložka [rrZ0uXaEKqk].mp3
+    │   ├── Žalozpěv pro lehkou holku [pfqF9etBBS4].mp4
+    │   ├── Žár pozdního léta [F1VPzbmqkYg].mp3
+    │   ├── Zase střílejí do lidí - Vlasta Redl[CKD3S6EtXdY].mp3
+    │   ├── Zastavit stát! [VRLImmf4xeg].mp3
+    │   ├── Za svou pravdou stát (Which Side Are You On)[TWS2VaYf4Pk].mp3
+    │   ├── Zatím Hodně Pus [3eI3V3pltv4].mp3
+    │   ├── Zatisi s cervy [qpiw8Lu5tMo].mp3
+    │   ├── Zátoka stínů [KnDCHYNZhpo].mp3
+    │   ├── Za třičtvrtě století [1W8MksLlhvA].mp3
+    │   ├── Zavíračka [bukNt06wHiQ].mp3
+    │   ├── Záviš - Ach jo [DmKVzNQzKD0].mp3
+    │   ├── Záviš - Až vás příště potkáme [E-Bso6scyNI].mp3
+    │   ├── Záviš - Basama fousama [l0pNQ_iBmwg].mp3
+    │   ├── Záviš - Čepice [-idnbAD2IjU].mp3
+    │   ├── Zavis - cukrarska [bX6URUxQlUM].mp3
+    │   ├── Zavis -Doba je zlá [xMaRYY_E6-M].mp3
+    │   ├── Záviš - Gambler [8e1NnW0MekU].mp3
+    │   ├── Záviš - Já jsem tak líný [q8HeC7cdhTM].mp3
+    │   ├── Záviš - Karlíka se to netýká [4zB3meSJ3fg].mp3
+    │   ├── Záviš - Komunisty nemám rád [DbvKGtF0J2U].mp3
+    │   ├── Zavis -  Milan [__NlmOaZQ7o].mp3
+    │   ├── Záviš - Nemocný králík [U1aJpjZXQd0].mp3
+    │   ├── Zavis -  Nikdo to neocenil [oD08zbZ3C98].mp3
+    │   ├── Zavis - Pan Klamperna [prcTSHViS4s].mp3
+    │   ├── Zavis - Pihovatá holka, modrá kočka a dým [L_u4UOTGQvw].mp3
+    │   ├── Záviš - Praha[DU7R-yQukVk].mp3
+    │   ├── Záviš - Špeditér [XkrAiyC9IJQ].mp3
+    │   ├── Záviš - Už je to tak [qde5m79kEKc].mp3
+    │   ├── Zavřu se do sebe [MQeXuYO_YIo].mp3
+    │   ├── Zdeněk Svěrák & Szidi Tobias - Léta tučná a hubená[Fg89oUKpK4o].mp3
+    │   ├── Želé [3Sux_9BoeEk].mp3
+    │   ├── Zelená[JhDqnP93f6w].mp3
+    │   ├── Zeme antilop[5f0hN2Pndu4].mp3
+    │   ├── Zeme je deska [gNvND1s44X0].mp3
+    │   ├── Zeměžluč - Tady to máš (oficiální lyric video) [Yi4HvLzWmNE].mp4
+    │   ├── Zeměžluč - Zase o krok dál (oficiální lyric video)[2EmmW1JQTVU].mp4
+    │   ├── Ženský jsou fajn [94_kR-TLPEY].mp3
+    │   ├── Z extrému do extrému [PnqyK-BgsZY].mp3
+    │   ├── Žijeme jen ze zvyku[mbyW03Sh41c].mp3
+    │   ├── Z.I.M.A. [jf3JfjcUGPM].mp3
+    │   ├── Zíma [S_PKuYmdvkg].mp3
+    │   ├── Život neživot [VJ844-f-C_M].mp3
+    │   ├── Život[YFXMj4M29Kk].mp3
+    │   ├── Zkouška dospělosti [6gA8TtqDS7c].mp3
+    │   ├── Zkouška dospělosti [-l5-2rpAhQQ].mp3
+    │   ├── Zkušenost Velí [wL6nT8lswGQ].mp3
+    │   ├── Zlatý hřebík noci [GIVZHdgDAhQ].mp3
+    │   ├── Zlo proti zlu [OHpJrt__Uuk].mp3
+    │   ├── Z minula [0zsykQRW8Gc].mp3
+    │   ├── Znaj Se Sví Známí [vsnorxXg_0o].mp3
+    │   ├── Znamení doby [_AGlcEGohlc].mp3
+    │   ├── ZNC - Banánová republika [a0Yzqd_pkg8].mp3
+    │   ├── ZNC  Jeste Neni Cas [lnLHnctoao4].mp3
+    │   ├── Znouzecnost - Potkal potkan trpaslika [79y-RLplukM].mp3
+    │   ├── Znouzectnost - Babylon [p22unuU1GtM].mp3
+    │   ├── Znouzectnost - Bastila  (French & Indian War 2015) [KOMQUvfq6Bw].mp4
+    │   ├── Znouzectnost-C'est la Vie [YQ-TUzLtIAc].mp4
+    │   ├── Znouzectnost  Hrdinská [dZRpRIZ0iyA].mp3
+    │   ├── Znouzectnost - Jsi skvělej kus [2yHpC1Ygcas].mp3
+    │   ├── Znouzectnost - Krysař [GN6XpW4vHYM].mp4
+    │   ├── Znouzectnost - Mé království [w69qZ3bJnYg].mp3
+    │   ├── Znouzectnost- Mokasín [TzO4SyQ8L4Y].mp3
+    │   ├── ZNOUZECTNOST - Ráno bude zase líp[oyi76L-uJ_0].mp3
+    │   ├── Znouzectnost- Rebelové bez příčiny [HCamdd8OfeA].mp3
+    │   ├── Znouzectnost - Továrna (Bonboniéra! 1998) [RKYmt2oSIzA].mp3
+    │   ├── Znouzectnost - Tulipán [sdeSmz1f_H8].mp3
+    │   ├── Znouzectnost- Valíme hroudy [oTxUzZ9v3qs].mp3
+    │   ├── Zox - Line In The Sand [yT4lu84DOQw].mp4
+    │   ├── Zpátky na zahrádky _ POKÁČOVA RYCHLOVKA [JebBIt_a6yY].mp4
+    │   ├── Zpatra [f772ZpxWbLc].mp3
+    │   ├── Zrní - Dva (Official Video)[O_MxNT4_RKo].mp4
+    │   ├── Zum - zum II [5_d5rPTyw_I].mp3
+    │   ├── Zůstane jen[1ee9bDZnHSQ].mp3
+    │   ├── Zuzana Navarová - Černá kára[t3JYrNNw9i4].mp3
+    │   ├── Zuzana Navarová - Čert ví proč [O8b1waae_8o].mp4
+    │   ├── Zuzana Navarová Harfy v nebi[DYuXLMJnC0c].mp4
+    │   ├── Zuzana Navarová & KOA - Cesta dom. [uKxXLZAqOlg].mp3
+    │   ├── Zuzana Navarová - Švadlenka[JNUZV0Ni0tg].mp3
+    │   ├── Zvlášňý Škola - Plaváčci  (Official Music video 2022)[Hexnt02iIzI].mp4
+    │   ├── Zvyřátka (Live) [bcxx71yv6Bw].mp3
+    │   └── Молчат Дома (Molchat Doma) - Судно (Sudno) [HR5zpFs7YpY].mp3
+    ├── requirements.txt
+    ├── scripts
+    ├── yt_list.txt
+    └── yt_music_list.py
+
+9 directories, 1735 files
