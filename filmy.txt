@@ -1,0 +1,48 @@
+../../filmy
+├── 3 sezony v pekle.avi
+├── Audience [1990] Václav Havel.mp4
+├── Česká soda [4562].avi
+├── Cesky_mir[2010].avi
+├── Cesky_zurnal
+│   ├── Cesky_Allah.mp4
+│   ├── Delnici_bulvaru.mp4
+│   ├── Deti_statu.mp4
+│   ├── Exekuce.mp4
+│   ├── Gadzo.mp4
+│   ├── Hranice_prace.mp4
+│   ├── Krtek_a_Lao_C.mp4
+│   ├── Ma_vlast_Afganistan.mp4
+│   ├── Pancovana_republika.mp4
+│   ├── Pet_zrozeni.mp4
+│   ├── Rezezleni.mp4
+│   ├── Sandra_v_Ugande.mp4
+│   ├── Selsky_Rozum.mp4
+│   ├── Slepice_virus_a_my.mp4
+│   ├── Spoluzaci.mp4
+│   ├── Sprizneni_primou_volbou.mp4
+│   ├── Svobodu_pro_Smetanu.mp4
+│   ├── Teorie_rovnosti.mp4
+│   ├── Ubytovny.mp4
+│   ├── V_nejlepsim_zajmu_ditete.mp4
+│   ├── Vojana a ztohoven.mp4
+│   ├── Vse_pro_dobro_sveta_a_Nosovic.avi
+│   ├── Zivot_a_smrt_v_Tanvaldu.mp4
+│   └── Zlocin_pana_Chytila.mp4
+├── Čistá duše 2001.mp4
+├── Duna (2021) cz.dabing.avi
+├── Havel.mp4
+├── Kod-Enigmy---The-Imitation-Game-2014-1080p-bluray-x264-dd5-1-cz-dabing.mkv
+├── K zemi hleď CZ - DiCaprio.mp4
+├── Mimořádná událost (2022) (ceske filmy).mkv
+├── Monty Python's Life of Brian - Monty Pythonův Život Briana 1979 CZE.ENG subti.cze.eng @ToMyX;.mkv
+├── Monty Python - Svatý grál.avi
+├── Nebezpečný-kód.avi
+├── Občan Havel [2008].mp4
+├── Pupendo.avi
+├── Stopařův průvodce po Galaxii CZ celý film 2005 Komedie.flv
+├── Svet_podle_Daliborka.mp4
+├── Utopie - Nejvíc lidí žije v Číně cz titulky.mkv
+├── Vlastníci (2019).mkv
+└── V síti {18+}[2020].mkv
+
+2 directories, 44 files

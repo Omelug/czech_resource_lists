@@ -1,6 +1,6 @@
 #!/bin/bash
 
-directories=("audioknihy" "filmyy" "serialy" "knihy" "prednasky" "SCIO" "hudba")
+directories=("audioknihy" "filmy" "serialy" "knihy" "prednasky" "SCIO" "hudba" "skola")
 
 for dir in "${directories[@]}"; do
     tree "../../$dir" > "$dir.txt"
